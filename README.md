@@ -1,3 +1,3 @@
 # l10n_lv
 
-Latvian localozation
+Latvian localization for PR to https://github.com/odoo/odoo
