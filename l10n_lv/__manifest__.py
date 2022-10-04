@@ -57,5 +57,3 @@ Adds Chart of Accounts, Chart of Taxes, Fiscal Positions, Banks and Partner Titl
     'auto_install': False,
     'qweb': [],
 }
-
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
