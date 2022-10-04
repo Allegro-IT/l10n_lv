@@ -24,7 +24,7 @@ msgstr "7 dienas"
 #. module: l10n_lv
 #: model:account.payment.term,note:l10n_lv.account_payment_term_15days
 msgid "Payment terms: 7 Days"
-msgstr "Apmaksa termiņš: 7 dienas"
+msgstr "Apmaksas termiņš: 7 dienas"
 
 #. module: l10n_lv
 #: model:account.payment.term,name:l10n_lv.account_payment_term_21days
@@ -34,5 +34,5 @@ msgstr "10 dienas"
 #. module: l10n_lv
 #: model:account.payment.term,note:l10n_lv.account_payment_term_21days
 msgid "Payment terms: 10 Days"
-msgstr "Apmaksa termiņš: 10 dienas"
+msgstr "Apmaksas termiņš: 10 dienas"
 
