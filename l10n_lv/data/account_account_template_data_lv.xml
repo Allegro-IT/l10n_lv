@@ -64,42 +64,42 @@
 <!-- -->
 
     <record id="lv_account_template_1210" model="account.account.template">
-        <field name="name">Land, buildings, perennial plantings</field>
+        <field name="name">Zemes gabali, ēkas un būves un ilggadīgie stādījumi</field>
         <field name="code">1210</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1220" model="account.account.template">
-        <field name="name">Long-term investments in leased fixed assets</field>
+        <field name="name">Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos</field>
         <field name="code">1220</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1230" model="account.account.template">
-        <field name="name">Equipment and machinery</field>
+        <field name="name">Iekārtas un mašīnas</field>
         <field name="code">1230</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1240" model="account.account.template">
-        <field name="name">Other fixed assets and inventory</field>
+        <field name="name">Pārējie pamatlīdzekļi un inventārs</field>
         <field name="code">1240</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1250" model="account.account.template">
-        <field name="name">Costs of fixed asset creation and unfinished object construction</field>
+        <field name="name">Pamatlīdzekļu izveidošanas un nepabeigto celtniecības objektu izmaksas</field>
         <field name="code">1250</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1260" model="account.account.template">
-        <field name="name">Advance payments for fixed assets</field>
+        <field name="name">Avansa maksājumi par pamatlīdzekļiem</field>
         <field name="code">1260</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -108,28 +108,28 @@
 <!-- -->
 
     <record id="lv_account_template_1291" model="account.account.template">
-        <field name="name">Depreciation of land, buildings and perennial plantings (passive)</field>
+        <field name="name">Zemes gabalu, ēku un būvju un ilggadīgo stādījumu nolietojums (pasīvā)</field>
         <field name="code">1291</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1292" model="account.account.template">
-        <field name="name">Depreciation of long-term investment in leased fixed assets (passive)</field>
+        <field name="name">Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā)</field>
         <field name="code">1292</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1293" model="account.account.template">
-        <field name="name">Depreciation of equipment and machinery (passive)</field>
+        <field name="name">Iekārtu un mašīnu nolietojums (pasīvā)</field>
         <field name="code">1293</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1294" model="account.account.template">
-        <field name="name">Depreciation of other fixed assets and inventory (passive)</field>
+        <field name="name">Pārējo pamatlīdzekļu un inventāra nolietojums (pasīvā)</field>
         <field name="code">1294</field>
         <field name="user_type_id" ref="lv_account_type_1_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -138,7 +138,7 @@
 <!-- -->
 
     <record id="lv_account_template_1310" model="account.account.template">
-        <field name="name">Investment properties</field>
+        <field name="name">Ieguldījuma īpašumi</field>
         <field name="code">1310</field>
         <field name="user_type_id" ref="lv_account_type_1_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -147,7 +147,7 @@
 <!-- -->
 
     <record id="lv_account_template_1410" model="account.account.template">
-        <field name="name">Biological assets</field>
+        <field name="name">Bioloģiskie aktīvi</field>
         <field name="code">1410</field>
         <field name="user_type_id" ref="lv_account_type_1_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -156,56 +156,56 @@
 <!-- -->
 
     <record id="lv_account_template_1510" model="account.account.template">
-        <field name="name">Participation in the capital of related companies</field>
+        <field name="name">Līdzdalība radniecīgo sabiedrību kapitālā</field>
         <field name="code">1510</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1520" model="account.account.template">
-        <field name="name">Loans to related companies</field>
+        <field name="name">Aizdevumi radniecīgajām sabiedrībām</field>
         <field name="code">1520</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1530" model="account.account.template">
-        <field name="name">Participation in the capital of associated companies</field>
+        <field name="name">Līdzdalība asociēto sabiedrību kapitālā</field>
         <field name="code">1530</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1540" model="account.account.template">
-        <field name="name">Loans to associated companies</field>
+        <field name="name">Aizdevumi asociētajām sabiedrībām</field>
         <field name="code">1540</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1550" model="account.account.template">
-        <field name="name">Other securities and investments</field>
+        <field name="name">Pārējie vērtspapīri un ieguldījumi</field>
         <field name="code">1550</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1560" model="account.account.template">
-        <field name="name">Other loans and other long-term debtors</field>
+        <field name="name">Pārējie aizdevumi un citi ilgtermiņa debitori</field>
         <field name="code">1560</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1570" model="account.account.template">
-        <field name="name">Own shares</field>
+        <field name="name">Pašu akcijas un daļas</field>
         <field name="code">1570</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1580" model="account.account.template">
-        <field name="name">Loans to shareholders or members and management</field>
+        <field name="name">Aizdevumi akcionāriem vai dalībniekiem un vadībai</field>
         <field name="code">1580</field>
         <field name="user_type_id" ref="lv_account_type_1_5"/>
         <field name="reconcile" eval="True"/>
@@ -215,42 +215,42 @@
 <!-- -->
 
     <record id="lv_account_template_2110" model="account.account.template">
-        <field name="name">Raw materials, basic materials and auxiliary materials</field>
+        <field name="name">Izejvielas, pamatmateriāli un palīgmateriāli</field>
         <field name="code">2110</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2120" model="account.account.template">
-        <field name="name">Unfinished production</field>
+        <field name="name">Nepabeigtie ražojumi</field>
         <field name="code">2120</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2130" model="account.account.template">
-        <field name="name">Finished products and goods for sale</field>
+        <field name="name">Gatavie ražojumi un preces pārdošanai</field>
         <field name="code">2130</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2140" model="account.account.template">
-        <field name="name">Pending orders</field>
+        <field name="name">Nepabeigtie pasūtījumi</field>
         <field name="code">2140</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2150" model="account.account.template">
-        <field name="name">Advance payments for goods</field>
+        <field name="name">Avansa maksājumi par precēm</field>
         <field name="code">2150</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2160" model="account.account.template">
-        <field name="name">Working animals and productive animals</field>
+        <field name="name">Darba dzīvnieki un produktīvie dzīvnieki</field>
         <field name="code">2160</field>
         <field name="user_type_id" ref="lv_account_type_2_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -259,7 +259,7 @@
 <!-- -->
 
     <record id="lv_account_template_2210" model="account.account.template">
-        <field name="name">Long-term investments for sale</field>
+        <field name="name">Pārdošanai turēti ilgtermiņa ieguldījumi</field>
         <field name="code">2210</field>
         <field name="user_type_id" ref="lv_account_type_2_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -268,7 +268,7 @@
 <!-- -->
 
     <record id="lv_account_template_2310" model="account.account.template">
-        <field name="name">Debtors</field>
+        <field name="name">Pircēju un pasūtītāju parādi</field>
         <field name="code">2310</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -276,7 +276,7 @@
     </record>
 
     <record id="lv_account_template_2320" model="account.account.template">
-        <field name="name">Bills of exchange received for deliveries and customers</field>
+        <field name="name">Par piegādēm un pasūtītājiem saņemtie vekseļi</field>
         <field name="code">2320</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -284,7 +284,7 @@
     </record>
 
     <record id="lv_account_template_2330" model="account.account.template">
-        <field name="name">Subsidiary debts</field>
+        <field name="name">Meitas uzņēmuma parādi</field>
         <field name="code">2330</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -292,7 +292,7 @@
     </record>
 
     <record id="lv_account_template_2340" model="account.account.template">
-        <field name="name">Debts of related companies</field>
+        <field name="name">Saistīto uzņēmumu parādi</field>
         <field name="code">2340</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -300,7 +300,7 @@
     </record>
 
     <record id="lv_account_template_2350" model="account.account.template">
-        <field name="name">Settlements with other debtors</field>
+        <field name="name">Norēķini ar citiem debitoriem</field>
         <field name="code">2350</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -308,7 +308,7 @@
     </record>
 
     <record id="lv_account_template_2360" model="account.account.template">
-        <field name="name">Unpaid company capital settlements</field>
+        <field name="name">Norēķini par parakstītā sabiedrības kapitālā neiemaksātās summām</field>
         <field name="code">2360</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -316,7 +316,7 @@
     </record>
 
     <record id="lv_account_template_2370" model="account.account.template">
-        <field name="name">Short-term loans for company members and management</field>
+        <field name="name">Īstermiņa aizdevumi sabiedrības dalībniekiem un vadībai</field>
         <field name="code">2370</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -324,7 +324,7 @@
     </record>
 
     <record id="lv_account_template_2380" model="account.account.template">
-        <field name="name">Settlements of claims against personnel and short-term loans to personnel</field>
+        <field name="name">Norēķini par prasībām pret personālu un īstermiņa aizdevumi personālam</field>
         <field name="code">2380</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -332,7 +332,7 @@
     </record>
 
     <record id="lv_account_template_2390" model="account.account.template">
-        <field name="name">Overpaid taxes, prepaid taxes</field>
+        <field name="name">Pārmaksātie nodokļi, iepriekš samaksātie nodokļi</field>
         <field name="code">2390</field>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="reconcile" eval="True"/>
@@ -342,14 +342,14 @@
 <!-- -->
 
     <record id="lv_account_template_2410" model="account.account.template">
-        <field name="name">Future expenses</field>
+        <field name="name">Nākamo periodu izdevumi</field>
         <field name="code">2410</field>
         <field name="user_type_id" ref="lv_account_type_2_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2420" model="account.account.template">
-        <field name="name">Share issue valuation (disagio)</field>
+        <field name="name">Akciju emisijas nocenojums (disagio)</field>
         <field name="code">2420</field>
         <field name="user_type_id" ref="lv_account_type_2_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -358,28 +358,28 @@
 <!-- -->
 
     <record id="lv_account_template_2510" model="account.account.template">
-        <field name="name">Shares and shares of the subsidiary company</field>
+        <field name="name">Meitas uzņēmuma akcijas un daļas</field>
         <field name="code">2510</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2520" model="account.account.template">
-        <field name="name">Shares and shares of related companies</field>
+        <field name="name">Saistīto uzņēmumu akcijas un daļas</field>
         <field name="code">2520</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2530" model="account.account.template">
-        <field name="name">Shares of own company</field>
+        <field name="name">Pašu uzņēmuma akcijas un daļas</field>
         <field name="code">2530</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2540" model="account.account.template">
-        <field name="name">Other securities and equity participation</field>
+        <field name="name">Pārējie vērtspapīri un līdzdalība kapitālos</field>
         <field name="code">2540</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -390,42 +390,42 @@
     <!-- Bank and Cash accounts will be created automatically -->
 
 <!--    <record id="lv_account_template_2611" model="account.account.template">
-        <field name="name">Cash</field>
+        <field name="name">Kase</field>
         <field name="code">2611</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2621" model="account.account.template">
-        <field name="name">Bank accounts</field>
+        <field name="name">Norēķinu konti bankās</field>
         <field name="code">2621</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record> -->
 
     <record id="lv_account_template_2640" model="account.account.template">
-        <field name="name">Credit notes, checks and special forms of payment accounts</field>
+        <field name="name">Akreditīvi, čeki un īpašu norēķina formu konti</field>
         <field name="code">2640</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2650" model="account.account.template">
-        <field name="name">Other bank accounts</field>
+        <field name="name">Citi konti bankās</field>
         <field name="code">2650</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2670" model="account.account.template">
-        <field name="name">Other funds</field>
+        <field name="name">Pārējie naudas līdzekļi</field>
         <field name="code">2670</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2690" model="account.account.template">
-        <field name="name">Cash in transit</field>
+        <field name="name">Nauda ceļā</field>
         <field name="code">2690</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -434,56 +434,56 @@
 <!-- -->
 
     <record id="lv_account_template_3110" model="account.account.template">
-        <field name="name">Capital of own shares</field>
+        <field name="name">Akciju vai daļu kapitāls (pamatkapitāls)</field>
         <field name="code">3110</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3120" model="account.account.template">
-        <field name="name">Premium of shares</field>
+        <field name="name">Akciju (daļu) emisijas uzcenojums</field>
         <field name="code">3120</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3130" model="account.account.template">
-        <field name="name">Revaluation reserve for long-term investments</field>
+        <field name="name">Ilgtermiņa ieguldījumu pārvērtēšanas rezerve</field>
         <field name="code">3130</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3140" model="account.account.template">
-        <field name="name">Revaluation reserve for financial instruments</field>
+        <field name="name">Finanšu instrumentu pārvērtēšanas rezerve</field>
         <field name="code">3140</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3310" model="account.account.template">
-        <field name="name">Statutory reserves</field>
+        <field name="name">Likumā noteiktās rezerves</field>
         <field name="code">3310</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3320" model="account.account.template">
-        <field name="name">Reserves for own shares or parts</field>
+        <field name="name">Rezerves pašu akcijām vai daļām</field>
         <field name="code">3320</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3330" model="account.account.template">
-        <field name="name">Reserves specified in the company's articles of association</field>
+        <field name="name">Sabiedrības statūtos noteiktās rezerves</field>
         <field name="code">3330</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3340" model="account.account.template">
-        <field name="name">Other reserves</field>
+        <field name="name">Pārējās rezerves</field>
         <field name="code">3340</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -492,14 +492,14 @@
 <!-- -->
 
     <record id="lv_account_template_3410" model="account.account.template">
-        <field name="name">Retained earnings</field>
+        <field name="name">Iepriekšējo gadu nesadalītā peļņa</field>
         <field name="code">3410</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_3420" model="account.account.template">
-        <field name="name">Retained earnings for the reporting year</field>
+        <field name="name">Pārskata gada nesadalītā peļņa</field>
         <field name="code">3420</field>
         <field name="user_type_id" ref="lv_account_type_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -508,7 +508,7 @@
 <!-- -->
 
     <record id="lv_account_template_4110" model="account.account.template">
-        <field name="name">Savings for pensions and similar liabilities</field>
+        <field name="name">Uzkrājumi pensijām un tamlīdzīgām saistībām</field>
         <field name="code">4110</field>
         <field name="user_type_id" ref="lv_account_type_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -517,7 +517,7 @@
 <!-- -->
 
     <record id="lv_account_template_4210" model="account.account.template">
-        <field name="name">Provisions for estimated taxes</field>
+        <field name="name">Uzkrājumi paredzamajiem nodokļiem</field>
         <field name="code">4210</field>
         <field name="user_type_id" ref="lv_account_type_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -526,7 +526,7 @@
 <!-- -->
 
     <record id="lv_account_template_4310" model="account.account.template">
-        <field name="name">Other savings</field>
+        <field name="name">Citi uzkrājumi</field>
         <field name="code">4310</field>
         <field name="user_type_id" ref="lv_account_type_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>

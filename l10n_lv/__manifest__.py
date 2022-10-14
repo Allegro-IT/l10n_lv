@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    Part of Odoo.
-#    Copyright (C) 2021 Allegro IT (<http://www.allegro.lv/>)
+#    Copyright (C) 2021 Allegro IT (<https://allegro.lv/>)
 #                       E-mail: <info@allegro.lv>
 #                       Address: <Vienibas gatve 109 LV-1058 Riga Latvia>
 #                       Phone: +371 67289467
@@ -31,7 +31,7 @@
 Adds Chart of Accounts, Chart of Taxes, Fiscal Positions, Banks and Partner Titles.
 """,
     'author': 'Allegro IT',
-    'website': 'http://www.allegro.lv',
+    'website': 'https://allegro.lv',
     'license': 'LGPL-3',
     'images': [],
     'depends': [
