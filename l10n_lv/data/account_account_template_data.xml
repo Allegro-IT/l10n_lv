@@ -3,36 +3,36 @@
 
 <!-- Accounts -->
 
-    <record id="lv_account_template_1110" model="account.account.template">
-        <field name="name">Attīstības izmaksas</field>
+     <record id="lv_account_template_1110" model="account.account.template">
+        <field name="name">Costs of development</field>
         <field name="code">1110</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1120" model="account.account.template">
-        <field name="name">Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības</field>
+        <field name="name">Concessions, patents, licenses, trademarks and similar rights</field>
         <field name="code">1120</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1130" model="account.account.template">
-        <field name="name">Citi nemateriālie ieguldījumi</field>
+        <field name="name">Other intangible assets</field>
         <field name="code">1130</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1140" model="account.account.template">
-        <field name="name">Nemateriālā vērtība</field>
+        <field name="name">Goodwill</field>
         <field name="code">1140</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1150" model="account.account.template">
-        <field name="name">Avansa maksājumi par nemateriālajiem ieguldījumiem</field>
+        <field name="name">Advance payments for intangible assets</field>
         <field name="code">1150</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -41,26 +41,25 @@
 <!-- -->
 
     <record id="lv_account_template_1191" model="account.account.template">
-        <field name="name">Attīstības izmaksu norakstītā daļa (pasīvā)</field>
+        <field name="name">Written-off portion of development costs (passive)</field>
         <field name="code">1191</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1192" model="account.account.template">
-        <field name="name">Koncesiju, patentu, licenču, preču zīmju un tamlīdzīgu tiesību norakstītā daļa (pasīvā)</field>
+        <field name="name">Written-off portion of concessions, patents, licenses, trademarks and similar rights (passive)</field>
         <field name="code">1192</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_1193" model="account.account.template">
-        <field name="name">Citu nemateriālo ieguldījumu vērtības norakstītā daļa (pasīvā)</field>
+        <field name="name">The written-off part of the value of other intangible investments (liability)</field>
         <field name="code">1193</field>
         <field name="user_type_id" ref="lv_account_type_1_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
-
 <!-- -->
 
     <record id="lv_account_template_1210" model="account.account.template">
@@ -535,7 +534,7 @@
 <!-- -->
 
     <record id="lv_account_template_5110" model="account.account.template">
-        <field name="name">Aizņēmumi pret obligācijām</field>
+        <field name="name">Borrowing against bonds</field>
         <field name="code">5110</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -543,7 +542,7 @@
     </record>
 
     <record id="lv_account_template_5120" model="account.account.template">
-        <field name="name">Akcijās pārvēršamie aizņēmumi</field>
+        <field name="name">Loans convertible into shares</field>
         <field name="code">5120</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -553,7 +552,7 @@
 <!-- -->
 
     <record id="lv_account_template_5131" model="account.account.template">
-        <field name="name">Īstermiņa aizņēmumi no kredītiestādēm</field>
+        <field name="name">Short-term loans from credit institutions</field>
         <field name="code">5131</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -561,7 +560,7 @@
     </record>
 
     <record id="lv_account_template_5132" model="account.account.template">
-        <field name="name">Ilgtermiņa aizņēmumi no kredītiestādēm</field>
+        <field name="name">Long-term loans from credit institutions</field>
         <field name="code">5132</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -569,7 +568,7 @@
     </record>
 
     <record id="lv_account_template_5140" model="account.account.template">
-        <field name="name">Citi aizņēmumi</field>
+        <field name="name">Other loans</field>
         <field name="code">5140</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -579,7 +578,7 @@
 <!-- -->
 
     <record id="lv_account_template_5210" model="account.account.template">
-        <field name="name">No pircējiem saņemtie avansi</field>
+        <field name="name">Advances received from buyers</field>
         <field name="code">5210</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -589,7 +588,7 @@
 <!-- -->
 
     <record id="lv_account_template_5310" model="account.account.template">
-        <field name="name">Parādi piegādātājiem un darbuzņēmējiem</field>
+        <field name="name">Creditors (debts to suppliers and contractors)</field>
         <field name="code">5310</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -599,7 +598,7 @@
 <!-- -->
 
     <record id="lv_account_template_5410" model="account.account.template">
-        <field name="name">Maksājamie vekseļi</field>
+        <field name="name">Bills (promissory notes) payable</field>
         <field name="code">5410</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -609,7 +608,7 @@
 <!-- -->
 
     <record id="lv_account_template_5510" model="account.account.template">
-        <field name="name">Parādi radniecīgajām sabiedrībām</field>
+        <field name="name">Debts to related companies</field>
         <field name="code">5510</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -617,7 +616,7 @@
     </record>
 
     <record id="lv_account_template_5520" model="account.account.template">
-        <field name="name">Parādi asociētajām sabiedrībām</field>
+        <field name="name">Debts to associated companies</field>
         <field name="code">5520</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -627,7 +626,7 @@
 <!-- -->
 
     <record id="lv_account_template_5610" model="account.account.template">
-        <field name="name">Norēķini par darba algu</field>
+        <field name="name">Settlements for labor wages (payroll)</field>
         <field name="code">5610</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -635,7 +634,7 @@
     </record>
 
     <record id="lv_account_template_5620" model="account.account.template">
-        <field name="name">Norēķini par ieturējumiem no darba algas (izņemot nodokļus)</field>
+        <field name="name">Settlements for deductions from wages (excluding taxes)</field>
         <field name="code">5620</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -643,7 +642,7 @@
     </record>
 
     <record id="lv_account_template_5650" model="account.account.template">
-        <field name="name">Norēķini par parādiem personālam</field>
+        <field name="name">Settlements for debts to personnel</field>
         <field name="code">5650</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -653,7 +652,7 @@
 <!-- -->
 
     <record id="lv_account_template_5710" model="account.account.template">
-        <field name="name">Norēķini par uzņēmumu ienākuma nodokli</field>
+        <field name="name">Settlements for income tax</field>
         <field name="code">5710</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -663,7 +662,7 @@
 <!-- -->
 
     <record id="lv_account_template_5721" model="account.account.template">
-        <field name="name">Norēķini par pievienotās vērtības nodokli</field>
+        <field name="name">Settlements for value added tax</field>
         <field name="code">5721</field>
         <field name="user_type_id" ref="lv_account_type_8_5"/>
         <field name="reconcile" eval="True"/>
@@ -671,7 +670,7 @@
     </record>
 
     <record id="lv_account_template_5722" model="account.account.template">
-        <field name="name">Valsts budžetā samaksātais pievienotās vērtības nodoklis</field>
+        <field name="name">Value added tax paid</field>
         <field name="code">5722</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -679,7 +678,7 @@
     </record>
 
     <record id="lv_account_template_5723" model="account.account.template">
-        <field name="name">Aprēķinātas nokavējuma naudas par pievienotās vērtības nodokli</field>
+        <field name="name">Calculated late fees for value added tax</field>
         <field name="code">5723</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -689,7 +688,7 @@
 <!-- -->
 
     <record id="lv_account_template_5731" model="account.account.template">
-        <field name="name">Norēķini par valsts sociālās apdrošināšanas obligātajām iemaksām</field>
+        <field name="name">Settlements for mandatory state social insurance contributions</field>
         <field name="code">5731</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -697,7 +696,7 @@
     </record>
 
     <record id="lv_account_template_5732" model="account.account.template">
-        <field name="name">Valsts budžetā samaksātās valsts sociālās apdrošināšanas obligātās iemaksas</field>
+        <field name="name">Mandatory state social insurance contributions paid to the state budget</field>
         <field name="code">5732</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -705,7 +704,7 @@
     </record>
 
     <record id="lv_account_template_5733" model="account.account.template">
-        <field name="name">Aprēķinātās nokavējuma naudas par valsts sociālās apdrošināšanas obligātajām iemaksām</field>
+        <field name="name">Calculated overdue fines for mandatory state social insurance contributions</field>
         <field name="code">5733</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -715,7 +714,7 @@
 <!-- -->
 
     <record id="lv_account_template_5741" model="account.account.template">
-        <field name="name">Norēķini par uzņēmējdarbības riska valsts nodevām</field>
+        <field name="name">Settlements for business risk state fees</field>
         <field name="code">5741</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -723,7 +722,7 @@
     </record>
 
     <record id="lv_account_template_5742" model="account.account.template">
-        <field name="name">Valsts budžetā samaksātās uzņēmējdarbības riska valsts nodevas</field>
+        <field name="name">Business risk state fees paid to the state budget</field>
         <field name="code">5742</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -731,7 +730,7 @@
     </record>
 
     <record id="lv_account_template_5743" model="account.account.template">
-        <field name="name">Aprēķinātās nokavējuma naudas par uzņēmējdarbības riska valsts nodevām</field>
+        <field name="name">Calculated late fees for business risk state fees</field>
         <field name="code">5743</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -739,7 +738,7 @@
     </record>
 
     <record id="lv_account_template_5744" model="account.account.template">
-        <field name="name">PVN no saņemtajiem avansiem</field>
+        <field name="name">VAT from advances received</field>
         <field name="code">5744</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -749,7 +748,7 @@
 <!-- -->
 
     <record id="lv_account_template_5751" model="account.account.template">
-        <field name="name">Norēķini par iedzīvotāju ienākuma nodokli</field>
+        <field name="name">Settlements for personal income tax</field>
         <field name="code">5751</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -757,7 +756,7 @@
     </record>
 
     <record id="lv_account_template_5752" model="account.account.template">
-        <field name="name">Valsts budžetā samaksātais iedzīvotāju ienākuma nodoklis</field>
+        <field name="name">Personal income tax paid to the state budget</field>
         <field name="code">5752</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -775,7 +774,7 @@
 <!-- -->
 
     <record id="lv_account_template_5810" model="account.account.template">
-        <field name="name">Norēķini par pārskata gada dividendēm</field>
+        <field name="name">Settlements for dividends for the reporting year</field>
         <field name="code">5810</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -783,7 +782,7 @@
     </record>
 
     <record id="lv_account_template_5820" model="account.account.template">
-        <field name="name">Norēķini par iepriekšējo gadu neizmaksātajām dividendēm</field>
+        <field name="name">Settlements for unpaid dividends of previous years</field>
         <field name="code">5820</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -793,7 +792,7 @@
 <!-- -->
 
     <record id="lv_account_template_5910" model="account.account.template">
-        <field name="name">Nākamo periodu ieņēmumi</field>
+        <field name="name">Deferred earnings</field>
         <field name="code">5910</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -801,7 +800,7 @@
     </record>
 
     <record id="lv_account_template_5920" model="account.account.template">
-        <field name="name">Uzkrātās saistības</field>
+        <field name="name">Accrued liabilities</field>
         <field name="code">5920</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -809,7 +808,7 @@
     </record>
 
     <record id="lv_account_template_5930" model="account.account.template">
-        <field name="name">Atvasinātie finanšu instrumenti</field>
+        <field name="name">Derivative financial instruments</field>
         <field name="code">5930</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
