@@ -818,7 +818,7 @@
 <!-- -->
 
     <record id="lv_account_template_6110" model="account.account.template">
-        <field name="name">Ieņēmumi no pamatdarbības produkcijas un pakalpojumu pārdošanas</field>
+        <field name="name">Revenues from the sale of core products and services</field>
         <field name="code">6110</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -827,14 +827,14 @@
 <!-- -->
 
     <record id="lv_account_template_6210" model="account.account.template">
-        <field name="name">Ar nodokļiem neapliekamie pārdošanas ieņēmumi</field>
+        <field name="name">Non-taxable revenues</field>
         <field name="code">6210</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6220" model="account.account.template">
-        <field name="name">Ar īpašiem nodokļiem apliekamie pārdošanas ieņēmumi</field>
+        <field name="name">Sales revenue subject to special taxes</field>
         <field name="code">6220</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
