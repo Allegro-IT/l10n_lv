@@ -664,7 +664,7 @@
     <record id="lv_account_template_5721" model="account.account.template">
         <field name="name">Settlements for value added tax</field>
         <field name="code">5721</field>
-        <field name="user_type_id" ref="lv_account_type_8_5"/>
+        <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
