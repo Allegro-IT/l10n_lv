@@ -843,28 +843,28 @@
 <!-- -->
 
     <record id="lv_account_template_6310" model="account.account.template">
-        <field name="name">Komisijas un starpniecības ieņēmumi</field>
+        <field name="name">Commission and brokerage income</field>
         <field name="code">6310</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6320" model="account.account.template">
-        <field name="name">Ieņēmumi no atkritumu pārstrādes un realizācijas</field>
+        <field name="name">Revenues from waste processing and sale</field>
         <field name="code">6320</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6330" model="account.account.template">
-        <field name="name">Ieņēmumi no taras realizācijas</field>
+        <field name="name">Revenues from the sale of containers</field>
         <field name="code">6330</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6340" model="account.account.template">
-        <field name="name">Ar nodokļiem neapliekamie ieņēmumi</field>
+        <field name="name">Non-taxable income</field>
         <field name="code">6340</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -873,21 +873,21 @@
 <!-- -->
 
     <record id="lv_account_template_6410" model="account.account.template">
-        <field name="name">Piešķirtās skonto atlaides</field>
+        <field name="name">Discounts granted</field>
         <field name="code">6410</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6420" model="account.account.template">
-        <field name="name">Piešķirtie bonusi</field>
+        <field name="name">Bonuses granted</field>
         <field name="code">6420</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6430" model="account.account.template">
-        <field name="name">Piešķirtie rabati un citas tirdzniecības atlaides</field>
+        <field name="name">Granted rebates and other trade discounts</field>
         <field name="code">6430</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -896,63 +896,63 @@
 <!-- -->
 
     <record id="lv_account_template_6510" model="account.account.template">
-        <field name="name">Ieņēmumi no vērtspapīru kursa paaugstināšanās</field>
+        <field name="name">Income from the increase in the price of securities</field>
         <field name="code">6510</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6520" model="account.account.template">
-        <field name="name">Ieņēmumi no pamatlīdzekļu pārdošanas</field>
+        <field name="name">Income from the sale of fixed assets</field>
         <field name="code">6520</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6530" model="account.account.template">
-        <field name="name">Ieņēmumi no zemes gabalu iznomāšanas</field>
+        <field name="name">Income from the rental of plots of land</field>
         <field name="code">6530</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6540" model="account.account.template">
-        <field name="name">Ieņēmumi no apgrozāmo līdzekļu pārdošanas</field>
+        <field name="name">Proceeds from the sale of current assets</field>
         <field name="code">6540</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6550" model="account.account.template">
-        <field name="name">Ieņēmumi no pamatlīdzekļu iznomāšanas</field>
+        <field name="name">Income from leasing of fixed assets</field>
         <field name="code">6550</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6560" model="account.account.template">
-        <field name="name">Ieņēmumos pārskaitītais rezervju un uzkrājumu samazinājums</field>
+        <field name="name">Decrease in reserves and provisions transferred to revenue</field>
         <field name="code">6560</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6570" model="account.account.template">
-        <field name="name">Iepriekšējo gadu nodokļa samazinājums</field>
+        <field name="name">Tax reduction of previous years</field>
         <field name="code">6570</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6580" model="account.account.template">
-        <field name="name">Papildus ieguldījumi un citi ieņēmumi</field>
+        <field name="name">Additional investments and other income</field>
         <field name="code">6580</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6590" model="account.account.template">
-        <field name="name">Pašu uzņēmuma kapitālieguldījumiem izpildītie darbi</field>
+        <field name="name">Works performed for the company's own capital investments</field>
         <field name="code">6590</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -961,28 +961,28 @@
 <!-- -->
 
     <record id="lv_account_template_6610" model="account.account.template">
-        <field name="name">Gatavās produkcijas krājumu un vērtības izmaiņas</field>
+        <field name="name">Changes in stocks and value of finished products</field>
         <field name="code">6610</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6620" model="account.account.template">
-        <field name="name">Nepabeigto ražojumu krājumu un vērtības izmaiņas</field>
+        <field name="name">Changes in inventories and value of work-in-progress</field>
         <field name="code">6620</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6630" model="account.account.template">
-        <field name="name">Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas</field>
+        <field name="name">Changes in backorder balances and value</field>
         <field name="code">6630</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6640" model="account.account.template">
-        <field name="name">Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas</field>
+        <field name="name">Changes in the herd value of productive and working animals</field>
         <field name="code">6640</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -991,7 +991,7 @@
 <!-- -->
 
     <record id="lv_account_template_6710" model="account.account.template">
-        <field name="name">Citu periodu ieņēmumi, kas attiecas uz pārskata periodu</field>
+        <field name="name">Revenues of other periods relating to the reporting period</field>
         <field name="code">6710</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1000,56 +1000,56 @@
 <!-- -->
 
     <record id="lv_account_template_6910" model="account.account.template">
-        <field name="name">Dzīvokļu saimniecības ieņēmumi</field>
+        <field name="name">Income from apartment management</field>
         <field name="code">6910</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6920" model="account.account.template">
-        <field name="name">Komunālās saimniecības ieņēmumi</field>
+        <field name="name">Utility income</field>
         <field name="code">6920</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6930" model="account.account.template">
-        <field name="name">Sadzīves pakalpojumu ieņēmumi</field>
+        <field name="name">Revenue frpom domestic services</field>
         <field name="code">6930</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6940" model="account.account.template">
-        <field name="name">Sabiedriskās ēdināšanas ieņēmumi</field>
+        <field name="name">Catering revenue</field>
         <field name="code">6940</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6950" model="account.account.template">
-        <field name="name">Izglītības iestāžu ieņēmumi</field>
+        <field name="name">Income of educational institutions</field>
         <field name="code">6950</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6960" model="account.account.template">
-        <field name="name">Medicīnas iestāžu ieņēmumi</field>
+        <field name="name">v</field>
         <field name="code">6960</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6970" model="account.account.template">
-        <field name="name">Kultūras un sporta iestāžu un pasākumu ieņēmumi</field>
+        <field name="name">Revenues of sports institutions and from culture events</field>
         <field name="code">6970</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_6980" model="account.account.template">
-        <field name="name">Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi</field>
+        <field name="name">Other revenues of social infrastructure institutions and events</field>
         <field name="code">6980</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1058,63 +1058,63 @@
 <!-- -->
 
     <record id="lv_account_template_7110" model="account.account.template">
-        <field name="name">Izejvielu un materiālu iepirkšanas un piegādes izdevumi</field>
+        <field name="name">Cost of raw materials and delivery expenses</field>
         <field name="code">7110</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7120" model="account.account.template">
-        <field name="name">Preču iepirkšanas un piegādes izdevumi</field>
+        <field name="name">Cost of goods sold and delivery expenses</field>
         <field name="code">7120</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7130" model="account.account.template">
-        <field name="name">Saņemtās atlaides</field>
+        <field name="name">Discounts received</field>
         <field name="code">7130</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7140" model="account.account.template">
-        <field name="name">Taras izdevumi</field>
+        <field name="name">Cost of packaging</field>
         <field name="code">7140</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7150" model="account.account.template">
-        <field name="name">Muitas un ievednodevas</field>
+        <field name="name">Customs and import duties</field>
         <field name="code">7150</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7160" model="account.account.template">
-        <field name="name">Pārējie ārējie izdevumi</field>
+        <field name="name">Other external expenses</field>
         <field name="code">7160</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7170" model="account.account.template">
-        <field name="name">Samaksa par darbiem un pakalpojumiem no ārienes</field>
+        <field name="name">Cost of external work and services</field>
         <field name="code">7170</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7180" model="account.account.template">
-        <field name="name">Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)</field>
+        <field name="name">Other material expenses (tax on the use of natural resources, stumpage money, etc.)</field>
         <field name="code">7180</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7190" model="account.account.template">
-        <field name="name">Pirkto materiālu un preču krājumu un vērtības izmaiņas</field>
+        <field name="name">Changes in inventory and value of purchased materials and goods</field>
         <field name="code">7190</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1123,28 +1123,28 @@
 <!-- -->
 
     <record id="lv_account_template_7210" model="account.account.template">
-        <field name="name">Strādnieku algas</field>
+        <field name="name">Employee salaries</field>
         <field name="code">7210</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7220" model="account.account.template">
-        <field name="name">Pārvaldes personāla un administratīvā personāla algas</field>
+        <field name="name">Salaries of management and administrative staff</field>
         <field name="code">7220</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7230" model="account.account.template">
-        <field name="name">Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas</field>
+        <field name="name">Salaries of employees of social infrastructure institutions and events</field>
         <field name="code">7230</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7240" model="account.account.template">
-        <field name="name">Pārējās personāla izmaksas</field>
+        <field name="name">Other personnel costs</field>
         <field name="code">7240</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1153,14 +1153,14 @@
 <!-- -->
 
     <record id="lv_account_template_7310" model="account.account.template">
-        <field name="name">Sociālais nodoklis</field>
+        <field name="name">Social tax</field>
         <field name="code">7310</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7320" model="account.account.template">
-        <field name="name">Pārējās sociālās izmaksas</field>
+        <field name="name">Other social costs</field>
         <field name="code">7320</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1169,21 +1169,21 @@
 <!-- -->
 
     <record id="lv_account_template_7410" model="account.account.template">
-        <field name="name">Nemateriālo ieguldījumu vērtības norakstīšana</field>
+        <field name="name">Writing off the value of intangible assets</field>
         <field name="code">7410</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7420" model="account.account.template">
-        <field name="name">Pamatlīdzekļu nolietojums</field>
+        <field name="name">Depreciation of fixed assets</field>
         <field name="code">7420</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7440" model="account.account.template">
-        <field name="name">Apgrozāmo līdzekļu vērtības norakstīšana</field>
+        <field name="name">Writing off the value of current assets</field>
         <field name="code">7440</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1192,42 +1192,42 @@
 <!-- -->
 
     <record id="lv_account_template_7510" model="account.account.template">
-        <field name="name">Dabas aizsardzības izdevumi</field>
+        <field name="name">Nature conservation expenses</field>
         <field name="code">7510</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7530" model="account.account.template">
-        <field name="name">Nodevas par ražošanā izmantotiem zemes gabaliem</field>
+        <field name="name">Fees for plots of land used in production</field>
         <field name="code">7530</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7540" model="account.account.template">
-        <field name="name">Apdrošināšanas maksājumi (izņemot darbinieku apdrošināšanu)</field>
+        <field name="name">Insurance payments (except employee insurance)</field>
         <field name="code">7540</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7550" model="account.account.template">
-        <field name="name">Pārējie saimnieciskās darbības izdevumi</field>
+        <field name="name">Other economic activity expenses</field>
         <field name="code">7550</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7560" model="account.account.template">
-        <field name="name">Strādnieku vervēšanas un apmācības izdevumi</field>
+        <field name="name">Recruitment and training expenses</field>
         <field name="code">7560</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7570" model="account.account.template">
-        <field name="name">Komandējumu izdevumi</field>
+        <field name="name">Business trip expenses</field>
         <field name="code">7570</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1236,35 +1236,35 @@
 <!-- -->
 
     <record id="lv_account_template_7610" model="account.account.template">
-        <field name="name">Iesaiņojamais materiāls, tara</field>
+        <field name="name">Costs of packaging material and containers</field>
         <field name="code">7610</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7620" model="account.account.template">
-        <field name="name">Preču transporta izdevumi</field>
+        <field name="name">Cost of goods transportation</field>
         <field name="code">7620</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7630" model="account.account.template">
-        <field name="name">Preču transporta apdrošināšana</field>
+        <field name="name">Insurance of goods transportation</field>
         <field name="code">7630</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7640" model="account.account.template">
-        <field name="name">Samaksātās komisijas naudas</field>
+        <field name="name">Commissions paid</field>
         <field name="code">7640</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7650" model="account.account.template">
-        <field name="name">Citi pārdošanas izdevumi</field>
+        <field name="name">Other sales expenses</field>
         <field name="code">7650</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1273,49 +1273,49 @@
 <!-- -->
 
     <record id="lv_account_template_7710" model="account.account.template">
-        <field name="name">Sakaru izdevumi</field>
+        <field name="name">Communication expenses</field>
         <field name="code">7710</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7720" model="account.account.template">
-        <field name="name">Kantora (biroja) izdevumi</field>
+        <field name="name">Office expenses</field>
         <field name="code">7720</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7730" model="account.account.template">
-        <field name="name">Juristu pakalpojumu apmaksa</field>
+        <field name="name">Cost of legal services</field>
         <field name="code">7730</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7740" model="account.account.template">
-        <field name="name">Gada pārskata un revīzijas izdevumi</field>
+        <field name="name">Annual report and audit expenses</field>
         <field name="code">7740</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7750" model="account.account.template">
-        <field name="name">Naudas apgrozījuma blakus izdevumi</field>
+        <field name="name">Expenses of cash circulation</field>
         <field name="code">7750</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7760" model="account.account.template">
-        <field name="name">Transporta izdevumi administrācijas vajadzībām</field>
+        <field name="name">Transport expenses for administration</field>
         <field name="code">7760</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7770" model="account.account.template">
-        <field name="name">Citi vadīšanas un administrācijas izdevumi</field>
+        <field name="name">Other management and administration expenses</field>
         <field name="code">7770</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1324,7 +1324,7 @@
 <!-- -->
 
     <record id="lv_account_template_7810" model="account.account.template">
-        <field name="name">Pārskata periodā iekļaujamie iepriekšējo periodu izdevumi</field>
+        <field name="name">Expenses of previous periods to be included in the reporting period</field>
         <field name="code">7810</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1333,56 +1333,56 @@
 <!-- -->
 
     <record id="lv_account_template_7910" model="account.account.template">
-        <field name="name">Dzīvokļu saimniecības izdevumi</field>
+        <field name="name">Apartment management expenses</field>
         <field name="code">7910</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7920" model="account.account.template">
-        <field name="name">Komunālās saimniecības izdevumi</field>
+        <field name="name">Utility expenses</field>
         <field name="code">7920</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7930" model="account.account.template">
-        <field name="name">Sadzīves pakalpojumu izdevumi</field>
+        <field name="name">Household service expenses</field>
         <field name="code">7930</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7940" model="account.account.template">
-        <field name="name">Sabiedriskās ēdināšanas izdevumi</field>
+        <field name="name">Catering expenses</field>
         <field name="code">7940</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7950" model="account.account.template">
-        <field name="name">Izglītības iestāžu izdevumi</field>
+        <field name="name">Expenses of educational institutions</field>
         <field name="code">7950</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7960" model="account.account.template">
-        <field name="name">Medicīniskās apkalpošanas izdevumi</field>
+        <field name="name">Medical service expenses</field>
         <field name="code">7960</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7970" model="account.account.template">
-        <field name="name">Kultūras un sporta iestāžu un pasākumu izdevumi</field>
+        <field name="name">Expenses of cultural and sports institutions and events</field>
         <field name="code">7970</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_7980" model="account.account.template">
-        <field name="name">Pārējie sociālās infrastruktūras uzturēšanas izdevumi</field>
+        <field name="name">Other social infrastructure maintenance expenses</field>
         <field name="code">7980</field>
         <field name="user_type_id" ref="lv_account_type_7"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1391,56 +1391,56 @@
 <!-- -->
 
     <record id="lv_account_template_8110" model="account.account.template">
-        <field name="name">Ieņēmumi no līdzdalības, vērtspapīriem un aizdevumiem</field>
+        <field name="name">Income from participations, securities and loans</field>
         <field name="code">8110</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8120" model="account.account.template">
-        <field name="name">Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi</field>
+        <field name="name">Other income from interest and similar income</field>
         <field name="code">8120</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8130" model="account.account.template">
-        <field name="name">Vekseļu diskonta ieņēmumi</field>
+        <field name="name">Bill discount income</field>
         <field name="code">8130</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8140" model="account.account.template">
-        <field name="name">Ziedojumi un citi tiem pielīdzināmi ieņēmumi</field>
+        <field name="name">Donations and other similar income</field>
         <field name="code">8140</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8150" model="account.account.template">
-        <field name="name">Ienākumi no valūtu kursa paaugstināšanās</field>
+        <field name="name">Income from exchange rate appreciation</field>
         <field name="code">8150</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8160" model="account.account.template">
-        <field name="name">Saņemtās soda naudas un līgumsodi</field>
+        <field name="name">Income from fines and contractual penalties received</field>
         <field name="code">8160</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8170" model="account.account.template">
-        <field name="name">Peļņa no ārzemju valūtas pārdošanas vai pirkšanas</field>
+        <field name="name">Profit from the sale or purchase of foreign currency</field>
         <field name="code">8170</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8190" model="account.account.template">
-        <field name="name">Citi ieņēmumi</field>
+        <field name="name">Other income</field>
         <field name="code">8190</field>
         <field name="user_type_id" ref="lv_account_type_8_1"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1449,56 +1449,56 @@
 <!-- -->
 
     <record id="lv_account_template_8210" model="account.account.template">
-        <field name="name">Īstermiņa finanšu ieguldījumu vērtības norakstīšana</field>
+        <field name="name">Writing off the value of short-term financial investments</field>
         <field name="code">8210</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8220" model="account.account.template">
-        <field name="name">Samaksātie procenti un tiem pielīdzināmie izdevumi</field>
+        <field name="name">Interest paid and related expenses</field>
         <field name="code">8220</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8230" model="account.account.template">
-        <field name="name">Vekseļu diskonta izmaksas</field>
+        <field name="name">Bill discounting costs</field>
         <field name="code">8230</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8240" model="account.account.template">
-        <field name="name">Ilgtermiņa aizdevumu procentu samaksa</field>
+        <field name="name">Payment of interest on long-term loans</field>
         <field name="code">8240</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8250" model="account.account.template">
-        <field name="name">Zaudējumi no valūtu kursa pazemināšanās</field>
+        <field name="name">Losses from currency depreciation</field>
         <field name="code">8250</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8260" model="account.account.template">
-        <field name="name">Samaksātās soda naudas un līgumsodi</field>
+        <field name="name">Paid fines and liquidated damages</field>
         <field name="code">8260</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8270" model="account.account.template">
-        <field name="name">Zaudējumi no ārzemju valūtas pirkšanas vai pārdošanas</field>
+        <field name="name">Losses from buying or selling foreign currency</field>
         <field name="code">8270</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8290" model="account.account.template">
-        <field name="name">Citi izdevumi</field>
+        <field name="name">Other expenses</field>
         <field name="code">8290</field>
         <field name="user_type_id" ref="lv_account_type_8_2"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1507,7 +1507,7 @@
 <!-- -->
 
     <record id="lv_account_template_8310" model="account.account.template">
-        <field name="name">Ārkārtas ieņēmumi</field>
+        <field name="name">Extra income</field>
         <field name="code">8310</field>
         <field name="user_type_id" ref="lv_account_type_8_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1516,7 +1516,7 @@
 <!-- -->
 
     <record id="lv_account_template_8410" model="account.account.template">
-        <field name="name">Ārkārtas izdevumi</field>
+        <field name="name">Extra losses</field>
         <field name="code">8410</field>
         <field name="user_type_id" ref="lv_account_type_8_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1525,7 +1525,7 @@
 <!-- -->
 
     <record id="lv_account_template_8610" model="account.account.template">
-        <field name="name">Peļņa vai zaudējumi</field>
+        <field name="name">Profit or loss</field>
         <field name="code">8610</field>
         <field name="user_type_id" ref="lv_account_type_8_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1534,28 +1534,28 @@
 <!-- -->
 
     <record id="lv_account_template_8810" model="account.account.template">
-        <field name="name">Uzņēmumu ienākuma nodoklis</field>
+        <field name="name">Corporate income tax</field>
         <field name="code">8810</field>
         <field name="user_type_id" ref="lv_account_type_8_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8820" model="account.account.template">
-        <field name="name">Nodoklis par dabas resursu izmantošanu no peļņas maksājamā daļā</field>
+        <field name="name">Tax on the use of natural resources in the part payable from the profit</field>
         <field name="code">8820</field>
         <field name="user_type_id" ref="lv_account_type_8_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8830" model="account.account.template">
-        <field name="name">Nekustamā īpašuma nodoklis</field>
+        <field name="name">Property tax</field>
         <field name="code">8830</field>
         <field name="user_type_id" ref="lv_account_type_8_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_8840" model="account.account.template">
-        <field name="name">Citi saimnieciskās darbības izmaksās neiekļaujamie nodokļi</field>
+        <field name="name">Other taxes not included in the costs of economic activity</field>
         <field name="code">8840</field>
         <field name="user_type_id" ref="lv_account_type_8_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
