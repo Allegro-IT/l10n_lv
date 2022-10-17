@@ -2,7 +2,7 @@
 <odoo>
 
     <record id="l10n_lv_chart_template" model="account.chart.template">
-        <field name="name">Latvija – saimnieciskā aprēķina</field>
+        <field name="name">Latvia (general)</field>
         <field name="cash_account_code_prefix">261</field>
         <field name="bank_account_code_prefix">262</field>
         <field name="transfer_account_code_prefix">269</field>
