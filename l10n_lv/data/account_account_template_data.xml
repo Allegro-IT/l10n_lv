@@ -764,7 +764,7 @@
     </record>
 
     <record id="lv_account_template_5753" model="account.account.template">
-        <field name="name">Aprēķinātās nokavējuma naudas par iedzīvotāju ienākuma nodokli</field>
+        <field name="name">Calculated late fees for personal income tax</field>
         <field name="code">5753</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
