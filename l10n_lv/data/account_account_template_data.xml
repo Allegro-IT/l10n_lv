@@ -285,6 +285,7 @@
     <record id="lv_account_template_2330" model="account.account.template">
         <field name="name">Meitas uzņēmuma parādi</field>
         <field name="code">2330</field>
+        <field name="reconcile" eval="True"/>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
@@ -292,6 +293,7 @@
     <record id="lv_account_template_2340" model="account.account.template">
         <field name="name">Saistīto uzņēmumu parādi</field>
         <field name="code">2340</field>
+        <field name="reconcile" eval="True"/>
         <field name="user_type_id" ref="lv_account_type_2_3"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
@@ -390,6 +392,7 @@
         <field name="name">Kase</field>
         <field name="code">2611</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
+        <field name="reconcile" eval="True"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
@@ -397,6 +400,7 @@
         <field name="name">Norēķinu konti bankās</field>
         <field name="code">2621</field>
         <field name="user_type_id" ref="lv_account_type_2_6"/>
+        <field name="reconcile" eval="True"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record> -->
 
@@ -535,6 +539,7 @@
         <field name="name">Aizņēmumi pret obligācijām</field>
         <field name="code">5110</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
+        <field name="reconcile" eval="True"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
@@ -542,6 +547,7 @@
         <field name="name">Akcijās pārvēršamie aizņēmumi</field>
         <field name="code">5120</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
+        <field name="reconcile" eval="True"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
