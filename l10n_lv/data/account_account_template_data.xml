@@ -357,14 +357,14 @@
 <!-- -->
 
     <record id="lv_account_template_2510" model="account.account.template">
-        <field name="name">Shares and shares of the subsidiary company</field>
+        <field name="name">Shares of the subsidiary company</field>
         <field name="code">2510</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
     </record>
 
     <record id="lv_account_template_2520" model="account.account.template">
-        <field name="name">Shares and shares of related companies</field>
+        <field name="name">Shares of related companies</field>
         <field name="code">2520</field>
         <field name="user_type_id" ref="lv_account_type_2_5"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -626,7 +626,7 @@
 <!-- -->
 
     <record id="lv_account_template_5610" model="account.account.template">
-        <field name="name">Settlements for labor wages (payroll)</field>
+        <field name="name">Settlements for salaries</field>
         <field name="code">5610</field>
         <field name="user_type_id" ref="lv_account_type_5"/>
         <field name="reconcile" eval="True"/>
@@ -917,7 +917,7 @@
     </record>
 
     <record id="lv_account_template_6540" model="account.account.template">
-        <field name="name">Proceeds from the sale of current assets</field>
+        <field name="name">Revenues from the sale of current assets</field>
         <field name="code">6540</field>
         <field name="user_type_id" ref="lv_account_type_6"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>
@@ -1516,7 +1516,7 @@
 <!-- -->
 
     <record id="lv_account_template_8410" model="account.account.template">
-        <field name="name">Extra losses</field>
+        <field name="name">Extra expenses</field>
         <field name="code">8410</field>
         <field name="user_type_id" ref="lv_account_type_8_4"/>
         <field name="chart_template_id" ref="l10n_lv_chart_template"/>

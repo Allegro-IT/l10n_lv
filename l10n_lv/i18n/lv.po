@@ -283,7 +283,7 @@ msgstr "No pircējiem saņemtie avansi"
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.as
 msgid "Akciju sabiedrība"
-msgstr "Join-stock company"
+msgstr ""
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7740
@@ -306,12 +306,12 @@ msgstr "Aprēķinātās nokavējuma naudas par iedzīvotāju ienākuma nodokli"
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.arb
 msgid "Arodbiedrība"
-msgstr "Trade union"
+msgstr ""
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.asf
 msgid "Atklātais sabiedriskais fonds"
-msgstr "Open public fund"
+msgstr ""
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.baz
@@ -331,7 +331,7 @@ msgstr ""
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.baz
 msgid "Baznīca"
-msgstr "Church"
+msgstr ""
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.bdr
@@ -341,7 +341,7 @@ msgstr ""
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.bie
 msgid "Biedrība (BIE)"
-msgstr "Union (BIE)"
+msgstr ""
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8130
@@ -377,25 +377,25 @@ msgstr "Bioloģiskie aktīvi"
 #: model:account.account,name:l10n_lv.1_lv_account_template_6420
 #: model:account.account.template,name:l10n_lv.lv_account_template_6420
 msgid "Bonuses granted"
-msgstr ""
+msgstr "Piešķirtie bonusi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5110
 #: model:account.account.template,name:l10n_lv.lv_account_template_5110
 msgid "Borrowing against bonds"
-msgstr ""
+msgstr "Aizņēmumi pret obligācijām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5742
 #: model:account.account.template,name:l10n_lv.lv_account_template_5742
 msgid "Business risk state fees paid to the state budget"
-msgstr ""
+msgstr "Valsts budžetā samaksātās uzņēmējdarbības riska valsts nodevas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7570
 #: model:account.account.template,name:l10n_lv.lv_account_template_7570
 msgid "Business trip expenses"
-msgstr ""
+msgstr "Komandējumu izdevumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.cen
@@ -406,44 +406,44 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_5743
 #: model:account.account.template,name:l10n_lv.lv_account_template_5743
 msgid "Calculated late fees for business risk state fees"
-msgstr ""
+msgstr "Aprēķinātās nokavējuma naudas par uzņēmējdarbības riska valsts nodevām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5723
 #: model:account.account.template,name:l10n_lv.lv_account_template_5723
 msgid "Calculated late fees for value added tax"
-msgstr ""
+msgstr "Aprēķinātas nokavējuma naudas par pievienotās vērtības nodokli"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5733
 #: model:account.account.template,name:l10n_lv.lv_account_template_5733
 msgid ""
 "Calculated overdue fines for mandatory state social insurance contributions"
-msgstr ""
+msgstr "Aprēķinātās nokavējuma naudas par valsts sociālās apdrošināšanas obligātajām iemaksām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3110
 #: model:account.account.template,name:l10n_lv.lv_account_template_3110
 msgid "Capital of own shares"
-msgstr ""
+msgstr "Akciju vai daļu kapitāls (pamatkapitāls)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2690
 #: model:account.account.template,name:l10n_lv.lv_account_template_2690
 msgid "Cash in transit"
-msgstr ""
+msgstr "Nauda ceļā"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7940
 #: model:account.account.template,name:l10n_lv.lv_account_template_7940
 msgid "Catering expenses"
-msgstr ""
+msgstr "Sabiedriskās ēdināšanas izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6940
 #: model:account.account.template,name:l10n_lv.lv_account_template_6940
 msgid "Catering revenue"
-msgstr ""
+msgstr "Sabiedriskās ēdināšanas ieņēmumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.cen
@@ -454,133 +454,133 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_6630
 #: model:account.account.template,name:l10n_lv.lv_account_template_6630
 msgid "Changes in backorder balances and value"
-msgstr ""
+msgstr "Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6620
 #: model:account.account.template,name:l10n_lv.lv_account_template_6620
 msgid "Changes in inventories and value of work-in-progress"
-msgstr ""
+msgstr "Nepabeigto ražojumu krājumu un vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7190
 #: model:account.account.template,name:l10n_lv.lv_account_template_7190
 msgid "Changes in inventory and value of purchased materials and goods"
-msgstr ""
+msgstr "Pirkto materiālu un preču krājumu un vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6610
 #: model:account.account.template,name:l10n_lv.lv_account_template_6610
 msgid "Changes in stocks and value of finished products"
-msgstr ""
+msgstr "Gatavās produkcijas krājumu un vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6640
 #: model:account.account.template,name:l10n_lv.lv_account_template_6640
 msgid "Changes in the herd value of productive and working animals"
-msgstr ""
+msgstr "Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6310
 #: model:account.account.template,name:l10n_lv.lv_account_template_6310
 msgid "Commission and brokerage income"
-msgstr ""
+msgstr "Komisijas un starpniecības ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7640
 #: model:account.account.template,name:l10n_lv.lv_account_template_7640
 msgid "Commissions paid"
-msgstr ""
+msgstr "Samaksātās komisijas naudas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7710
 #: model:account.account.template,name:l10n_lv.lv_account_template_7710
 msgid "Communication expenses"
-msgstr ""
+msgstr "Sakaru izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1120
 #: model:account.account.template,name:l10n_lv.lv_account_template_1120
 msgid "Concessions, patents, licenses, trademarks and similar rights"
-msgstr ""
+msgstr "Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8810
 #: model:account.account.template,name:l10n_lv.lv_account_template_8810
 msgid "Corporate income tax"
-msgstr ""
+msgstr "Uzņēmuma ienākuma nodoklis"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7170
 #: model:account.account.template,name:l10n_lv.lv_account_template_7170
 msgid "Cost of external work and services"
-msgstr ""
+msgstr "Samaksa par darbiem un pakalpojumiem no ārienes"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7120
 #: model:account.account.template,name:l10n_lv.lv_account_template_7120
 msgid "Cost of goods sold and delivery expenses"
-msgstr ""
+msgstr "Preču iepirkšanas un piegādes izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7620
 #: model:account.account.template,name:l10n_lv.lv_account_template_7620
 msgid "Cost of goods transportation"
-msgstr ""
+msgstr "Preču transporta izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7730
 #: model:account.account.template,name:l10n_lv.lv_account_template_7730
 msgid "Cost of legal services"
-msgstr ""
+msgstr "Juristu pakalpojumu apmaksa"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7140
 #: model:account.account.template,name:l10n_lv.lv_account_template_7140
 msgid "Cost of packaging"
-msgstr ""
+msgstr "Taras izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7110
 #: model:account.account.template,name:l10n_lv.lv_account_template_7110
 msgid "Cost of raw materials and delivery expenses"
-msgstr ""
+msgstr "Izejvielu un materiālu iepirkšanas un piegādes izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1110
 #: model:account.account.template,name:l10n_lv.lv_account_template_1110
 msgid "Costs of development"
-msgstr ""
+msgstr "Attīstības izmaksas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1250
 #: model:account.account.template,name:l10n_lv.lv_account_template_1250
 msgid "Costs of fixed asset creation and unfinished object construction"
-msgstr ""
+msgstr "Pamatlīdzekļu izveidošanas un nepabeigto celtniecības objektu izmaksas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7610
 #: model:account.account.template,name:l10n_lv.lv_account_template_7610
 msgid "Costs of packaging material and containers"
-msgstr ""
+msgstr "Iesaiņojamais materiāls, tara"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2640
 #: model:account.account.template,name:l10n_lv.lv_account_template_2640
 msgid "Credit notes, checks and special forms of payment accounts"
-msgstr ""
+msgstr "Akreditīvi, čeki un īpašu norēķina formu konti"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5310
 #: model:account.account.template,name:l10n_lv.lv_account_template_5310
 msgid "Creditors (debts to suppliers and contractors)"
-msgstr ""
+msgstr "Parādi piegādātājiem un darbuzņēmējiem"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7150
 #: model:account.account.template,name:l10n_lv.lv_account_template_7150
 msgid "Customs and import duties"
-msgstr ""
+msgstr "Muitas un ievednodevas"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.die
@@ -601,73 +601,73 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_2310
 #: model:account.account.template,name:l10n_lv.lv_account_template_2310
 msgid "Debtors"
-msgstr ""
+msgstr "Pircēju un pasūtītāju parādi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2340
 #: model:account.account.template,name:l10n_lv.lv_account_template_2340
 msgid "Debts of related companies"
-msgstr ""
+msgstr "Saistīto uzņēmumu parādi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5520
 #: model:account.account.template,name:l10n_lv.lv_account_template_5520
 msgid "Debts to associated companies"
-msgstr ""
+msgstr "Parādi asociētajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5510
 #: model:account.account.template,name:l10n_lv.lv_account_template_5510
 msgid "Debts to related companies"
-msgstr ""
+msgstr "Parādi radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6560
 #: model:account.account.template,name:l10n_lv.lv_account_template_6560
 msgid "Decrease in reserves and provisions transferred to revenue"
-msgstr ""
+msgstr "Ieņēmumos pārskaitītais rezervju un uzkrājumu samazinājums"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5910
 #: model:account.account.template,name:l10n_lv.lv_account_template_5910
 msgid "Deferred earnings"
-msgstr ""
+msgstr "Nākamo periodu ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1293
 #: model:account.account.template,name:l10n_lv.lv_account_template_1293
 msgid "Depreciation of equipment and machinery (passive)"
-msgstr ""
+msgstr "Iekārtu un mašīnu nolietojums (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7420
 #: model:account.account.template,name:l10n_lv.lv_account_template_7420
 msgid "Depreciation of fixed assets"
-msgstr ""
+msgstr "Pamatlīdzekļu nolietojums"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1291
 #: model:account.account.template,name:l10n_lv.lv_account_template_1291
 msgid "Depreciation of land, buildings and perennial plantings (passive)"
-msgstr ""
+msgstr "Zemes gabalu, ēku un būvju un ilggadīgo stādījumu nolietojums (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1292
 #: model:account.account.template,name:l10n_lv.lv_account_template_1292
 msgid "Depreciation of long-term investment in leased fixed assets (passive)"
-msgstr ""
+msgstr "Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1294
 #: model:account.account.template,name:l10n_lv.lv_account_template_1294
 msgid "Depreciation of other fixed assets and inventory (passive)"
-msgstr ""
+msgstr "Pārējo pamatlīdzekļu un inventāra nolietojums (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5930
 #: model:account.account.template,name:l10n_lv.lv_account_template_5930
 msgid "Derivative financial instruments"
-msgstr ""
+msgstr "Atvasinātie finanšu instrumenti"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.die
@@ -678,19 +678,19 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_6410
 #: model:account.account.template,name:l10n_lv.lv_account_template_6410
 msgid "Discounts granted"
-msgstr ""
+msgstr "Piešķirtās skonto atlaides"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7130
 #: model:account.account.template,name:l10n_lv.lv_account_template_7130
 msgid "Discounts received"
-msgstr ""
+msgstr "Saņemtās atlaides"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8140
 #: model:account.account.template,name:l10n_lv.lv_account_template_8140
 msgid "Donations and other similar income"
-msgstr ""
+msgstr "Ziedojumi un citi tiem pielīdzināmi ieņēmumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.drz
@@ -742,49 +742,49 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_7210
 #: model:account.account.template,name:l10n_lv.lv_account_template_7210
 msgid "Employee salaries"
-msgstr ""
+msgstr "Strādnieku algas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1230
 #: model:account.account.template,name:l10n_lv.lv_account_template_1230
 msgid "Equipment and machinery"
-msgstr ""
+msgstr "Iekārtas un mašīnas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7750
 #: model:account.account.template,name:l10n_lv.lv_account_template_7750
 msgid "Expenses of cash circulation"
-msgstr ""
+msgstr "Naudas apgrozījuma blakus izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7970
 #: model:account.account.template,name:l10n_lv.lv_account_template_7970
 msgid "Expenses of cultural and sports institutions and events"
-msgstr ""
+msgstr "Kultūras un sporta iestāžu un pasākumu izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7950
 #: model:account.account.template,name:l10n_lv.lv_account_template_7950
 msgid "Expenses of educational institutions"
-msgstr ""
+msgstr "Izglītības iestāžu izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7810
 #: model:account.account.template,name:l10n_lv.lv_account_template_7810
 msgid "Expenses of previous periods to be included in the reporting period"
-msgstr ""
+msgstr "Pārskata periodā iekļaujamie iepriekšējo periodu izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8310
 #: model:account.account.template,name:l10n_lv.lv_account_template_8310
 msgid "Extra income"
-msgstr ""
+msgstr "Ārkārtas ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8410
 #: model:account.account.template,name:l10n_lv.lv_account_template_8410
-msgid "Extra losses"
-msgstr ""
+msgid "Extra expenses"
+msgstr "Ārkārtas izdevumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.fil
@@ -795,7 +795,7 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_7530
 #: model:account.account.template,name:l10n_lv.lv_account_template_7530
 msgid "Fees for plots of land used in production"
-msgstr ""
+msgstr "Nodevas par ražošanā izmantotiem zemes gabaliem"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.fil
@@ -806,13 +806,13 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_2130
 #: model:account.account.template,name:l10n_lv.lv_account_template_2130
 msgid "Finished products and goods for sale"
-msgstr ""
+msgstr "Gatavie ražojumi un preces pārdošanai"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2410
 #: model:account.account.template,name:l10n_lv.lv_account_template_2410
 msgid "Future expenses"
-msgstr ""
+msgstr "Nākamo periodu izdevumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.gim
@@ -823,19 +823,19 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_1140
 #: model:account.account.template,name:l10n_lv.lv_account_template_1140
 msgid "Goodwill"
-msgstr ""
+msgstr "Nemateriālā vērtība"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6430
 #: model:account.account.template,name:l10n_lv.lv_account_template_6430
 msgid "Granted rebates and other trade discounts"
-msgstr ""
+msgstr "Piešķirtie rabati un citas tirdzniecības atlaides"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7930
 #: model:account.account.template,name:l10n_lv.lv_account_template_7930
 msgid "Household service expenses"
-msgstr ""
+msgstr "Sadzīves pakalpojumu izdevumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.ik
@@ -886,55 +886,55 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_6910
 #: model:account.account.template,name:l10n_lv.lv_account_template_6910
 msgid "Income from apartment management"
-msgstr ""
+msgstr "Dzīvokļu saimniecības ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8150
 #: model:account.account.template,name:l10n_lv.lv_account_template_8150
 msgid "Income from exchange rate appreciation"
-msgstr ""
+msgstr "Ienākumi no valūtu kursa paaugstināšanās"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8160
 #: model:account.account.template,name:l10n_lv.lv_account_template_8160
 msgid "Income from fines and contractual penalties received"
-msgstr ""
+msgstr "Saņemtās soda naudas un līgumsodi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6550
 #: model:account.account.template,name:l10n_lv.lv_account_template_6550
 msgid "Income from leasing of fixed assets"
-msgstr ""
+msgstr "Ieņēmumi no pamatlīdzekļu iznomāšanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8110
 #: model:account.account.template,name:l10n_lv.lv_account_template_8110
 msgid "Income from participations, securities and loans"
-msgstr ""
+msgstr "Ieņēmumi no līdzdalības, vērtspapīriem un aizdevumiem"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6510
 #: model:account.account.template,name:l10n_lv.lv_account_template_6510
 msgid "Income from the increase in the price of securities"
-msgstr ""
+msgstr "Ieņēmumi no vērtspapīru kursa paaugstināšanās"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6530
 #: model:account.account.template,name:l10n_lv.lv_account_template_6530
 msgid "Income from the rental of plots of land"
-msgstr ""
+msgstr "Ieņēmumi no zemes gabalu iznomāšanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6520
 #: model:account.account.template,name:l10n_lv.lv_account_template_6520
 msgid "Income from the sale of fixed assets"
-msgstr ""
+msgstr "Ieņēmumi no pamatlīdzekļu pārdošanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6950
 #: model:account.account.template,name:l10n_lv.lv_account_template_6950
 msgid "Income of educational institutions"
-msgstr ""
+msgstr "Izglītības iestāžu ieņēmumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.ik
@@ -950,25 +950,25 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_7630
 #: model:account.account.template,name:l10n_lv.lv_account_template_7630
 msgid "Insurance of goods transportation"
-msgstr ""
+msgstr "Preču transporta apdrošināšana"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7540
 #: model:account.account.template,name:l10n_lv.lv_account_template_7540
 msgid "Insurance payments (except employee insurance)"
-msgstr ""
+msgstr "Apdrošināšanas maksājumi (izņemot darbinieku apdrošināšanu)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8220
 #: model:account.account.template,name:l10n_lv.lv_account_template_8220
 msgid "Interest paid and related expenses"
-msgstr ""
+msgstr "Samaksātie procenti un tiem pielīdzināmie izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1310
 #: model:account.account.template,name:l10n_lv.lv_account_template_1310
 msgid "Investment properties"
-msgstr ""
+msgstr "Ieguldījuma īpašumi"
 
 #. module: l10n_lv
 #: model:account.tax,description:l10n_lv.1_lv_tax_template_Izd-20
@@ -1117,12 +1117,12 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_1210
 #: model:account.account.template,name:l10n_lv.lv_account_template_1210
 msgid "Land, buildings, perennial plantings"
-msgstr ""
+msgstr "Zemes gabali, ēkas un būves un ilggadīgie stādījumi"
 
 #. module: l10n_lv
 #: model:account.chart.template,name:l10n_lv.l10n_lv_chart_template
-msgid "Latvia (general)"
-msgstr ""
+msgid "Latvia: commercial company"
+msgstr "Latvija: komercsabiedrības"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_l10n_lv_chart_template_liquidity_transfer
@@ -1134,55 +1134,55 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_5120
 #: model:account.account.template,name:l10n_lv.lv_account_template_5120
 msgid "Loans convertible into shares"
-msgstr ""
+msgstr "Akcijās pārvēršamie aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1540
 #: model:account.account.template,name:l10n_lv.lv_account_template_1540
 msgid "Loans to associated companies"
-msgstr ""
+msgstr "Aizdevumi asociētajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1520
 #: model:account.account.template,name:l10n_lv.lv_account_template_1520
 msgid "Loans to related companies"
-msgstr ""
+msgstr "Aizdevumi radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1580
 #: model:account.account.template,name:l10n_lv.lv_account_template_1580
 msgid "Loans to shareholders or members and management"
-msgstr ""
+msgstr "Aizdevumi akcionāriem vai dalībniekiem un vadībai"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2210
 #: model:account.account.template,name:l10n_lv.lv_account_template_2210
 msgid "Long-term investments for sale"
-msgstr ""
+msgstr "Pārdošanai turēti ilgtermiņa ieguldījumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1220
 #: model:account.account.template,name:l10n_lv.lv_account_template_1220
 msgid "Long-term investments in leased fixed assets"
-msgstr ""
+msgstr "Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5132
 #: model:account.account.template,name:l10n_lv.lv_account_template_5132
 msgid "Long-term loans from credit institutions"
-msgstr ""
+msgstr "Ilgtermiņa aizņēmumi no kredītiestādēm"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8270
 #: model:account.account.template,name:l10n_lv.lv_account_template_8270
 msgid "Losses from buying or selling foreign currency"
-msgstr ""
+msgstr "Zaudējumi no ārzemju valūtas pirkšanas vai pārdošanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8250
 #: model:account.account.template,name:l10n_lv.lv_account_template_8250
 msgid "Losses from currency depreciation"
-msgstr ""
+msgstr "Zaudējumi no valūtu kursa pazemināšanās"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.lig
@@ -1202,9 +1202,8 @@ msgstr ""
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5732
 #: model:account.account.template,name:l10n_lv.lv_account_template_5732
-msgid ""
-"Mandatory state social insurance contributions paid to the state budget"
-msgstr ""
+msgid "Mandatory state social insurance contributions paid to the state budget"
+msgstr "Valsts budžetā samaksātās valsts sociālās apdrošināšanas obligātās iemaksas"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.mil
@@ -1242,67 +1241,67 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_6340
 #: model:account.account.template,name:l10n_lv.lv_account_template_6340
 msgid "Non-taxable income"
-msgstr ""
+msgstr "Ar nodokļiem neapliekamie ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6210
 #: model:account.account.template,name:l10n_lv.lv_account_template_6210
 msgid "Non-taxable revenues"
-msgstr ""
+msgstr "Ar nodokļiem neapliekamie pārdošanas ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7720
 #: model:account.account.template,name:l10n_lv.lv_account_template_7720
 msgid "Office expenses"
-msgstr ""
+msgstr "Biroja izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2650
 #: model:account.account.template,name:l10n_lv.lv_account_template_2650
 msgid "Other bank accounts"
-msgstr ""
+msgstr "Citi konti bankās"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7550
 #: model:account.account.template,name:l10n_lv.lv_account_template_7550
 msgid "Other economic activity expenses"
-msgstr ""
+msgstr "Pārējie saimnieciskās darbības izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8290
 #: model:account.account.template,name:l10n_lv.lv_account_template_8290
 msgid "Other expenses"
-msgstr ""
+msgstr "Citi izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7160
 #: model:account.account.template,name:l10n_lv.lv_account_template_7160
 msgid "Other external expenses"
-msgstr ""
+msgstr "Pārējie ārējie izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1240
 #: model:account.account.template,name:l10n_lv.lv_account_template_1240
 msgid "Other fixed assets and inventory"
-msgstr ""
+msgstr "Pārējie pamatlīdzekļi un inventārs"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2670
 #: model:account.account.template,name:l10n_lv.lv_account_template_2670
 msgid "Other funds"
-msgstr ""
+msgstr "Pārējie naudas līdzekļi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8190
 #: model:account.account.template,name:l10n_lv.lv_account_template_8190
 msgid "Other income"
-msgstr ""
+msgstr "Citi ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8120
 #: model:account.account.template,name:l10n_lv.lv_account_template_8120
 msgid "Other income from interest and similar income"
-msgstr ""
+msgstr "Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1130
@@ -1314,99 +1313,97 @@ msgstr "Pārējie nemateriālie ieguldījumi"
 #: model:account.account,name:l10n_lv.1_lv_account_template_5140
 #: model:account.account.template,name:l10n_lv.lv_account_template_5140
 msgid "Other loans"
-msgstr ""
+msgstr "Citi aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1560
 #: model:account.account.template,name:l10n_lv.lv_account_template_1560
 msgid "Other loans and other long-term debtors"
-msgstr ""
+msgstr "Pārējie aizdevumi un citi ilgtermiņa debitori"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7770
 #: model:account.account.template,name:l10n_lv.lv_account_template_7770
 msgid "Other management and administration expenses"
-msgstr ""
+msgstr "Citi vadīšanas un administrācijas izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7180
 #: model:account.account.template,name:l10n_lv.lv_account_template_7180
-msgid ""
-"Other material expenses (tax on the use of natural resources, stumpage "
-"money, etc.)"
-msgstr ""
+msgid "Other material expenses (tax on the use of natural resources, stumpage money, etc.)"
+msgstr "Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7240
 #: model:account.account.template,name:l10n_lv.lv_account_template_7240
 msgid "Other personnel costs"
-msgstr ""
+msgstr "Pārējās personāla izmaksas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3340
 #: model:account.account.template,name:l10n_lv.lv_account_template_3340
 msgid "Other reserves"
-msgstr ""
+msgstr "Pārējās rezerves"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6980
 #: model:account.account.template,name:l10n_lv.lv_account_template_6980
 msgid "Other revenues of social infrastructure institutions and events"
-msgstr ""
+msgstr "Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7650
 #: model:account.account.template,name:l10n_lv.lv_account_template_7650
 msgid "Other sales expenses"
-msgstr ""
+msgstr "Citi pārdošanas izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_4310
 #: model:account.account.template,name:l10n_lv.lv_account_template_4310
 msgid "Other savings"
-msgstr ""
+msgstr "Citi uzkrājumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2540
 #: model:account.account.template,name:l10n_lv.lv_account_template_2540
 msgid "Other securities and equity participation"
-msgstr ""
+msgstr "Pārējie vērtspapīri un līdzdalība kapitālos"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1550
 #: model:account.account.template,name:l10n_lv.lv_account_template_1550
 msgid "Other securities and investments"
-msgstr ""
+msgstr "Pārējie vērtspapīri un ieguldījumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7320
 #: model:account.account.template,name:l10n_lv.lv_account_template_7320
 msgid "Other social costs"
-msgstr ""
+msgstr "Pārējās sociālās izmaksas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7980
 #: model:account.account.template,name:l10n_lv.lv_account_template_7980
 msgid "Other social infrastructure maintenance expenses"
-msgstr ""
+msgstr "Pārējie sociālās infrastruktūras uzturēšanas izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8840
 #: model:account.account.template,name:l10n_lv.lv_account_template_8840
 msgid "Other taxes not included in the costs of economic activity"
-msgstr ""
+msgstr "Citi saimnieciskās darbības izmaksās neiekļaujamie nodokļi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2390
 #: model:account.account.template,name:l10n_lv.lv_account_template_2390
 msgid "Overpaid taxes, prepaid taxes"
-msgstr ""
+msgstr "Pārmaksātie nodokļi, iepriekš samaksātie nodokļi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1570
 #: model:account.account.template,name:l10n_lv.lv_account_template_1570
 msgid "Own shares"
-msgstr ""
+msgstr "Pašu akcijas un daļas"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.paj
@@ -1595,7 +1592,7 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_8260
 #: model:account.account.template,name:l10n_lv.lv_account_template_8260
 msgid "Paid fines and liquidated damages"
-msgstr ""
+msgstr "Samaksātās soda naudas un līgumsodi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.paj
@@ -1606,39 +1603,39 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_1530
 #: model:account.account.template,name:l10n_lv.lv_account_template_1530
 msgid "Participation in the capital of associated companies"
-msgstr ""
+msgstr "Līdzdalība asociēto sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1510
 #: model:account.account.template,name:l10n_lv.lv_account_template_1510
 msgid "Participation in the capital of related companies"
-msgstr ""
+msgstr "Līdzdalība radniecīgo sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8240
 #: model:account.account.template,name:l10n_lv.lv_account_template_8240
 msgid "Payment of interest on long-term loans"
-msgstr ""
+msgstr "Ilgtermiņa aizdevumu procentu samaksa"
 
 #. module: l10n_lv
 #: model_terms:account.payment.term,note:l10n_lv.account_payment_term_10days
 msgid "Payment terms: 10 Days"
-msgstr ""
+msgstr "Apmaksas termņš: 10 dienas"
 
 #. module: l10n_lv
 #: model_terms:account.payment.term,note:l10n_lv.account_payment_term_14days
 msgid "Payment terms: 14 Days"
-msgstr ""
+msgstr "Apmaksas termņš: 14 dienas"
 
 #. module: l10n_lv
 #: model_terms:account.payment.term,note:l10n_lv.account_payment_term_30days
 msgid "Payment terms: 30 Days"
-msgstr ""
+msgstr "Apmaksas termņš: 30 dienas"
 
 #. module: l10n_lv
 #: model_terms:account.payment.term,note:l10n_lv.account_payment_term_7days
 msgid "Payment terms: 7 Days"
-msgstr ""
+msgstr "Apmaksas termņš: 7 dienas"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.psv
@@ -1655,7 +1652,7 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_5752
 #: model:account.account.template,name:l10n_lv.lv_account_template_5752
 msgid "Personal income tax paid to the state budget"
-msgstr ""
+msgstr "Valsts budžetā samaksātais iedzīvotāju ienākuma nodoklis"
 
 #. module: l10n_lv
 #: model:account.tax,description:l10n_lv.1_lv_tax_template_Pieg-ES
@@ -1811,8 +1808,8 @@ msgstr ""
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6540
 #: model:account.account.template,name:l10n_lv.lv_account_template_6540
-msgid "Proceeds from the sale of current assets"
-msgstr ""
+msgid "Revenues from the sale of current assets"
+msgstr "Ieņēmumi no apgrozāmo līdzekļu pārdošanas"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.pro
@@ -1823,25 +1820,25 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_8170
 #: model:account.account.template,name:l10n_lv.lv_account_template_8170
 msgid "Profit from the sale or purchase of foreign currency"
-msgstr ""
+msgstr "Peļņa no ārzemju valūtas pārdošanas vai pirkšanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8610
 #: model:account.account.template,name:l10n_lv.lv_account_template_8610
 msgid "Profit or loss"
-msgstr ""
+msgstr "Peļņa vai zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8830
 #: model:account.account.template,name:l10n_lv.lv_account_template_8830
 msgid "Property tax"
-msgstr ""
+msgstr "Nekustamā īpašuma nodoklis"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_4210
 #: model:account.account.template,name:l10n_lv.lv_account_template_4210
 msgid "Provisions for estimated taxes"
-msgstr ""
+msgstr "Uzkrājumi paredzamajiem nodokļiem"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.par
@@ -1862,13 +1859,13 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_2110
 #: model:account.account.template,name:l10n_lv.lv_account_template_2110
 msgid "Raw materials, basic materials and auxiliary materials"
-msgstr ""
+msgstr "Izejvielas, pamatmateriāli un palīgmateriāli"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7560
 #: model:account.account.template,name:l10n_lv.lv_account_template_7560
 msgid "Recruitment and training expenses"
-msgstr ""
+msgstr "Strādnieku vervēšanas un apmācības izdevumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.rel
@@ -1879,73 +1876,73 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_3320
 #: model:account.account.template,name:l10n_lv.lv_account_template_3320
 msgid "Reserves for own shares or parts"
-msgstr ""
+msgstr "Rezerves pašu akcijām vai daļām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3330
 #: model:account.account.template,name:l10n_lv.lv_account_template_3330
 msgid "Reserves specified in the company's articles of association"
-msgstr ""
+msgstr "Sabiedrības statūtos noteiktās rezerves"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3410
 #: model:account.account.template,name:l10n_lv.lv_account_template_3410
 msgid "Retained earnings"
-msgstr ""
+msgstr "Iepriekšējo gadu nesadalītā peļņa"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3420
 #: model:account.account.template,name:l10n_lv.lv_account_template_3420
 msgid "Retained earnings for the reporting year"
-msgstr ""
+msgstr "Pārskata gada nesadalītā peļņa"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3140
 #: model:account.account.template,name:l10n_lv.lv_account_template_3140
 msgid "Revaluation reserve for financial instruments"
-msgstr ""
+msgstr "Finanšu instrumentu pārvērtēšanas rezerve"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_3130
 #: model:account.account.template,name:l10n_lv.lv_account_template_3130
 msgid "Revaluation reserve for long-term investments"
-msgstr ""
+msgstr "Ilgtermiņa ieguldījumu pārvērtēšanas rezerve"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6930
 #: model:account.account.template,name:l10n_lv.lv_account_template_6930
 msgid "Revenue frpom domestic services"
-msgstr ""
+msgstr "Sadzīves pakalpojumu ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6330
 #: model:account.account.template,name:l10n_lv.lv_account_template_6330
 msgid "Revenues from the sale of containers"
-msgstr ""
+msgstr "Ieņēmumi no taras realizācijas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6110
 #: model:account.account.template,name:l10n_lv.lv_account_template_6110
 msgid "Revenues from the sale of core products and services"
-msgstr ""
+msgstr "Ieņēmumi no pamatdarbības produkcijas un pakalpojumu pārdošanas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6320
 #: model:account.account.template,name:l10n_lv.lv_account_template_6320
 msgid "Revenues from waste processing and sale"
-msgstr ""
+msgstr "Ieņēmumi no atkritumu pārstrādes un realizācijas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6710
 #: model:account.account.template,name:l10n_lv.lv_account_template_6710
 msgid "Revenues of other periods relating to the reporting period"
-msgstr ""
+msgstr "Citu periodu ieņēmumi, kas attiecas uz pārskata periodu"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6970
 #: model:account.account.template,name:l10n_lv.lv_account_template_6970
 msgid "Revenues of sports institutions and from culture events"
-msgstr ""
+msgstr "Kultūras un sporta iestāžu un pasākumu ieņēmumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.saa
@@ -2026,19 +2023,19 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_7230
 #: model:account.account.template,name:l10n_lv.lv_account_template_7230
 msgid "Salaries of employees of social infrastructure institutions and events"
-msgstr ""
+msgstr "Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7220
 #: model:account.account.template,name:l10n_lv.lv_account_template_7220
 msgid "Salaries of management and administrative staff"
-msgstr ""
+msgstr "Pārvaldes personāla un administratīvā personāla algas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6220
 #: model:account.account.template,name:l10n_lv.lv_account_template_6220
 msgid "Sales revenue subject to special taxes"
-msgstr ""
+msgstr "Ar īpašiem nodokļiem apliekamie pārdošanas ieņēmum"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.sav
@@ -2049,122 +2046,121 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_4110
 #: model:account.account.template,name:l10n_lv.lv_account_template_4110
 msgid "Savings for pensions and similar liabilities"
-msgstr ""
+msgstr "Uzkrājumi pensijām un tamlīdzīgām saistībām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5741
 #: model:account.account.template,name:l10n_lv.lv_account_template_5741
 msgid "Settlements for business risk state fees"
-msgstr ""
+msgstr "Norēķini par uzņēmējdarbības riska valsts nodevām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5650
 #: model:account.account.template,name:l10n_lv.lv_account_template_5650
 msgid "Settlements for debts to personnel"
-msgstr ""
+msgstr "Norēķini par parādiem personālam"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5620
 #: model:account.account.template,name:l10n_lv.lv_account_template_5620
 msgid "Settlements for deductions from wages (excluding taxes)"
-msgstr ""
+msgstr "Norēķini par ieturējumiem no darba algas (izņemot nodokļus)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5810
 #: model:account.account.template,name:l10n_lv.lv_account_template_5810
 msgid "Settlements for dividends for the reporting year"
-msgstr ""
+msgstr "Norēķini par pārskata gada dividendēm"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5710
 #: model:account.account.template,name:l10n_lv.lv_account_template_5710
 msgid "Settlements for income tax"
-msgstr ""
+msgstr "Norēķini par uzņēmumu ienākuma nodokli"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5610
 #: model:account.account.template,name:l10n_lv.lv_account_template_5610
-msgid "Settlements for labor wages (payroll)"
-msgstr ""
+msgid "Settlements for salaries"
+msgstr "Norēķini par darba algu"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5731
 #: model:account.account.template,name:l10n_lv.lv_account_template_5731
 msgid "Settlements for mandatory state social insurance contributions"
-msgstr ""
+msgstr "Norēķini par valsts sociālās apdrošināšanas obligātajām iemaksām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5751
 #: model:account.account.template,name:l10n_lv.lv_account_template_5751
 msgid "Settlements for personal income tax"
-msgstr ""
+msgstr "Norēķini par iedzīvotāju ienākuma nodokli"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5820
 #: model:account.account.template,name:l10n_lv.lv_account_template_5820
 msgid "Settlements for unpaid dividends of previous years"
-msgstr ""
+msgstr "Norēķini par iepriekšējo gadu neizmaksātajām dividendēm"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5721
 #: model:account.account.template,name:l10n_lv.lv_account_template_5721
 msgid "Settlements for value added tax"
-msgstr ""
+msgstr "Norēķini par pievienotās vērtības nodokli"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2380
 #: model:account.account.template,name:l10n_lv.lv_account_template_2380
-msgid ""
-"Settlements of claims against personnel and short-term loans to personnel"
-msgstr ""
+msgid "Settlements of claims against personnel and short-term loans to personnel"
+msgstr "Norēķini par prasībām pret personālu un īstermiņa aizdevumi personālam"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2350
 #: model:account.account.template,name:l10n_lv.lv_account_template_2350
 msgid "Settlements with other debtors"
-msgstr ""
+msgstr "Norēķini ar citiem debitoriem"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2420
 #: model:account.account.template,name:l10n_lv.lv_account_template_2420
 msgid "Share issue valuation (disagio)"
-msgstr ""
+msgstr "Akciju emisijas nocenojums (disagio)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2520
 #: model:account.account.template,name:l10n_lv.lv_account_template_2520
-msgid "Shares and shares of related companies"
-msgstr ""
+msgid "Shares of related companies"
+msgstr "Saistīto uzņēmumu akcijas un daļas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2510
 #: model:account.account.template,name:l10n_lv.lv_account_template_2510
-msgid "Shares and shares of the subsidiary company"
-msgstr ""
+msgid "Shares of the subsidiary company"
+msgstr "Meitas uzņēmuma akcijas un daļas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2530
 #: model:account.account.template,name:l10n_lv.lv_account_template_2530
 msgid "Shares of own company"
-msgstr ""
+msgstr "Pašu uzņēmuma akcijas un daļas"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2370
 #: model:account.account.template,name:l10n_lv.lv_account_template_2370
 msgid "Short-term loans for company members and management"
-msgstr ""
+msgstr "Īstermiņa aizdevumi sabiedrības dalībniekiem un vadībai"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_5131
 #: model:account.account.template,name:l10n_lv.lv_account_template_5131
 msgid "Short-term loans from credit institutions"
-msgstr ""
+msgstr "Īstermiņa aizņēmumi no kredītiestādēm"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7310
 #: model:account.account.template,name:l10n_lv.lv_account_template_7310
 msgid "Social tax"
-msgstr ""
+msgstr "Sociālais nodoklis"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.spa
@@ -2180,45 +2176,43 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_3310
 #: model:account.account.template,name:l10n_lv.lv_account_template_3310
 msgid "Statutory reserves"
-msgstr ""
+msgstr "Likumā noteiktās rezerves"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2330
 #: model:account.account.template,name:l10n_lv.lv_account_template_2330
 msgid "Subsidiary debts"
-msgstr ""
+msgstr "Meitas uzņēmuma parādi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8820
 #: model:account.account.template,name:l10n_lv.lv_account_template_8820
-msgid ""
-"Tax on the use of natural resources in the part payable from the profit"
-msgstr ""
+msgid "Tax on the use of natural resources in the part payable from the profit"
+msgstr "odoklis par dabas resursu izmantošanu no peļņas maksājamā daļā"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6570
 #: model:account.account.template,name:l10n_lv.lv_account_template_6570
 msgid "Tax reduction of previous years"
-msgstr ""
+msgstr "Iepriekšējo gadu nodokļa samazinājums"
 
 #. module: l10n_lv
 #: model:ir.model,name:l10n_lv.model_account_tax_template
 msgid "Templates for Taxes"
-msgstr ""
+msgstr "Sagataves nodokļiem"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1193
 #: model:account.account.template,name:l10n_lv.lv_account_template_1193
 msgid ""
-"The written-off part of the value of other intangible investments "
-"(liability)"
-msgstr ""
+"The written-off part of the value of other intangible investments (passive)"
+msgstr "Citu nemateriālo ieguldījumu vērtības norakstītā daļa (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7760
 #: model:account.account.template,name:l10n_lv.lv_account_template_7760
 msgid "Transport expenses for administration"
-msgstr ""
+msgstr "Transporta izdevumi administrācijas vajadzībām"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.uzn
@@ -2229,25 +2223,25 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_2120
 #: model:account.account.template,name:l10n_lv.lv_account_template_2120
 msgid "Unfinished production"
-msgstr ""
+msgstr "Nepabeigtie ražojumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2360
 #: model:account.account.template,name:l10n_lv.lv_account_template_2360
 msgid "Unpaid company capital settlements"
-msgstr ""
+msgstr "Norēķini par parakstītā sabiedrības kapitālā neiemaksātās summām"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7920
 #: model:account.account.template,name:l10n_lv.lv_account_template_7920
 msgid "Utility expenses"
-msgstr ""
+msgstr "Komunālās saimniecības izdevumi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6920
 #: model:account.account.template,name:l10n_lv.lv_account_template_6920
 msgid "Utility income"
-msgstr ""
+msgstr "Komunālās saimniecības ieņēmumi"
 
 #. module: l10n_lv
 #: model:res.partner.title,name:l10n_lv.uzn
@@ -2258,7 +2252,7 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_5744
 #: model:account.account.template,name:l10n_lv.lv_account_template_5744
 msgid "VAT from advances received"
-msgstr ""
+msgstr "PVN no saņemtajiem avansiem"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.vu
@@ -2274,51 +2268,49 @@ msgstr ""
 #: model:account.account,name:l10n_lv.1_lv_account_template_5722
 #: model:account.account.template,name:l10n_lv.lv_account_template_5722
 msgid "Value added tax paid"
-msgstr ""
+msgstr "Valsts budžetā samaksātais pievienotās vērtības nodoklis"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_2160
 #: model:account.account.template,name:l10n_lv.lv_account_template_2160
 msgid "Working animals and productive animals"
-msgstr ""
+msgstr "Darba dzīvnieki un produktīvie dzīvnieki"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_6590
 #: model:account.account.template,name:l10n_lv.lv_account_template_6590
 msgid "Works performed for the company's own capital investments"
-msgstr ""
+msgstr "Pašu uzņēmuma kapitālieguldījumiem izpildītie darbi"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7440
 #: model:account.account.template,name:l10n_lv.lv_account_template_7440
 msgid "Writing off the value of current assets"
-msgstr ""
+msgstr "Apgrozāmo līdzekļu vērtības norakstīšana"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_7410
 #: model:account.account.template,name:l10n_lv.lv_account_template_7410
 msgid "Writing off the value of intangible assets"
-msgstr ""
+msgstr "Nemateriālo ieguldījumu vērtības norakstīšana"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_8210
 #: model:account.account.template,name:l10n_lv.lv_account_template_8210
 msgid "Writing off the value of short-term financial investments"
-msgstr ""
+msgstr "Īstermiņa finanšu ieguldījumu vērtības norakstīšana"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1192
 #: model:account.account.template,name:l10n_lv.lv_account_template_1192
-msgid ""
-"Written-off portion of concessions, patents, licenses, trademarks and "
-"similar rights (passive)"
-msgstr ""
+msgid "Written-off portion of concessions, patents, licenses, trademarks and similar rights (passive)"
+msgstr "Koncesiju, patentu, licenču, preču zīmju un tamlīdzīgu tiesību norakstītā daļa (pasīvā)"
 
 #. module: l10n_lv
 #: model:account.account,name:l10n_lv.1_lv_account_template_1191
 #: model:account.account.template,name:l10n_lv.lv_account_template_1191
 msgid "Written-off portion of development costs (passive)"
-msgstr ""
+msgstr "Attīstības izmaksu norakstītā daļa (pasīvā)"
 
 #. module: l10n_lv
 #: model:res.partner.title,shortcut:l10n_lv.zem
