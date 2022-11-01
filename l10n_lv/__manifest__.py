@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    Part of Odoo.
-#    Copyright (C) 2021 Allegro IT (<https://allegro.lv/>)
+#    Copyright (C) 2022 Allegro IT (<https://allegro.lv/>)
 #                       E-mail: <info@allegro.lv>
 #                       Address: <Vienibas gatve 109 LV-1058 Riga Latvia>
 #                       Phone: +371 67289467
@@ -23,37 +23,51 @@
 ##############################################################################
 
 {
-    'name': 'Latvia - Accounting',
-    'version': '1.1',
-    'category': 'Localization',
-    'summary': 'Accounting configuration for Latvia',
-    'description': """
-Adds Chart of Accounts, Chart of Taxes, Fiscal Positions, Banks and Partner Titles.
+    "name": "Latvia - Accounting",
+    "version": "1.1",
+    "category": "Localization",
+    "summary": "Accounting configuration for Latvia",
+    "description": """
+Adds Chart of accounts, Chart of taxes, Fiscal positions, Banks and Partner titles.
 """,
-    'author': 'Allegro IT',
-    'website': 'https://allegro.lv',
-    'license': 'LGPL-3',
-    'images': [],
-    'depends': [
-        'account'
+    "author": "Allegro IT",
+    "website": "https://allegro.lv",
+    "license": "LGPL-3",
+    "images": [],
+    "depends": [
+        "account"
+        "l10n_multilang",
     ],
-    'data': [
-        'data/update_data.xml',
-        'data/res_company_data.xml',
-        'data/account_account_type_data.xml',
-        'data/account_account_tag_data.xml',
-        'data/account_chart_template_data.xml',
-        'data/account_group_template_data.xml',
-        'data/account_account_template_data.xml',
-        'data/account_tax_template_data.xml',
-        'data/account_fiscal_position_template_data.xml',
-        'data/res_partner_title_data.xml',
-        'data/res.bank.csv',
-        'data/account_payment_terms_data.xml',
-        'views/res_partner_view.xml'
+    "data": [
+
+        # Chart of Accounts
+        "data/account_chart_template_data.xml",
+        "data/account_account_tag_data.xml",
+        "data/account.account.template.csv",
+        "data/account.group.template.csv",
+
+        #      "data/account_account_type_data.xml",
+        #      "data/account_group_template_data.xml",
+        #      "data/account_account_template_data.xml",
+
+        # Taxes
+        "data/account_tax_group_data.xml",
+        "data/account_tax_report_data.xml",
+        "data/account_tax_template_data.xml",
+        "data/account_fiscal_position_template_data.xml",
+        "data/account_account_template_post_data.xml",
+
+        # Views and others
+        "views/res_partner_view.xml"
+        "data/update_data.xml",
+        "data/res_company_data.xml",
+        "data/res_partner_title_data.xml",
+        "data/res.bank.csv",
+        "data/account_payment_terms_data.xml",
+
     ],
-    'demo': [],
-    'installable': True,
-    'auto_install': False,
-    'qweb': [],
+    "demo": [],
+    "installable": True,
+    "auto_install": False,
+    "qweb": [],
 }
