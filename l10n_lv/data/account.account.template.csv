@@ -1,0 +1,208 @@
+id,code,name,account_type,chart_template_id/id,tag_ids/id,reconcile
+a1110,1110,Attīstības izmaksas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1120,1120,"Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības",liability_non_current,l10n_lv.l10n_lv_chart_template,,FALSE
+a1130,1130,Citi nemateriālie ieguldījumi,asset_non_current,l10n_lv.l10n_lv_chart_template,,FALSE
+a1140,1140,Nemateriālā vērtība,asset_fixed,l10n_lv.l10n_lv_chart_template,,FALSE
+a1150,1150,Avansa maksājumi par nemateriālajiem ieguldījumiem,asset_current,l10n_lv.l10n_lv_chart_template,,FALSE
+a1191,1191,Attīstības izmaksu norakstītā daļa (pasīvā),asset_receivable,l10n_lv.l10n_lv_chart_template,,FALSE
+a1192,1192,"Koncesiju, patentu, licenču, preču zīmju un tamlīdzīgu tiesību norakstītā daļa (pasīvā)",liability_current,l10n_lv.l10n_lv_chart_template,,FALSE
+a1193,1193,Citu nemateriālo ieguldījumu vērtības norakstītā daļa (pasīvā),,l10n_lv.l10n_lv_chart_template,,FALSE
+a1210,1210,"Zemes gabali, ēkas un būves un ilggadīgie stādījumi",,l10n_lv.l10n_lv_chart_template,,FALSE
+a1220,1220,Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1230,1230,Iekārtas un mašīnas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1240,1240,Pārējie pamatlīdzekļi un inventārs,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1250,1250,Pamatlīdzekļu izveidošanas un nepabeigto celtniecības objektu izmaksas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1260,1260,Avansa maksājumi par pamatlīdzekļiem,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1291,1291,"Zemes gabalu, ēku un būvju un ilggadīgo stādījumu nolietojums (pasīvā)",,l10n_lv.l10n_lv_chart_template,,FALSE
+a1292,1292,Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā),,l10n_lv.l10n_lv_chart_template,,FALSE
+a1293,1293,Iekārtu un mašīnu nolietojums (pasīvā),,l10n_lv.l10n_lv_chart_template,,FALSE
+a1294,1294,Pārējo pamatlīdzekļu un inventāra nolietojums (pasīvā),,l10n_lv.l10n_lv_chart_template,,FALSE
+a1310,1310,Ieguldījuma īpašumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1410,1410,Bioloģiskie aktīvi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1510,1510,Līdzdalība radniecīgo sabiedrību kapitālā,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1520,1520,Aizdevumi radniecīgajām sabiedrībām,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1530,1530,Līdzdalība asociēto sabiedrību kapitālā,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1540,1540,Aizdevumi asociētajām sabiedrībām,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1550,1550,Pārējie vērtspapīri un ieguldījumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1560,1560,Pārējie aizdevumi un citi ilgtermiņa debitori,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1570,1570,Pašu akcijas un daļas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a1580,1580,Aizdevumi akcionāriem vai dalībniekiem un vadībai,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2110,2110,"Izejvielas, pamatmateriāli un palīgmateriāli",,l10n_lv.l10n_lv_chart_template,,FALSE
+a2120,2120,Nepabeigtie ražojumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2130,2130,Gatavie ražojumi un preces pārdošanai,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2140,2140,Nepabeigtie pasūtījumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2150,2150,Avansa maksājumi par precēm,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2160,2160,Darba dzīvnieki un produktīvie dzīvnieki,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2210,2210,Pārdošanai turēti ilgtermiņa ieguldījumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2310,2310,Pircēju un pasūtītāju parādi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2320,2320,Par piegādēm un pasūtītājiem saņemtie vekseļi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2330,2330,Meitas uzņēmuma parādi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2340,2340,Saistīto uzņēmumu parādi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2350,2350,Norēķini ar citiem debitoriem,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2360,2360,Norēķini par parakstītā sabiedrības kapitālā neiemaksātās summām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2370,2370,Īstermiņa aizdevumi sabiedrības dalībniekiem un vadībai,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2380,2380,Norēķini par prasībām pret personālu un īstermiņa aizdevumi personālam,,l10n_lv.l10n_lv_chart_template,,TRUE
+a2390,2390,"Pārmaksātie nodokļi, iepriekš samaksātie nodokļi",,l10n_lv.l10n_lv_chart_template,,TRUE
+a2410,2410,Nākamo periodu izdevumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2420,2420,Akciju emisijas nocenojums (disagio),,l10n_lv.l10n_lv_chart_template,,FALSE
+a2510,2510,Meitas uzņēmuma akcijas un daļas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2520,2520,Saistīto uzņēmumu akcijas un daļas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2530,2530,Pašu uzņēmuma akcijas un daļas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2540,2540,Pārējie vērtspapīri un līdzdalība kapitālos,,l10n_lv.l10n_lv_chart_template,,FALSE
+a2611,2610,Cash,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2621,2621,Bank Suspense Account,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2622,2622,Outstanding Receipts,asset_cash,l10n_lv.l10n_lv_chart_template,,TRUE
+a2623,2623,Outstanding Payments,asset_cash,l10n_lv.l10n_lv_chart_template,,TRUE
+a2624,2620,Banka,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2640,2640,"Akreditīvi, čeki un īpašu norēķina formu konti",asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2650,2650,Citi konti bankās,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2670,2670,Pārējie naudas līdzekļi,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2690,2690,Nauda ceļā,asset_cash,l10n_lv.l10n_lv_chart_template,,FALSE
+a2691,2691,Liquidity Transfer,asset_cash,l10n_lv.l10n_lv_chart_template,,TRUE
+a3110,3110,Akciju vai daļu kapitāls (pamatkapitāls),equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3120,3120,Akciju (daļu) emisijas uzcenojums,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3130,3130,Ilgtermiņa ieguldījumu pārvērtēšanas rezerve,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3140,3140,Finanšu instrumentu pārvērtēšanas rezerve,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3310,3310,Likumā noteiktās rezerves,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3320,3320,Rezerves pašu akcijām vai daļām,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3330,3330,Sabiedrības statūtos noteiktās rezerves,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3340,3340,Pārējās rezerves,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3410,3410,Iepriekšējo gadu nesadalītā peļņa,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a3420,3420,Pārskata gada nesadalītā peļņa,equity,l10n_lv.l10n_lv_chart_template,,FALSE
+a4110,4110,Uzkrājumi pensijām un tamlīdzīgām saistībām,,l10n_lv.l10n_lv_chart_template,,FALSE
+a4210,4210,Uzkrājumi paredzamajiem nodokļiem,,l10n_lv.l10n_lv_chart_template,,FALSE
+a4310,4310,Citi uzkrājumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a5110,5110,Aizņēmumi pret obligācijām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5120,5120,Akcijās pārvēršamie aizņēmumi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5131,5131,Īstermiņa aizņēmumi no kredītiestādēm,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5132,5132,Ilgtermiņa aizņēmumi no kredītiestādēm,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5140,5140,Citi aizņēmumi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5210,5210,No pircējiem saņemtie avansi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5310,5310,Parādi piegādātājiem un darbuzņēmējiem,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5410,5410,Maksājamie vekseļi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5510,5510,Parādi radniecīgajām sabiedrībām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5520,5520,Parādi asociētajām sabiedrībām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5610,5610,Norēķini par darba algu,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5620,5620,Norēķini par ieturējumiem no darba algas (izņemot nodokļus),,l10n_lv.l10n_lv_chart_template,,TRUE
+a5650,5650,Norēķini par parādiem personālam,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5710,5710,Norēķini par uzņēmumu ienākuma nodokli,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5721,5721,Norēķini par pievienotās vērtības nodokli,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5722,5722,Valsts budžetā samaksātais pievienotās vērtības nodoklis,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5723,5723,Aprēķinātas nokavējuma naudas par pievienotās vērtības nodokli,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5731,5731,Norēķini par valsts sociālās apdrošināšanas obligātajām iemaksām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5732,5732,Valsts budžetā samaksātās valsts sociālās apdrošināšanas obligātās iemaksas,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5733,5733,Aprēķinātās nokavējuma naudas par valsts sociālās apdrošināšanas obligātajām iemaksām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5741,5741,Norēķini par uzņēmējdarbības riska valsts nodevām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5742,5742,Valsts budžetā samaksātās uzņēmējdarbības riska valsts nodevas,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5743,5743,Aprēķinātās nokavējuma naudas par uzņēmējdarbības riska valsts nodevām,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5744,5744,PVN no saņemtajiem avansiem,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5751,5751,Norēķini par iedzīvotāju ienākuma nodokli,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5752,5752,Valsts budžetā samaksātais iedzīvotāju ienākuma nodoklis,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5753,5753,Aprēķinātās nokavējuma naudas par iedzīvotāju ienākuma nodokli,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5810,5810,Norēķini par pārskata gada dividendēm,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5820,5820,Norēķini par iepriekšējo gadu neizmaksātajām dividendēm,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5910,5910,Nākamo periodu ieņēmumi,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5920,5920,Uzkrātās saistības,,l10n_lv.l10n_lv_chart_template,,TRUE
+a5930,5930,Atvasinātie finanšu instrumenti,,l10n_lv.l10n_lv_chart_template,,TRUE
+a6110,6110,Ieņēmumi no pamatdarbības produkcijas un pakalpojumu pārdošanas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6210,6210,Ar nodokļiem neapliekamie pārdošanas ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6220,6220,Ar īpašiem nodokļiem apliekamie pārdošanas ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6310,6310,Komisijas un starpniecības ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6320,6320,Ieņēmumi no atkritumu pārstrādes un realizācijas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6330,6330,Ieņēmumi no taras realizācijas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6340,6340,Ar nodokļiem neapliekamie ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6410,6410,Piešķirtās skonto atlaides,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6420,6420,Piešķirtie bonusi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6430,6430,Piešķirtie rabati un citas tirdzniecības atlaides,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6510,6510,Ieņēmumi no vērtspapīru kursa paaugstināšanās,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6520,6520,Ieņēmumi no pamatlīdzekļu pārdošanas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6530,6530,Ieņēmumi no zemes gabalu iznomāšanas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6540,6540,Ieņēmumi no apgrozāmo līdzekļu pārdošanas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6550,6550,Ieņēmumi no pamatlīdzekļu iznomāšanas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6560,6560,Ieņēmumos pārskaitītais rezervju un uzkrājumu samazinājums,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6570,6570,Iepriekšējo gadu nodokļa samazinājums,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6580,6580,Papildus ieguldījumi un citi ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6590,6590,Pašu uzņēmuma kapitālieguldījumiem izpildītie darbi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6610,6610,Gatavās produkcijas krājumu un vērtības izmaiņas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6620,6620,Nepabeigto ražojumu krājumu un vērtības izmaiņas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6630,6630,Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6640,6640,Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6710,6710,"Citu periodu ieņēmumi, kas attiecas uz pārskata periodu",income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6910,6910,Dzīvokļu saimniecības ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6920,6920,Komunālās saimniecības ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6930,6930,Sadzīves pakalpojumu ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6940,6940,Sabiedriskās ēdināšanas ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6950,6950,Izglītības iestāžu ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6960,6960,Medicīnas iestāžu ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6970,6970,Kultūras un sporta iestāžu un pasākumu ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a6980,6980,Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi,income,l10n_lv.l10n_lv_chart_template,,FALSE
+a7110,7110,Izejvielu un materiālu iepirkšanas un piegādes izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7120,7120,Preču iepirkšanas un piegādes izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7130,7130,Saņemtās atlaides,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7140,7140,Taras izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7150,7150,Muitas un ievednodevas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7160,7160,Pārējie ārējie izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7170,7170,Samaksa par darbiem un pakalpojumiem no ārienes,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7180,7180,"Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)",expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7190,7190,Pirkto materiālu un preču krājumu un vērtības izmaiņas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7210,7210,Strādnieku algas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7220,7220,Pārvaldes personāla un administratīvā personāla algas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7230,7230,Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7240,7240,Pārējās personāla izmaksas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7310,7310,Sociālais nodoklis,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7320,7320,Pārējās sociālās izmaksas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7410,7410,Nemateriālo ieguldījumu vērtības norakstīšana,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7420,7420,Pamatlīdzekļu nolietojums,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7440,7440,Apgrozāmo līdzekļu vērtības norakstīšana,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7510,7510,Dabas aizsardzības izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7530,7530,Nodevas par ražošanā izmantotiem zemes gabaliem,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7540,7540,Apdrošināšanas maksājumi (izņemot darbinieku apdrošināšanu),expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7550,7550,Pārējie saimnieciskās darbības izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7560,7560,Strādnieku vervēšanas un apmācības izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7570,7570,Komandējumu izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7610,7610,"Iesaiņojamais materiāls, tara",expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7620,7620,Preču transporta izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7630,7630,Preču transporta apdrošināšana,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7640,7640,Samaksātās komisijas naudas,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7650,7650,Citi pārdošanas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7710,7710,Sakaru izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7720,7720,Kantora (biroja) izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7730,7730,Juristu pakalpojumu apmaksa,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7740,7740,Gada pārskata un revīzijas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7750,7750,Naudas apgrozījuma blakus izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7760,7760,Transporta izdevumi administrācijas vajadzībām,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7770,7770,Citi vadīšanas un administrācijas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7810,7810,Pārskata periodā iekļaujamie iepriekšējo periodu izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7910,7910,Dzīvokļu saimniecības izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7920,7920,Komunālās saimniecības izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7930,7930,Sadzīves pakalpojumu izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7940,7940,Sabiedriskās ēdināšanas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7950,7950,Izglītības iestāžu izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7960,7960,Medicīniskās apkalpošanas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7970,7970,Kultūras un sporta iestāžu un pasākumu izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a7980,7980,Pārējie sociālās infrastruktūras uzturēšanas izdevumi,expense,l10n_lv.l10n_lv_chart_template,,FALSE
+a8110,8110,"Ieņēmumi no līdzdalības, vērtspapīriem un aizdevumiem",,l10n_lv.l10n_lv_chart_template,,FALSE
+a8120,8120,Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8130,8130,Vekseļu diskonta ieņēmumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8140,8140,Ziedojumi un citi tiem pielīdzināmi ieņēmumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8150,8150,Ienākumi no valūtu kursa paaugstināšanās,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8160,8160,Saņemtās soda naudas un līgumsodi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8170,8170,Peļņa no ārzemju valūtas pārdošanas vai pirkšanas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8190,8190,Citi ieņēmumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8210,8210,Īstermiņa finanšu ieguldījumu vērtības norakstīšana,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8220,8220,Samaksātie procenti un tiem pielīdzināmie izdevumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8230,8230,Vekseļu diskonta izmaksas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8240,8240,Ilgtermiņa aizdevumu procentu samaksa,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8250,8250,Zaudējumi no valūtu kursa pazemināšanās,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8260,8260,Samaksātās soda naudas un līgumsodi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8270,8270,Zaudējumi no ārzemju valūtas pirkšanas vai pārdošanas,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8290,8290,Citi izdevumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8310,8310,Ārkārtas ieņēmumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8410,8410,Ārkārtas izdevumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8610,8610,Peļņa vai zaudējumi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8810,8810,Uzņēmumu ienākuma nodoklis,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8820,8820,Nodoklis par dabas resursu izmantošanu no peļņas maksājamā daļā,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8830,8830,Nekustamā īpašuma nodoklis,,l10n_lv.l10n_lv_chart_template,,FALSE
+a8840,8840,Citi saimnieciskās darbības izmaksās neiekļaujamie nodokļi,,l10n_lv.l10n_lv_chart_template,,FALSE
+a9991,9991,Cash Difference Loss,,l10n_lv.l10n_lv_chart_template,,FALSE
+a9992,9992,Cash Difference Gain,,,,FALSE
