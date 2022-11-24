@@ -205,4 +205,4 @@ a8820,8820,Nodoklis par dabas resursu izmantošanu no peļņas maksājamā daļ�
 a8830,8830,Nekustamā īpašuma nodoklis,,l10n_lv.l10n_lv_chart_template,,FALSE
 a8840,8840,Citi saimnieciskās darbības izmaksās neiekļaujamie nodokļi,,l10n_lv.l10n_lv_chart_template,,FALSE
 a9991,9991,Cash Difference Loss,,l10n_lv.l10n_lv_chart_template,,FALSE
-a9992,9992,Cash Difference Gain,,,,FALSE
+a9992,9992,Cash Difference Gain,,l10n_lv.l10n_lv_chart_template,,FALSE
