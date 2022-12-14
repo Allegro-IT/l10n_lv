@@ -19,6 +19,7 @@
     'website': "https://allegro.lv",
     'category': 'Accounting/Localizations/Account Charts',
     'depends': [
+        'l10n_multilang',
     ],
     'data': [
 # Data for Trial balance and profit/loss report
