@@ -12,6 +12,9 @@
         * Fiscal positions.
         * Account Tags.
         * Latvian and Lithuanian banks list.
+       
+        author is Allegro IT (visit for more information https://www.allegro.lv)
+        
         co-author is Chick.Farm (visit for more information https://www.myacc.cloud)
     """,
     'license': 'LGPL-3',
