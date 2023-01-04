@@ -1421,6 +1421,4 @@ veikta preču piegāde uz noliktavu citā dalībvalstī; -->
     <field name="country_id" ref="base.lv"/>
     </record>
 
-
-
 </odoo>
