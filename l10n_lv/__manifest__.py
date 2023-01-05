@@ -1,6 +1,6 @@
 {
     'name': "Latvia - Accounting",
-    'version': '16.0.0.5',
+    'version': '16.0.0.7',
     'description': """
         Chart of Accounts (COA) Template for Latvia's Accounting.
 
@@ -21,7 +21,9 @@
     'website': "https://allegro.lv",
     'category': 'Accounting/Localizations/Account Charts',
     'depends': [
-    'l10n_multilang',
+        'l10n_multilang',
+        'account',
+        'base_vat',
     ],
     'data': [
 # Data for Trial balance and profit/loss report
