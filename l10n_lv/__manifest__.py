@@ -26,25 +26,21 @@
         'base_vat',
     ],
     'data': [
-# Data for Trial balance and profit/loss report
         'data/account_account_tag_data.xml',
-
-# Information about accounting plan
         'data/account_chart_template_data.xml',
-# Accounting plan
         'data/account.account.template.csv',
         'data/account.group.template.csv',
-#Jornal data
         'data/account_chart_template_setup_data.xml',
         'data/res_bank_data_lv.xml',
         'data/res_bank_data_lt.xml',
         'data/account_tax_group_data.xml',
         'data/account_tax_template_data.xml',
         'data/account_fiscal_position_template_data.xml',
-# Try Loading COA for Current Company
         'data/account_chart_template_load.xml',
     ],
-
+    'demo': [
+        'demo/demo_company.xml',
+    ],
     'post_init_hook': 'load_translations',
     'installable': True,
 }
