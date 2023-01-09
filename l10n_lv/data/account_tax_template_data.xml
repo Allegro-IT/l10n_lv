@@ -188,7 +188,6 @@
         ]"/>
     </record>
 
-
       <!-- Purchases -->
     <!-- 21% VAT, VAT report r62 + PVN 1.1. -->
        <record id="account_tax_template_sales_VAT_11A_tag" model="account.tax.template">
