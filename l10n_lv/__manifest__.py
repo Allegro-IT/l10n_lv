@@ -6,11 +6,11 @@
 
         This module also includes:
 
-        * Tax groups.
-        * Most common Latvian Taxes.
-        * Fiscal positions.
-        * Account Tags.
-        * Latvian and Lithuanian banks list.
+        * Tax groups,
+        * Most common Latvian Taxes,
+        * Fiscal positions,
+        * Account Tags,
+        * Latvian and Lithuanian bank list.
        
         author is Allegro IT (visit for more information https://www.allegro.lv)
         
