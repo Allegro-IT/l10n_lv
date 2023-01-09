@@ -1,263 +1,263 @@
-id,name,code,account_type,chart_template_id/id,reconcile
-a1110,Pētniecības un uzņēmuma attīstības izmaksas,1110,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1120,"Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības",1120,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1130,Citi nemateriālie ieguldījumi,1130,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1140,Nemateriālā vērtība,1140,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1180,Avansa maksājumi par nemateriālajiem ieguldījumiem,1150,Prepayments,l10n_lv.account_chart_template_latvia,False
-a1191,Attīstības izmaksu norakstītā daļa (pasīvā),1191,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1192,"Koncesiju, patentu, licenču, preču zīmju un tamlīdzīgu tiesību norakstītā daļa (pasīvā)",1192,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1193,Citu nemateriālo ieguldījumu vērtības norakstītā daļa (pasīvā),1193,asset_non_current,l10n_lv.account_chart_template_latvia,False
-a1210,"Nekustamā īpašuma objekti: Zemes gabali, ēkas un būves",1210,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1220,Tehnoloģiskās iekārtas un mašīnas,1220,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1230,Pārējie pamatlīdzekļi un inventārs,1230,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1240,Pamatlīdzekļu izveidošanas un nepabeigto celtniecības objektu izmaksas,1240,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1250,Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos,1250,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1260,Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos,1260,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1280,Avansa maksājumi par pamatlīdzekļiem,1280,Prepayments,l10n_lv.account_chart_template_latvia,False
-a1291,"Zemes gabalu, ēku un būvju un ilggadīgo stādījumu nolietojums (pasīvā)",1291,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1292,Iekārtu un mašīnu nolietojums (pasīvā),1292,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1293,Pārējo pamatlīdzekļu un inventāra nolietojums (pasīvā),1293,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1294,Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā),1294,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1310,Zemes gabali,1310,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1320,"Ēkas, būves vai to daļas",1320,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1330,Ieguldījuma īpašumu  izveidošanas izmaksas,1330,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1390,Ieguldījuma īpašumu  uzkrātais nolietojums (pasīva konts),1390,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1410,Dzīvnieki,1410,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1420,Augi,1420,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1430,Darba vai produktīvie dzīvnieki,1430,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1440,Ilggadīgie stādījumi,1440,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1490,Bioloģisko aktīvu  uzkrātais nolietojums (pasīva konts),1490,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a1510,Līdzdalība radniecīgo sabiedrību kapitālā,1510,asset_current,l10n_lv.account_chart_template_latvia,False
-a1520,Aizdevumi radniecīgajām sabiedrībām,1520,asset_current,l10n_lv.account_chart_template_latvia,False
-a1530,Līdzdalība asociēto sabiedrību kapitālā,1530,asset_current,l10n_lv.account_chart_template_latvia,False
-a1540,Aizdevumi asociētajām sabiedrībām,1540,asset_current,l10n_lv.account_chart_template_latvia,False
-a1550,Pārējie vērtspapīri un ieguldījumi,1550,asset_current,l10n_lv.account_chart_template_latvia,False
-a1560,Pārējie aizdevumi un citi ilgtermiņa debitori,1560,asset_current,l10n_lv.account_chart_template_latvia,False
-a1570,Pašu akcijas un daļas,1570,asset_current,l10n_lv.account_chart_template_latvia,False
-a1580,Aizdevumi akcionāriem vai dalībniekiem un vadībai,1580,asset_current,l10n_lv.account_chart_template_latvia,False
-a1590,Atliktā nodokļa aktīvi,1590,asset_current,l10n_lv.account_chart_template_latvia,False
-a2110,"Izejvielas, pamatmateriāli un palīgmateriāli",2110,asset_current,l10n_lv.account_chart_template_latvia,False
-a2120,Nepabeigtie ražojumi,2120,asset_current,l10n_lv.account_chart_template_latvia,False
-a2130,Gatavie ražojumi un preces pārdošanai,2130,asset_current,l10n_lv.account_chart_template_latvia,False
-a2140,Nepabeigtie pasūtījumi,2140,asset_current,l10n_lv.account_chart_template_latvia,False
-a2150,Mazvērtīgais inventārs,2150,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a2159,Mazvērtīgā inventāra norakstītā daļa (pasīva konts),2159,asset_fixed,l10n_lv.account_chart_template_latvia,False
-a2190,Avansa maksājumi par precēm,2190,Prepayments,l10n_lv.account_chart_template_latvia,False
-a2210,Lopi,2210,asset_current,l10n_lv.account_chart_template_latvia,False
-a2220,Jaunlopi un sīkie dzīvnieki,2220,asset_current,l10n_lv.account_chart_template_latvia,False
-a2230,Viengadīgie stādījumi,2230,asset_current,l10n_lv.account_chart_template_latvia,False
-a2310,Norēķini ar pircējiem un pasūtītājiem,2310,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2318,Norēķini ar šaubīgiem debitoriem,2318,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2320,Par piegādēm un pasūtījumiem saņemtie vekseļi,2320,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2330,Meitas uzņēmumu parādi,2330,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2340,Saistīto uzņēmumu parādi,2340,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2350,Norēķini ar citiem debitoriem,2350,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2360,Norēķini par sabiedrības kapitāla neiemaksātām summām,2360,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2370,Īstermiņa aizdevumi sabiedrības dalībniekiem un valdei,2370,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2380,Norēķini par prasībām personālam,2380,asset_receivable,l10n_lv.account_chart_template_latvia,True
-a2388,Uzkrātie ieņēmumi,2388,asset_current,l10n_lv.account_chart_template_latvia,False
-a2390,"Pārmaksātie nodokļi, iepriekš samaksātie nodokļi",2390,asset_current,l10n_lv.account_chart_template_latvia,False
-a2391,Nodokļu un nodevu dzēšana (nodokļu konts),2391,asset_current,l10n_lv.account_chart_template_latvia,False
-a2392,Iesaldēts atgūstams PVN,2392,asset_current,l10n_lv.account_chart_template_latvia,False
-a2399,"Aprēķināts, bet neatskaitīts PVN",2399,asset_current,l10n_lv.account_chart_template_latvia,False
-a2410,Nākamo periodu izdevumi,2410,asset_current,l10n_lv.account_chart_template_latvia,False
-a2420,Akciju emisijas nocenojums,2420,asset_current,l10n_lv.account_chart_template_latvia,False
-a2510,Meitas uzņēmuma akcijas un daļas,2510,asset_current,l10n_lv.account_chart_template_latvia,False
-a2520,Saistīto uzņēmumu akcijas un daļas,2520,asset_current,l10n_lv.account_chart_template_latvia,False
-a2530,Pašu uzņēmuma akcijas un daļas,2530,asset_current,l10n_lv.account_chart_template_latvia,False
-a2540,Pārējie vērtspapīri un līdzdalība kapitālos,2540,asset_current,l10n_lv.account_chart_template_latvia,False
-a2550,Atvasinātie finanšu instrumenti,2550,asset_current,l10n_lv.account_chart_template_latvia,False
-a2610,Skaidras naudas kase,2610,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2613,EKA (mazumtirdzniecības) kase,2613,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2620,Bankas konts,2620,asset_cash,l10n_lv.account_chart_template_latvia,False
-a26291,Bankas pagaidu konts,26291,asset_current,l10n_lv.account_chart_template_latvia,False
-a26292,Nonoslēgtie ieņēmumi,26292,asset_current,l10n_lv.account_chart_template_latvia,False
-a26293,Nonoslēgtie izdevumi,26293,asset_current,l10n_lv.account_chart_template_latvia,False
-a2640,"Akreditīvi, čeki un īpašu formu konti",2640,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2650,Citi konti bankās,2650,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2670,Pārējie naudas līdzekļi,2670,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2671,POS vai maksājumu sistēmu norēķini,2671,asset_cash,l10n_lv.account_chart_template_latvia,False
-a2696,Maksājumu ieskaite,2696,asset_current,l10n_lv.account_chart_template_latvia,False
-a2698,Valūtas konvertācijas konts,2698,asset_current,l10n_lv.account_chart_template_latvia,False
-a2699,Naudas līdzekļi ceļā,2699,asset_current,l10n_lv.account_chart_template_latvia,True
-a3110,Pamatkapitāls vai līdzdalības kapitāls,3110,equity,l10n_lv.account_chart_template_latvia,False
-a3111,Nereģistrēts pamatkapitāls,3111,equity,l10n_lv.account_chart_template_latvia,False
-a3120,Akciju emisijas uzcenojums,3120,equity,l10n_lv.account_chart_template_latvia,False
-a3130,Ilgtermiņa ieguldījumu pārvērtēšanas rezerve,3130,equity,l10n_lv.account_chart_template_latvia,False
-a3140,Finanšu instrumentu pārvērtēšanas rezerve,3140,equity,l10n_lv.account_chart_template_latvia,False
-a3210,Privātiem nolūkiem izņemtie līdzekļi,3210,liability_current,l10n_lv.account_chart_template_latvia,True
-a3220,Privātie ieguldījumi,3220,liability_current,l10n_lv.account_chart_template_latvia,True
-a3310,Likumā noteiktās rezerves,3310,equity,l10n_lv.account_chart_template_latvia,False
-a3320,Rezerve pašu akcijām un daļām,3320,equity,l10n_lv.account_chart_template_latvia,False
-a3330,Sabiedrības statūtos noteiktās rezerves,3330,equity,l10n_lv.account_chart_template_latvia,False
-a3340,"Rezerves, kas novirzītas attīstībai",3340,equity,l10n_lv.account_chart_template_latvia,False
-a3350,Ārvalstu valūtu pārrēķināšanas rezerve,3350,equity,l10n_lv.account_chart_template_latvia,False
-a3360,Pārējās rezerves,3360,equity,l10n_lv.account_chart_template_latvia,False
-a3410,Pārskata gada nesadalīta peļņa,3410,equity_unaffected,l10n_lv.account_chart_template_latvia,False
-a3420,Iepriekšējo gadu nesadalītā peļņa,3420,equity,l10n_lv.account_chart_template_latvia,False
-a4110,Uzkrājumi pensijām pielīdzinātām saistībām,4110,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a4210,Uzkrājumi paredzamiem nodokļiem,4210,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a4310,Citi uzkrājumi,4310,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a4319,Uzkrājumi šaubīgiem debitoriem,4319,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5110,Aizņēmumi par obligācijām,5110,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5120,Akcijās pārvēršamie aizņēmumi,5120,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5130,Aizņēmumi ar līdzdalību peļņā,5130,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5140,Citi aizņēmumi,5140,liability_non_current,l10n_lv.account_chart_template_latvia,True
-a5141,Aizņēmumi no dalībniekiem,5141,liability_non_current,l10n_lv.account_chart_template_latvia,True
-a5150,Īstermiņa aizņēmumi no kredītiestādēm,5150,liability_current,l10n_lv.account_chart_template_latvia,False
-a5160,Ilgtermiņa aizņēmumi no kredītiestādēm,5160,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5170,Īstermiņa līzinga saistības,5170,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5180,Ilgtermiņa līzinga saistības,5180,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5190,Aizņēmumi bez norādītā termiņa,5190,liability_non_current,l10n_lv.account_chart_template_latvia,False
-a5210,Norēķini par saņemtiem avansiem,5210,liability_current,l10n_lv.account_chart_template_latvia,True
-a5299,Aprēķināts un atskaitīts PVN,5299,liability_current,l10n_lv.account_chart_template_latvia,False
-a5310,Tekošie kreditoru parādi no saimnieciskās darbības (tirdzniecības),5310,liability_payable,l10n_lv.account_chart_template_latvia,True
-a5319,Uzkrātas kreditoru saistības,5319,liability_current,l10n_lv.account_chart_template_latvia,False
-a5410,Norēķini par pašu izdotajiem vekseļiem,5410,liability_current,l10n_lv.account_chart_template_latvia,False
-a5510,Norēķini par parādiem meitas uzņēmumiem,5510,liability_payable,l10n_lv.account_chart_template_latvia,True
-a5520,Norēķini par parādiem saistītajiem uzņēmumiem,5520,liability_current,l10n_lv.account_chart_template_latvia,False
-a5530,"Norēķini par parādiem ar uzņēmumiem, saskaņā ar līgumiem par līdzdalību",5530,liability_current,l10n_lv.account_chart_template_latvia,False
-a5540,Norēķini par parādiem ar citiem uzņēmumiem,5540,liability_current,l10n_lv.account_chart_template_latvia,False
-a5550,Norēķini par parādiem ar personālu,5550,liability_current,l10n_lv.account_chart_template_latvia,False
-a5610,Norēķini par darba algu,5610,liability_current,l10n_lv.account_chart_template_latvia,True
-a5611,Norēķini par darba algas avansiem,5611,liability_current,l10n_lv.account_chart_template_latvia,True
-a5612,Izmaksāta atvaļinājuma nauda,5612,liability_current,l10n_lv.account_chart_template_latvia,True
-a5613,Citas izmaksas un ienākumiem pieskaitāmie pie darba algas,5613,liability_current,l10n_lv.account_chart_template_latvia,True
-a5619,Izmaksājamie pabalsti,5619,liability_current,l10n_lv.account_chart_template_latvia,False
-a5620,Norēķini par ieturējumiem no darba algas,5620,liability_current,l10n_lv.account_chart_template_latvia,True
-a5621,Tiesas izpildītāju uzliktie ieturējumi - pirmās kārtās ieturējumi,5621,liability_current,l10n_lv.account_chart_template_latvia,True
-a5630,Citi norēķini ar darbiniekiem,5630,liability_current,l10n_lv.account_chart_template_latvia,True
-a5650,Norēķini par parādiem personālam,5650,liability_current,l10n_lv.account_chart_template_latvia,True
-a5710,Norēķini par uzņēmuma ienākuma nodokļi (UIN),5710,liability_current,l10n_lv.account_chart_template_latvia,False
-a5711,Norēķini par ārvalstu uzņēmuma ienākuma nodokļi,5711,liability_current,l10n_lv.account_chart_template_latvia,False
-a5721,Norēķini par pievienotās vērtības nodokļi (PVN),5721,liability_current,l10n_lv.account_chart_template_latvia,False
-a5722,Norēķini par Iedzīvotāju ienākuma nodokļi (IIN),5722,liability_current,l10n_lv.account_chart_template_latvia,False
-a5723,Norēķini par sociālās apdrošināšanas maksājumiem (VSAOI),5723,liability_current,l10n_lv.account_chart_template_latvia,False
-a5724,Norēķini par Valsts darba dēvēja riska nodevu (VDRN),5724,liability_current,l10n_lv.account_chart_template_latvia,False
-a5725,Norēķini par nekustamā īpašuma nodokli (NIN),5725,liability_current,l10n_lv.account_chart_template_latvia,False
-a5726,Norēķini par PVN OSS precēm un pakalpojumiem,5726,liability_current,l10n_lv.account_chart_template_latvia,False
-a5727,Norēķini par dabas resursa nodokli (DRN),5727,liability_current,l10n_lv.account_chart_template_latvia,False
-a5728,Norēķini par uzņēmumu vieglo transportlīdzekļu nodokli (UVTN),5728,liability_current,l10n_lv.account_chart_template_latvia,False
-a5729,Norēķini par Ievedmuitas nodokļi,5729,liability_current,l10n_lv.account_chart_template_latvia,False
-a5810,Norēķini par neizmaksātajam dividendēm,5810,liability_current,l10n_lv.account_chart_template_latvia,False
-a5910,Nākamo periodu ieņēmumi,5910,liability_current,l10n_lv.account_chart_template_latvia,False
-a5920,Uzkrātās saistības,5920,liability_current,l10n_lv.account_chart_template_latvia,False
-a5930,Atvasinātie finanšu instrumenti,5930,liability_current,l10n_lv.account_chart_template_latvia,False
-a6110,Ar PVN 21% pamatlikmi apliekamie ieņēmumi no pamatdarbības,6110,income,l10n_lv.account_chart_template_latvia,False
-a6120,Ar PVN 12% samazināto likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6120,income,l10n_lv.account_chart_template_latvia,False
-a6130,Ar PVN 5% samazināto likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6130,income,l10n_lv.account_chart_template_latvia,False
-a6140,Ar PVN 0 % likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6140,income,l10n_lv.account_chart_template_latvia,False
-a6210,Ar nodokļiem neapliekamie pārdošanas ieņēmumi,6210,income,l10n_lv.account_chart_template_latvia,False
-a6220,Ar īpašiem nodokļiem apliekamie pārdošanas ieņēmumi,6220,income,l10n_lv.account_chart_template_latvia,False
-a6310,Komisijas un starpniecības ieņēmumi,6310,income,l10n_lv.account_chart_template_latvia,False
-a6320,Ieņēmumi no atkritumu pārstrādes un realizācijas,6320,income,l10n_lv.account_chart_template_latvia,False
-a6330,Ieņēmumi no taras realizācijas,6330,income,l10n_lv.account_chart_template_latvia,False
-a6340,Ar nodokļiem neapliekamie ieņēmumi,6340,income,l10n_lv.account_chart_template_latvia,False
-a6410,Piešķirtās skonto atlaides,6410,income,l10n_lv.account_chart_template_latvia,False
-a6420,Piešķirtie bonusi,6420,income,l10n_lv.account_chart_template_latvia,False
-a6430,Piešķirtie rabati un citas tirdzniecības atlaides,6430,income,l10n_lv.account_chart_template_latvia,False
-a6510,Ieņēmumi no vērtspapīru kursa paaugstināšanās,6510,income_other,l10n_lv.account_chart_template_latvia,False
-a6520,Ieņēmumi no pamatlīdzekļu pārdošanas,6520,income_other,l10n_lv.account_chart_template_latvia,False
-a6530,Ieņēmumi no zemes gabalu iznomāšanas,6530,income_other,l10n_lv.account_chart_template_latvia,False
-a6540,Ieņēmumi no apgrozāmo līdzekļu pārdošanas,6540,income_other,l10n_lv.account_chart_template_latvia,False
-a6550,Ieņēmumi no pamatlīdzekļu iznomāšanas,6550,income_other,l10n_lv.account_chart_template_latvia,False
-a6560,Ieņēmumos pārskaitītais  uzkrājumu samazinājums,6560,income_other,l10n_lv.account_chart_template_latvia,False
-a6570,Iepriekšējo gadu nodokļa samazinājums,6570,income_other,l10n_lv.account_chart_template_latvia,False
-a6580,Papildus ieguldījumi un citi ieņēmumi,6580,income_other,l10n_lv.account_chart_template_latvia,False
-a6590,Pašu ilgtermiņa ieguldījumiem izpildītie darbi,6590,income_other,l10n_lv.account_chart_template_latvia,False
-a6610,Gatavas produkcijas krājumu un vērtības izmaiņas,6610,income_other,l10n_lv.account_chart_template_latvia,False
-a6620,Nepabeigto ražojumu vērtības izmaiņas,6620,income_other,l10n_lv.account_chart_template_latvia,False
-a6630,Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas,6630,income_other,l10n_lv.account_chart_template_latvia,False
-a6640,Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas,6640,income_other,l10n_lv.account_chart_template_latvia,False
-a6710,"Citu periodu ieņēmumi, kas attiecas uz pārskata periodu",6710,income_other,l10n_lv.account_chart_template_latvia,False
-a6910,Dzīvokļu saimniecības ieņēmumi,6910,income_other,l10n_lv.account_chart_template_latvia,False
-a6920,Komunālas saimniecības ieņēmumi,6920,income_other,l10n_lv.account_chart_template_latvia,False
-a6930,Sadzīves pakalpojumu ieņēmumi,6930,income_other,l10n_lv.account_chart_template_latvia,False
-a6940,Sabiedriskās ēdināšanas ieņēmumi,6940,income_other,l10n_lv.account_chart_template_latvia,False
-a6950,Izglītības iestāžu ieņēmumi,6950,income_other,l10n_lv.account_chart_template_latvia,False
-a6960,Medicīniskās apkalpošanas ieņēmumi,6960,income_other,l10n_lv.account_chart_template_latvia,False
-a6970,Kultūras un sporta iestāžu un pasākumu ieņēmumi,6970,income_other,l10n_lv.account_chart_template_latvia,False
-a6980,Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi,6980,income_other,l10n_lv.account_chart_template_latvia,False
-a6980,Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi,6980,income_other,l10n_lv.account_chart_template_latvia,False
-a7110,Izejvielu un materiālu iepirkšanas un piegādes izdevumi,7110,expense,l10n_lv.account_chart_template_latvia,False
-a7120,Preču iepirkšanas un piegādes izdevumi,7120,expense,l10n_lv.account_chart_template_latvia,False
-a7130,Saņemtās atlaides,7130,expense,l10n_lv.account_chart_template_latvia,False
-a7140,Taras izdevumi,7140,expense,l10n_lv.account_chart_template_latvia,False
-a7150,Muitas un ievednodevas,7150,expense,l10n_lv.account_chart_template_latvia,False
-a7160,Pārējie ārējie izdevumi,7160,expense,l10n_lv.account_chart_template_latvia,False
-a7170,Samaksa par darbiem un pakalpojumiem no ārienes,7170,expense,l10n_lv.account_chart_template_latvia,False
-a7180,"Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)",7180,expense,l10n_lv.account_chart_template_latvia,False
-a7190,Pirkto materiālu un preču krājumu un vērtības izmaiņas,7190,expense,l10n_lv.account_chart_template_latvia,False
-a7210,Strādnieku algas,7210,expense,l10n_lv.account_chart_template_latvia,False
-a7220,Pārvaldes personāla un administratīvā personāla algas,7220,expense,l10n_lv.account_chart_template_latvia,False
-a7230,Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas,7230,expense,l10n_lv.account_chart_template_latvia,False
-a7240,Pārējās personāla izmaksas,7240,expense,l10n_lv.account_chart_template_latvia,False
-a7310,Sociālais nodoklis,7310,expense,l10n_lv.account_chart_template_latvia,False
-a7320,Pārējās sociālās izmaksas,7320,expense,l10n_lv.account_chart_template_latvia,False
-a7330,Sociālās infrastruktūras iestāžu un pasākumu sociālās izmaksas,7330,expense,l10n_lv.account_chart_template_latvia,False
-a7340,Risku nodeva,7340,expense,l10n_lv.account_chart_template_latvia,False
-a7410,Nemateriālo ieguldījumu vērtības norakstīšana,7410,expense,l10n_lv.account_chart_template_latvia,False
-a7420,Pamatlīdzekļu nolietojums,7420,expense,l10n_lv.account_chart_template_latvia,False
-a7430,Krājumu normatīvie zudumi,7430,expense,l10n_lv.account_chart_template_latvia,False
-a7440,Apgrozāmo līdzekļu vērtības norakstīšana,7440,expense,l10n_lv.account_chart_template_latvia,False
-a7450,Krājumu virsnormatīvie zudumi,7450,expense,l10n_lv.account_chart_template_latvia,False
-a7460,Krājumu iztrūkumi,7460,expense,l10n_lv.account_chart_template_latvia,False
-a7470,Izmaksas no aktīvu vērtības samazinājuma,7470,expense,l10n_lv.account_chart_template_latvia,False
-a7510,Dabas aizsardzības izmaksas,7510,expense,l10n_lv.account_chart_template_latvia,False
-a7520,Izslēgto pamatlīdzekļu nenoamortizētā vērtība (atlikusī vērtība),7520,expense,l10n_lv.account_chart_template_latvia,False
-a7530,Nodevas par ražošanā izmantotiem zemes gabaliem,7530,expense,l10n_lv.account_chart_template_latvia,False
-a7540,Apdrošināšanas maksājumi (izņemot darbinieku apdrošināšanu),7540,expense,l10n_lv.account_chart_template_latvia,False
-a7550,Pārējie saimnieciskās darbības izdevumi,7550,expense,l10n_lv.account_chart_template_latvia,False
-a7560,Strādnieku vervēšanas un apmācības izdevumi,7560,expense,l10n_lv.account_chart_template_latvia,False
-a7570,Komandējumu izdevumi,7570,expense,l10n_lv.account_chart_template_latvia,False
-a7580,Neatskaitāmais PVN (iekļaujams izmaksās),7580,expense,l10n_lv.account_chart_template_latvia,False
-a7590,Nekustamā īpašuma nodoklis par pārskata gadu,7590,expense,l10n_lv.account_chart_template_latvia,False
-a7610,"Iesaiņojamais materiāls, tara",7610,expense,l10n_lv.account_chart_template_latvia,False
-a7620,Preču transporta izmaksas,7620,expense,l10n_lv.account_chart_template_latvia,False
-a7630,Preču transporta apdrošināšana,7630,expense,l10n_lv.account_chart_template_latvia,False
-a7640,Samaksātās komisijas naudas,7640,expense,l10n_lv.account_chart_template_latvia,False
-a7650,Citas pārdošanas izmaksas,7650,expense,l10n_lv.account_chart_template_latvia,False
-a7710,Sakaru izdevumi,7710,expense,l10n_lv.account_chart_template_latvia,False
-a7720,Kantora (biroja) izdevumi,7720,expense,l10n_lv.account_chart_template_latvia,False
-a7730,Juristu pakalpojumu izmaksas,7730,expense,l10n_lv.account_chart_template_latvia,False
-a7740,Gada pārskata un revīzijas izdevumi,7740,expense,l10n_lv.account_chart_template_latvia,False
-a7750,Naudas apgrozījuma blakus izdevumi,7750,expense,l10n_lv.account_chart_template_latvia,False
-a7760,Transporta izdevumi administrācijas vajadzībām,7760,expense,l10n_lv.account_chart_template_latvia,False
-a7770,Citi vadīšanas un administrācijas izdevumi,7770,expense,l10n_lv.account_chart_template_latvia,False
-a7780,Reprezentācijas izmaksas,7780,expense,l10n_lv.account_chart_template_latvia,False
-a7810,Pārskata periodā iekļaujamie iepriekšējo periodu izdevumi,7810,expense,l10n_lv.account_chart_template_latvia,False
-a7910,Dzīvokļu saimniecības izdevumi,7910,expense,l10n_lv.account_chart_template_latvia,False
-a7920,Komunālās saimniecības izdevumi,7920,expense,l10n_lv.account_chart_template_latvia,False
-a7930,Sadzīves pakalpojumu izdevumi,7930,expense,l10n_lv.account_chart_template_latvia,False
-a7940,Sabiedriskās ēdināšanas izdevumi,7940,expense,l10n_lv.account_chart_template_latvia,False
-a7950,Izglītības iestāžu izdevumi,7950,expense,l10n_lv.account_chart_template_latvia,False
-a7960,Medicīniskās apkalpošanas izdevumi,7960,expense,l10n_lv.account_chart_template_latvia,False
-a7970,Kultūras un sporta iestāžu un pasākumu izdevumi,7970,expense,l10n_lv.account_chart_template_latvia,False
-a7980,Pārējie sociālās infrastruktūras uzturēšanas izdevumi,7980,expense,l10n_lv.account_chart_template_latvia,False
-a8110,"Ieņēmumi no līdzdalības, vērtspapīriem un aizdevumiem",8110,income_other,l10n_lv.account_chart_template_latvia,False
-a8120,Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi,8120,income_other,l10n_lv.account_chart_template_latvia,False
-a8130,Vekseļu diskonta ieņēmumi,8130,income_other,l10n_lv.account_chart_template_latvia,False
-a8140,Ziedojumi un citi tiem pielīdzināmi ieņēmumi,8140,income_other,l10n_lv.account_chart_template_latvia,False
-a8150,Ienākumi no valūtu kursa paaugstināšanās,8150,income_other,l10n_lv.account_chart_template_latvia,False
-a8160,Saņemtas soda naudas un līgumsodi,8160,income_other,l10n_lv.account_chart_template_latvia,False
-a8170,Peļņa no ārzemju valūtas pārdošanas vai pirkšanas,8170,income_other,l10n_lv.account_chart_template_latvia,False
-a8190,Citi ieņēmumi,8190,income_other,l10n_lv.account_chart_template_latvia,False
-a8199,Naudas starpības ieņēmumi,8199,income_other,l10n_lv.account_chart_template_latvia,False
-a8210,Īstermiņa finanšu ieguldījumu vērtības norakstīšana,8210,expense,l10n_lv.account_chart_template_latvia,False
-a8220,Samaksātie procenti un tiem pielīdzināmie izdevumi,8220,expense,l10n_lv.account_chart_template_latvia,False
-a8230,Vekseļu diskonta izmaksas,8230,expense,l10n_lv.account_chart_template_latvia,False
-a8240,Ilgtermiņa aizdevumu procentu samaksa,8240,expense,l10n_lv.account_chart_template_latvia,False
-a8250,Zaudējumi no valūtu kursu pazemināšanas,8250,expense,l10n_lv.account_chart_template_latvia,False
-a8260,Samaksātās soda naudas un līgumsodi,8260,expense,l10n_lv.account_chart_template_latvia,False
-a8270,Zaudējumi no ārzemju valūtu pirkšanas vai pārdošanas,8270,expense,l10n_lv.account_chart_template_latvia,False
-a8290,Citi izdevumi,8290,expense,l10n_lv.account_chart_template_latvia,False
-a8299,Naudas starpības zaudējumi,8299,expense,l10n_lv.account_chart_template_latvia,False
-a8310,Ārkārtas ieņēmumi,8310,income_other,l10n_lv.account_chart_template_latvia,False
-a8311,Skaidras naudas līdzekļu starpības ienākumi,8311,income_other,l10n_lv.account_chart_template_latvia,False
-a8410,Ārkārtas izdevumi,8410,expense,l10n_lv.account_chart_template_latvia,False
-a8411,Skaidras naudas līdzekļu starpības zaudējumi,8411,expense,l10n_lv.account_chart_template_latvia,False
-a8610,Peļņa vai zaudējumi,8610,expense,l10n_lv.account_chart_template_latvia,False
-a8810,Nodoklis no peļņas(Uzņēmumu ienākuma nodoklis),8810,expense,l10n_lv.account_chart_template_latvia,False
-a8820,Nodoklis no dabas resursu izmantošanas,8820,expense,l10n_lv.account_chart_template_latvia,False
-a8840,Citi saimnieciskās darbības izmaksās neiekļauti nodokļi,8840,expense,l10n_lv.account_chart_template_latvia,False
-a9910,Atlikumu ievades konts,9910,asset_current,l10n_lv.account_chart_template_latvia,False
+id,name,code,account_type,chart_template_id/id,tag_ids/id,reconcile
+a1110,Pētniecības un uzņēmuma attīstības izmaksas,1110,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_30,False
+a1120,"Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības",1120,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_40,False
+a1130,Citi nemateriālie ieguldījumi,1130,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_50,False
+a1140,Nemateriālā vērtība,1140,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_60,False
+a1180,Avansa maksājumi par nemateriālajiem ieguldījumiem,1150,Prepayments,l10n_lv.account_chart_template_latvia,account_account_tag_a_70,False
+a1191,Attīstības izmaksu norakstītā daļa (pasīvā),1191,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_30,False
+a1192,"Koncesiju, patentu, licenču, preču zīmju un tamlīdzīgu tiesību norakstītā daļa (pasīvā)",1192,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_40,False
+a1193,Citu nemateriālo ieguldījumu vērtības norakstītā daļa (pasīvā),1193,asset_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_50,False
+a1210,"Nekustamā īpašuma objekti: Zemes gabali, ēkas un būves",1210,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1220,Tehnoloģiskās iekārtas un mašīnas,1220,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_180,False
+a1230,Pārējie pamatlīdzekļi un inventārs,1230,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_190,False
+a1240,Pamatlīdzekļu izveidošanas un nepabeigto celtniecības objektu izmaksas,1240,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_200,False
+a1250,Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos,1250,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_160,False
+a1260,Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos,1260,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_170,False
+a1280,Avansa maksājumi par pamatlīdzekļiem,1280,Prepayments,l10n_lv.account_chart_template_latvia,account_account_tag_a_210,False
+a1291,"Zemes gabalu, ēku un būvju un ilggadīgo stādījumu nolietojums (pasīvā)",1291,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1292,Iekārtu un mašīnu nolietojums (pasīvā),1292,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_180,False
+a1293,Pārējo pamatlīdzekļu un inventāra nolietojums (pasīvā),1293,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_190,False
+a1294,Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā),1294,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_160,False
+a1310,Zemes gabali,1310,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1320,"Ēkas, būves vai to daļas",1320,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1330,Ieguldījuma īpašumu  izveidošanas izmaksas,1330,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1390,Ieguldījuma īpašumu  uzkrātais nolietojums (pasīva konts),1390,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_110,False
+a1410,Dzīvnieki,1410,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_140,False
+a1420,Augi,1420,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_140,False
+a1430,Darba vai produktīvie dzīvnieki,1430,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_140,False
+a1440,Ilggadīgie stādījumi,1440,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_140,False
+a1490,Bioloģisko aktīvu  uzkrātais nolietojums (pasīva konts),1490,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_140,False
+a1510,Līdzdalība radniecīgo sabiedrību kapitālā,1510,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_240,False
+a1520,Aizdevumi radniecīgajām sabiedrībām,1520,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_250,False
+a1530,Līdzdalība asociēto sabiedrību kapitālā,1530,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_260,False
+a1540,Aizdevumi asociētajām sabiedrībām,1540,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_270,False
+a1550,Pārējie vērtspapīri un ieguldījumi,1550,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_280,False
+a1560,Pārējie aizdevumi un citi ilgtermiņa debitori,1560,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_290,False
+a1570,Pašu akcijas un daļas,1570,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_300,False
+a1580,Aizdevumi akcionāriem vai dalībniekiem un vadībai,1580,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_310,False
+a1590,Atliktā nodokļa aktīvi,1590,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_290,False
+a2110,"Izejvielas, pamatmateriāli un palīgmateriāli",2110,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_370,False
+a2120,Nepabeigtie ražojumi,2120,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_380,False
+a2130,Gatavie ražojumi un preces pārdošanai,2130,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_390,False
+a2140,Nepabeigtie pasūtījumi,2140,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_380,False
+a2150,Mazvērtīgais inventārs,2150,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_190,False
+a2159,Mazvērtīgā inventāra norakstītā daļa (pasīva konts),2159,asset_fixed,l10n_lv.account_chart_template_latvia,account_account_tag_a_190,False
+a2190,Avansa maksājumi par precēm,2190,Prepayments,l10n_lv.account_chart_template_latvia,account_account_tag_a_400,False
+a2210,Lopi,2210,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_420,False
+a2220,Jaunlopi un sīkie dzīvnieki,2220,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_430,False
+a2230,Viengadīgie stādījumi,2230,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_420,False
+a2310,Norēķini ar pircējiem un pasūtītājiem,2310,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_470,True
+a2318,Norēķini ar šaubīgiem debitoriem,2318,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_470,True
+a2320,Par piegādēm un pasūtījumiem saņemtie vekseļi,2320,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_470,True
+a2330,Meitas uzņēmumu parādi,2330,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_480,True
+a2340,Saistīto uzņēmumu parādi,2340,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_490,True
+a2350,Norēķini ar citiem debitoriem,2350,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,True
+a2360,Norēķini par sabiedrības kapitāla neiemaksātām summām,2360,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_510,True
+a2370,Īstermiņa aizdevumi sabiedrības dalībniekiem un valdei,2370,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_520,True
+a2380,Norēķini par prasībām personālam,2380,asset_receivable,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,True
+a2388,Uzkrātie ieņēmumi,2388,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_540,False
+a2390,"Pārmaksātie nodokļi, iepriekš samaksātie nodokļi",2390,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a2391,Nodokļu un nodevu dzēšana (nodokļu konts),2391,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a2392,Iesaldēts atgūstams PVN,2392,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a2399,"Aprēķināts, bet neatskaitīts PVN",2399,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a2410,Nākamo periodu izdevumi,2410,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_530,False
+a2420,Akciju emisijas nocenojums,2420,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_560,False
+a2510,Meitas uzņēmuma akcijas un daļas,2510,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_570,False
+a2520,Saistīto uzņēmumu akcijas un daļas,2520,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_570,False
+a2530,Pašu uzņēmuma akcijas un daļas,2530,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_580,False
+a2540,Pārējie vērtspapīri un līdzdalība kapitālos,2540,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_590,False
+a2550,Atvasinātie finanšu instrumenti,2550,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_590,False
+a2610,Skaidras naudas kase,2610,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2613,EKA (mazumtirdzniecības) kase,2613,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2620,Bankas konts,2620,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a26291,Bankas pagaidu konts,26291,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a26292,Nonoslēgtie ieņēmumi,26292,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_980,False
+a26293,Nonoslēgtie izdevumi,26293,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,False
+a2640,"Akreditīvi, čeki un īpašu formu konti",2640,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2650,Citi konti bankās,2650,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2670,Pārējie naudas līdzekļi,2670,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2671,POS vai maksājumu sistēmu norēķini,2671,asset_cash,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2696,Maksājumu ieskaite,2696,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2698,Valūtas konvertācijas konts,2698,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,False
+a2699,Naudas līdzekļi ceļā,2699,asset_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_620,True
+a3110,Pamatkapitāls vai līdzdalības kapitāls,3110,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_660,False
+a3111,Nereģistrēts pamatkapitāls,3111,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_660,False
+a3120,Akciju emisijas uzcenojums,3120,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_670,False
+a3130,Ilgtermiņa ieguldījumu pārvērtēšanas rezerve,3130,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_680,False
+a3140,Finanšu instrumentu pārvērtēšanas rezerve,3140,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_690,False
+a3210,Privātiem nolūkiem izņemtie līdzekļi,3210,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_500,True
+a3220,Privātie ieguldījumi,3220,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_900,True
+a3310,Likumā noteiktās rezerves,3310,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_710,False
+a3320,Rezerve pašu akcijām un daļām,3320,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_720,False
+a3330,Sabiedrības statūtos noteiktās rezerves,3330,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_730,False
+a3340,"Rezerves, kas novirzītas attīstībai",3340,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_740,False
+a3350,Ārvalstu valūtu pārrēķināšanas rezerve,3350,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_760,False
+a3360,Pārējās rezerves,3360,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_760,False
+a3410,Pārskata gada nesadalīta peļņa,3410,equity_unaffected,l10n_lv.account_chart_template_latvia,account_account_tag_p_790,False
+a3420,Iepriekšējo gadu nesadalītā peļņa,3420,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_780,False
+a4110,Uzkrājumi pensijām pielīdzinātām saistībām,4110,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_820,False
+a4210,Uzkrājumi paredzamiem nodokļiem,4210,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_830,False
+a4310,Citi uzkrājumi,4310,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_840,False
+a4319,Uzkrājumi šaubīgiem debitoriem,4319,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_a_470,False
+a5110,Aizņēmumi par obligācijām,5110,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_870,False
+a5120,Akcijās pārvēršamie aizņēmumi,5120,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_880,False
+a5130,Aizņēmumi ar līdzdalību peļņā,5130,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_880,False
+a5140,Citi aizņēmumi,5140,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_900,True
+a5141,Aizņēmumi no dalībniekiem,5141,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_900,True
+a5150,Īstermiņa aizņēmumi no kredītiestādēm,5150,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1050,False
+a5160,Ilgtermiņa aizņēmumi no kredītiestādēm,5160,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_890,False
+a5170,Īstermiņa līzinga saistības,5170,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1050,False
+a5180,Ilgtermiņa līzinga saistības,5180,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_890,False
+a5190,Aizņēmumi bez norādītā termiņa,5190,liability_non_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_900,False
+a5210,Norēķini par saņemtiem avansiem,5210,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1070,True
+a5299,Aprēķināts un atskaitīts PVN,5299,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1070,False
+a5310,Tekošie kreditoru parādi no saimnieciskās darbības (tirdzniecības),5310,liability_payable,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5319,Uzkrātas kreditoru saistības,5319,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,False
+a5410,Norēķini par pašu izdotajiem vekseļiem,5410,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1090,False
+a5510,Norēķini par parādiem meitas uzņēmumiem,5510,liability_payable,l10n_lv.account_chart_template_latvia,account_account_tag_p_1100,True
+a5520,Norēķini par parādiem saistītajiem uzņēmumiem,5520,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1110,False
+a5530,"Norēķini par parādiem ar uzņēmumiem, saskaņā ar līgumiem par līdzdalību",5530,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1100,False
+a5540,Norēķini par parādiem ar citiem uzņēmumiem,5540,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1060,False
+a5550,Norēķini par parādiem ar personālu,5550,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,False
+a5610,Norēķini par darba algu,5610,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5611,Norēķini par darba algas avansiem,5611,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5612,Izmaksāta atvaļinājuma nauda,5612,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5613,Citas izmaksas un ienākumiem pieskaitāmie pie darba algas,5613,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5619,Izmaksājamie pabalsti,5619,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5620,Norēķini par ieturējumiem no darba algas,5620,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5621,Tiesas izpildītāju uzliktie ieturējumi - pirmās kārtās ieturējumi,5621,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5630,Citi norēķini ar darbiniekiem,5630,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5650,Norēķini par parādiem personālam,5650,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1080,True
+a5710,Norēķini par uzņēmuma ienākuma nodokļi (UIN),5710,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5711,Norēķini par ārvalstu uzņēmuma ienākuma nodokļi,5711,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5721,Norēķini par pievienotās vērtības nodokļi (PVN),5721,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5722,Norēķini par Iedzīvotāju ienākuma nodokļi (IIN),5722,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5723,Norēķini par sociālās apdrošināšanas maksājumiem (VSAOI),5723,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5724,Norēķini par Valsts darba dēvēja riska nodevu (VDRN),5724,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5725,Norēķini par nekustamā īpašuma nodokli (NIN),5725,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5726,Norēķini par PVN OSS precēm un pakalpojumiem,5726,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5727,Norēķini par dabas resursa nodokli (DRN),5727,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5728,Norēķini par uzņēmumu vieglo transportlīdzekļu nodokli (UVTN),5728,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5729,Norēķini par Ievedmuitas nodokļi,5729,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1120,False
+a5810,Norēķini par neizmaksātajam dividendēm,5810,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1150,False
+a5910,Nākamo periodu ieņēmumi,5910,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1140,False
+a5920,Uzkrātās saistības,5920,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1160,False
+a5930,Atvasinātie finanšu instrumenti,5930,liability_current,l10n_lv.account_chart_template_latvia,account_account_tag_p_1170,False
+a6110,Ar PVN 21% pamatlikmi apliekamie ieņēmumi no pamatdarbības,6110,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6120,Ar PVN 12% samazināto likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6120,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6130,Ar PVN 5% samazināto likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6130,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6140,Ar PVN 0 % likmi apliekamie pārdošanas ieņēmumi no pamatdarbības,6140,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6210,Ar nodokļiem neapliekamie pārdošanas ieņēmumi,6210,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6220,Ar īpašiem nodokļiem apliekamie pārdošanas ieņēmumi,6220,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_30,False
+a6310,Komisijas un starpniecības ieņēmumi,6310,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6320,Ieņēmumi no atkritumu pārstrādes un realizācijas,6320,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6330,Ieņēmumi no taras realizācijas,6330,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6340,Ar nodokļiem neapliekamie ieņēmumi,6340,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6410,Piešķirtās skonto atlaides,6410,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6420,Piešķirtie bonusi,6420,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6430,Piešķirtie rabati un citas tirdzniecības atlaides,6430,income,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6510,Ieņēmumi no vērtspapīru kursa paaugstināšanās,6510,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6520,Ieņēmumi no pamatlīdzekļu pārdošanas,6520,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6530,Ieņēmumi no zemes gabalu iznomāšanas,6530,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6540,Ieņēmumi no apgrozāmo līdzekļu pārdošanas,6540,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6550,Ieņēmumi no pamatlīdzekļu iznomāšanas,6550,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6560,Ieņēmumos pārskaitītais  uzkrājumu samazinājums,6560,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6570,Iepriekšējo gadu nodokļa samazinājums,6570,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6580,Papildus ieguldījumi un citi ieņēmumi,6580,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6590,Pašu ilgtermiņa ieguldījumiem izpildītie darbi,6590,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6610,Gatavas produkcijas krājumu un vērtības izmaiņas,6610,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_40,False
+a6620,Nepabeigto ražojumu vērtības izmaiņas,6620,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_40,False
+a6630,Nepabeigto pasūtījumu atlikumu un vērtības izmaiņas,6630,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_40,False
+a6640,Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas,6640,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_40,False
+a6710,"Citu periodu ieņēmumi, kas attiecas uz pārskata periodu",6710,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6910,Dzīvokļu saimniecības ieņēmumi,6910,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6920,Komunālas saimniecības ieņēmumi,6920,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6930,Sadzīves pakalpojumu ieņēmumi,6930,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6940,Sabiedriskās ēdināšanas ieņēmumi,6940,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6950,Izglītības iestāžu ieņēmumi,6950,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6960,Medicīniskās apkalpošanas ieņēmumi,6960,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6970,Kultūras un sporta iestāžu un pasākumu ieņēmumi,6970,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6980,Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi,6980,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a6980,Pārējie sociālās infrastruktūras iestāžu un pasākumu ieņēmumi,6980,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a7110,Izejvielu un materiālu iepirkšanas un piegādes izdevumi,7110,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7120,Preču iepirkšanas un piegādes izdevumi,7120,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7130,Saņemtās atlaides,7130,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7140,Taras izdevumi,7140,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7150,Muitas un ievednodevas,7150,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7160,Pārējie ārējie izdevumi,7160,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7170,Samaksa par darbiem un pakalpojumiem no ārienes,7170,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7180,"Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)",7180,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7190,Pirkto materiālu un preču krājumu un vērtības izmaiņas,7190,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7210,Strādnieku algas,7210,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
+a7220,Pārvaldes personāla un administratīvā personāla algas,7220,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
+a7230,Sociālās infrastruktūras iestāžu un pasākumu darbinieku algas,7230,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
+a7240,Pārējās personāla izmaksas,7240,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
+a7310,Sociālais nodoklis,7310,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_130,False
+a7320,Pārējās sociālās izmaksas,7320,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7330,Sociālās infrastruktūras iestāžu un pasākumu sociālās izmaksas,7330,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7340,Risku nodeva,7340,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7410,Nemateriālo ieguldījumu vērtības norakstīšana,7410,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_160,False
+a7420,Pamatlīdzekļu nolietojums,7420,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_160,False
+a7430,Krājumu normatīvie zudumi,7430,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_170,False
+a7440,Apgrozāmo līdzekļu vērtības norakstīšana,7440,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_170,False
+a7450,Krājumu virsnormatīvie zudumi,7450,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_170,False
+a7460,Krājumu iztrūkumi,7460,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_170,False
+a7470,Izmaksas no aktīvu vērtības samazinājuma,7470,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_170,False
+a7510,Dabas aizsardzības izmaksas,7510,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7520,Izslēgto pamatlīdzekļu nenoamortizētā vērtība (atlikusī vērtība),7520,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7530,Nodevas par ražošanā izmantotiem zemes gabaliem,7530,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7540,Apdrošināšanas maksājumi (izņemot darbinieku apdrošināšanu),7540,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7550,Pārējie saimnieciskās darbības izdevumi,7550,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7560,Strādnieku vervēšanas un apmācības izdevumi,7560,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7570,Komandējumu izdevumi,7570,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7580,Neatskaitāmais PVN (iekļaujams izmaksās),7580,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7590,Nekustamā īpašuma nodoklis par pārskata gadu,7590,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7610,"Iesaiņojamais materiāls, tara",7610,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_80,False
+a7620,Preču transporta izmaksas,7620,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_90,False
+a7630,Preču transporta apdrošināšana,7630,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_90,False
+a7640,Samaksātās komisijas naudas,7640,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_90,False
+a7650,Citas pārdošanas izmaksas,7650,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_90,False
+a7710,Sakaru izdevumi,7710,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7720,Kantora (biroja) izdevumi,7720,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7730,Juristu pakalpojumu izmaksas,7730,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7740,Gada pārskata un revīzijas izdevumi,7740,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7750,Naudas apgrozījuma blakus izdevumi,7750,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7760,Transporta izdevumi administrācijas vajadzībām,7760,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7770,Citi vadīšanas un administrācijas izdevumi,7770,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7780,Reprezentācijas izmaksas,7780,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7810,Pārskata periodā iekļaujamie iepriekšējo periodu izdevumi,7810,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a7910,Dzīvokļu saimniecības izdevumi,7910,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7920,Komunālās saimniecības izdevumi,7920,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7930,Sadzīves pakalpojumu izdevumi,7930,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7940,Sabiedriskās ēdināšanas izdevumi,7940,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7950,Izglītības iestāžu izdevumi,7950,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7960,Medicīniskās apkalpošanas izdevumi,7960,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7970,Kultūras un sporta iestāžu un pasākumu izdevumi,7970,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7980,Pārējie sociālās infrastruktūras uzturēšanas izdevumi,7980,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a8110,"Ieņēmumi no līdzdalības, vērtspapīriem un aizdevumiem",8110,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8120,Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi,8120,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8130,Vekseļu diskonta ieņēmumi,8130,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8140,Ziedojumi un citi tiem pielīdzināmi ieņēmumi,8140,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8150,Ienākumi no valūtu kursa paaugstināšanās,8150,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8160,Saņemtas soda naudas un līgumsodi,8160,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8170,Peļņa no ārzemju valūtas pārdošanas vai pirkšanas,8170,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8190,Citi ieņēmumi,8190,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8199,Naudas starpības ieņēmumi,8199,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8210,Īstermiņa finanšu ieguldījumu vērtības norakstīšana,8210,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8220,Samaksātie procenti un tiem pielīdzināmie izdevumi,8220,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8230,Vekseļu diskonta izmaksas,8230,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8240,Ilgtermiņa aizdevumu procentu samaksa,8240,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8250,Zaudējumi no valūtu kursu pazemināšanas,8250,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8260,Samaksātās soda naudas un līgumsodi,8260,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8270,Zaudējumi no ārzemju valūtu pirkšanas vai pārdošanas,8270,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8290,Citi izdevumi,8290,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8299,Naudas starpības zaudējumi,8299,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8310,Ārkārtas ieņēmumi,8310,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8311,Skaidras naudas līdzekļu starpības ienākumi,8311,income_other,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_60,False
+a8410,Ārkārtas izdevumi,8410,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8411,Skaidras naudas līdzekļu starpības zaudējumi,8411,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8610,Peļņa vai zaudējumi,8610,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8810,Nodoklis no peļņas(Uzņēmumu ienākuma nodoklis),8810,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_340,False
+a8820,Nodoklis no dabas resursu izmantošanas,8820,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a8840,Citi saimnieciskās darbības izmaksās neiekļauti nodokļi,8840,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_180,False
+a9910,Atlikumu ievades konts,9910,asset_current,l10n_lv.account_chart_template_latvia,"",False
