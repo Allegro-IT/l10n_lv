@@ -6,18 +6,18 @@
 
         This module also includes:
 
-        * Tax groups,
-        * Most common Latvian taxes,
-        * Fiscal positions,
-        * Account tags,
-        * Latvian and Lithuanian bank list.
+        * Tax groups.
+        * Most common Latvian Taxes.
+        * Fiscal positions.
+        * Account Tags.
+        * Latvian and Lithuanian banks list.
        
-        author is Allegro IT (visit for more information https://allegro.lv)
+        author is Allegro IT (visit for more information https://www.allegro.lv)
         
         co-author is Chick.Farm (visit for more information https://www.myacc.cloud)
     """,
     'license': 'LGPL-3',
-    'author': "Allegro IT, Chick.Farm",
+    'author': "Allegto IT, Chick.Farm",
     'website': "https://allegro.lv",
     'category': 'Accounting/Localizations/Account Charts',
     'depends': [
@@ -28,6 +28,7 @@
     'data': [
 # Data for Trial balance and profit/loss report
         'data/account_account_tag_data.xml',
+
 # Information about accounting plan
         'data/account_chart_template_data.xml',
 # Accounting plan
@@ -43,6 +44,7 @@
 # Try Loading COA for Current Company
         'data/account_chart_template_load.xml',
     ],
+
     'post_init_hook': 'load_translations',
     'installable': True,
 }
