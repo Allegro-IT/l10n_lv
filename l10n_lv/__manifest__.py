@@ -3,21 +3,19 @@
     'version': '16.0.0.7',
     'description': """
         Chart of Accounts (COA) Template for Latvia's Accounting.
-
         This module also includes:
-
         * Tax groups,
         * Most common Latvian Taxes,
         * Fiscal positions,
         * Account Tags,
         * Latvian and Lithuanian bank list.
-       
+
         author is Allegro IT (visit for more information https://www.allegro.lv)
-        
+
         co-author is Chick.Farm (visit for more information https://www.myacc.cloud)
     """,
     'license': 'LGPL-3',
-    'author': "Allegto IT, Chick.Farm",
+    'author': "Allegro IT, Chick.Farm",
     'website': "https://allegro.lv",
     'category': 'Accounting/Localizations/Account Charts',
     'depends': [
