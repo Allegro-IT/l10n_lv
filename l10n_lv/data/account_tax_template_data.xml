@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo noupdate="1">
 
-     <!-- Sales -->
-    <!-- 21% VAT, VAT report r41 + r51 + PVN 1.1. -->
-       <record id="account_tax_template_sales_21_vat41S" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Pārdošana 21% Latvijā</field>
-        <field name="description">21% PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">21.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_21"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- Sales -->
+  <!-- 21% VAT, VAT report r41 + r51 + PVN 1.1. -->
+  <record id="account_tax_template_sales_21_vat41S" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Pārdošana 21% Latvijā</field>
+    <field name="description">21% PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">21.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_21" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_41S_tag')],
@@ -21,8 +22,9 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_41P_tag')],
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_41S_tag')],
@@ -32,19 +34,20 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_41P_tag')],
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-    <!--  VAT, VAT report r411 reversa preces un pakalpojumi -->
-       <record id="account_tax_template_sales_VAT_411S_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Pārdošana reversa Latvijā</field>
-        <field name="description">Reversa PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">0</field>
-        <field name="tax_group_id" ref="tax_group_vat_exempt"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!--  VAT, VAT report r411 reversa preces un pakalpojumi -->
+  <record id="account_tax_template_sales_VAT_411S_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Pārdošana reversa Latvijā</field>
+    <field name="description">Reversa PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0</field>
+    <field name="tax_group_id" ref="tax_group_vat_exempt" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_411S_tag')],
@@ -52,8 +55,9 @@
              (0,0, {
               'repartition_type': 'tax',
             }),
-           ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+           ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
                       'tag_ids': [ref('VAT_411S_tag')],
@@ -61,19 +65,20 @@
              (0,0, {
               'repartition_type': 'tax',
             }),
-           ]"/>
-    </record>
+           ]" />
+  </record>
 
-    <!-- 12% VAT, VAT report r42 + r52 + PVN 1.1. -->
-       <record id="account_tax_template_sales_12_vat42S" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Pārdošana 12% Latvijā</field>
-        <field name="description">12% PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">12.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_12"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 12% VAT, VAT report r42 + r52 + PVN 1.1. -->
+  <record id="account_tax_template_sales_12_vat42S" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Pārdošana 12% Latvijā</field>
+    <field name="description">12% PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">12.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_12" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_42S_tag')],
@@ -83,8 +88,9 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_42P_tag')],
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_42S_tag')],
@@ -94,19 +100,20 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_42P_tag')],
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-     <!-- 5% VAT, VAT report r421 + r52 + PVN 1.1. -->
-       <record id="account_tax_template_sales_5_vat421S" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Pārdošana 5% Latvijā</field>
-        <field name="description">5% PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">5.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_5"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 5% VAT, VAT report r421 + r52 + PVN 1.1. -->
+  <record id="account_tax_template_sales_5_vat421S" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Pārdošana 5% Latvijā</field>
+    <field name="description">5% PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">5.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_5" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_421S_tag')],
@@ -116,8 +123,9 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_421P_tag')],
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_421S_tag')],
@@ -127,19 +135,20 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_421P_tag')],
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-     <!--  VAT, VAT report 0% pakalpojumi -->
-       <record id="account_tax_template_sales_VAT_4348S_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Pārdošana 0% 48r Latvijā</field>
-        <field name="description">0% PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">0.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_0"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!--  VAT, VAT report 0% pakalpojumi -->
+  <record id="account_tax_template_sales_VAT_4348S_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Pārdošana 0% 48r Latvijā</field>
+    <field name="description">0% PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_0" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_4348S_tag')],
@@ -147,8 +156,9 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
                  'tag_ids': [ref('VAT_4348S_tag')],
@@ -156,19 +166,20 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-    <!--  VAT, VAT report 0% pakalpojumi -->
-       <record id="account_tax_template_sales_VAT_482S_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">pakalpojumi Bez PVN 48.2r Latvijā</field>
-        <field name="description">Bez PVN</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">0.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_exempt"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!--  VAT, VAT report 0% pakalpojumi -->
+  <record id="account_tax_template_sales_VAT_482S_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">pakalpojumi Bez PVN 48.2r Latvijā</field>
+    <field name="description">Bez PVN</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_exempt" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_482S_tag')],
@@ -176,8 +187,9 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
                  'tag_ids': [ref('VAT_482S_tag')],
@@ -185,20 +197,21 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-      <!-- Purchases -->
-    <!-- 21% VAT, VAT report r62 + PVN 1.1. -->
-       <record id="account_tax_template_sales_VAT_11A_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 21% Latvijā</field>
-        <field name="description">21% PVN</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">21.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_21"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- Purchases -->
+  <!-- 21% VAT, VAT report r62 + PVN 1.1. -->
+  <record id="account_tax_template_sales_VAT_11A_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 21% Latvijā</field>
+    <field name="description">21% PVN</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">21.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_21" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11SA_tag')],
@@ -208,8 +221,9 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_11PA_tag')],
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11SA_tag')],
@@ -219,19 +233,20 @@
               'account_id': ref('a5721'),
               'tag_ids': [ref('VAT_11PA_tag')],
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-    <!-- 21% VAT, VAT report R50 + PVN 1.2. -->
-       <record id="account_tax_template_sales_VAT_5012SG_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 21% Latvijā</field>
-        <field name="description">21% PVN</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">21.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_21"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 21% VAT, VAT report R50 + PVN 1.2. -->
+  <record id="account_tax_template_sales_VAT_5012SG_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 21% Latvijā</field>
+    <field name="description">21% PVN</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">21.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_21" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_5012SG_tag')],
@@ -246,8 +261,9 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_5012SG_tag')],
@@ -262,19 +278,20 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
- <!-- 12% VAT, VAT report R51 + PVN 1.2. -->
-       <record id="account_tax_template_sales_VAT_51SG_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 12% ES</field>
-        <field name="description">12% PVN</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">12.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_12"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 12% VAT, VAT report R51 + PVN 1.2. -->
+  <record id="account_tax_template_sales_VAT_51SG_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 12% ES</field>
+    <field name="description">12% PVN</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">12.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_12" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_51SG_tag')],
@@ -289,8 +306,9 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_51SG_tag')],
@@ -305,19 +323,20 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
- <!-- 5% VAT, VAT report R511 + PVN 1.2. -->
-       <record id="account_tax_template_sales_VAT_51112SG_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 5% ES</field>
-        <field name="description">5% PVN</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">5.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_5"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 5% VAT, VAT report R511 + PVN 1.2. -->
+  <record id="account_tax_template_sales_VAT_51112SG_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 5% ES</field>
+    <field name="description">5% PVN</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">5.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_5" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_51112SG_tag')],
@@ -332,8 +351,9 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_51112SG_tag')],
@@ -348,19 +368,20 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
   <!--  VAT, VAT report PVN2 services-->
-       <record id="account_tax_template_sales_VAT_2P_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">PVN2 Pakalpojumi</field>
-        <field name="description">Bez PVN (EU)</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">0.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_0"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <record id="account_tax_template_sales_VAT_2P_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">PVN2 Pakalpojumi</field>
+    <field name="description">Bez PVN (EU)</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_0" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_2P_tag')],
@@ -368,8 +389,9 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
                  'tag_ids': [ref('VAT_2P_tag')],
@@ -377,19 +399,20 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-     <!--  VAT, VAT report PVN2 goods-->
-       <record id="account_tax_template_sales_VAT_2G_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">PVN2 Preces</field>
-        <field name="description">0% PVN (EU)</field>
-        <field name="type_tax_use">sale</field>
-        <field name="amount">0.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_0"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!--  VAT, VAT report PVN2 goods-->
+  <record id="account_tax_template_sales_VAT_2G_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">PVN2 Preces</field>
+    <field name="description">0% PVN (EU)</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_0" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_2G_tag')],
@@ -397,8 +420,9 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
                  'tag_ids': [ref('VAT_2G_tag')],
@@ -406,19 +430,20 @@
            (0,0, {
               'repartition_type': 'tax',
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
   <!-- 21% VAT, VAT report Reversa R4 -->
-       <record id="account_tax_template_sales_VAT_11SR4_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 21% R4</field>
-        <field name="description">21% PVN</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">21.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_21"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <record id="account_tax_template_sales_VAT_11SR4_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 21% R4</field>
+    <field name="description">21% PVN</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">21.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_21" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11SR4_tag')],
@@ -433,8 +458,9 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11SR4_tag')],
@@ -449,19 +475,20 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-    </record>
+        ]" />
+  </record>
 
-   <!-- 21% VAT, VAT report Reversa 3 valstu pakalpojumi -->
-       <record id="account_tax_template_sales_VAT_11S3CR_tag" model="account.tax.template">
-        <field name="chart_template_id" ref="account_chart_template_latvia"/>
-        <field name="name">Iegāde 21% 3. valstu pakalpojumi</field>
-        <field name="description">21% PVN 3V</field>
-        <field name="type_tax_use">purchase</field>
-        <field name="amount">21.0</field>
-        <field name="tax_group_id" ref="tax_group_vat_21"/>
-        <field name="amount_type">percent</field>
-        <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
+  <!-- 21% VAT, VAT report Reversa 3 valstu pakalpojumi -->
+  <record id="account_tax_template_sales_VAT_11S3CR_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Iegāde 21% 3. valstu pakalpojumi</field>
+    <field name="description">21% PVN 3V</field>
+    <field name="type_tax_use">purchase</field>
+    <field name="amount">21.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_21" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11S3CR_tag')],
@@ -476,8 +503,9 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-        <field name="refund_repartition_line_ids" eval="[(5, 0, 0),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
             (0,0, {
               'repartition_type': 'base',
               'tag_ids': [ref('VAT_11S3CR_tag')],
@@ -492,7 +520,7 @@
               'repartition_type': 'tax',
               'account_id': ref('a5721'),
             }),
-        ]"/>
-    </record>
- 
+        ]" />
+  </record>
+
 </odoo>
