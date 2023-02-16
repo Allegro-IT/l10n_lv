@@ -1,61 +1,61 @@
 "id","code_prefix_start","name","chart_template_id/id"
-"l10n_lv_group_1","1","Ilgtermiņa ieguldījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_11","11","Nemateriālie ieguldījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_12","12","Pamatlīdzekļi (pamatlīdzekļi, ieguldījuma īpašumi un bioloģiskie aktīvi)",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_13","13","Ieguldījuma īpašumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_14","14","Bioloģiskie aktīvi (Dzīvnieki un augi)",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_15","15","Ilgtermiņa finanšu ieguldījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_2","2","Apgrozāmie līdzekļi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_21","21","Krājumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_22","22","Dzīvnieki un augi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_23","23","Norēķini par prasībām (ar debitoriem)",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_24","24","Nākamo periodu izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_25","25","Īstermiņa finanšu ieguldījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_26","26","Naudas līdzekļi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_28","28","Pārdošanai turēti ilgtermiņa ieguldījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_3","3","Pašu kapitāls",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_31","31","Pamatkapitāls vai līdzdalības kapitāls, ilgtermiņa ieguldījumu pārvērtēšanas rezerve",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_32","32","Privātkonti (privātie ieguldījumi un naudas līdzekļu patēriņš)",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_33","33","Rezerves",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_34","34","Peļņa vai zaudējumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_4","4","Uzkrājumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_41","41","Uzkrājumi pensijām un tamlīdzīgām saistībām",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_42","42","Uzkrājumi paredzamiem nodokļiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_43","43","Citi uzkrājumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_5","5","Kreditori",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_51","51","Norēķini par aizņēmumiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_52","52","Norēķini par saņemtajiem avansiem no pircējiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_53","53","Norēķini ar piegādātājiem un darbuzņēmējiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_54","54","Maksājamie vekseļi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_55","55","Norēķini ar uzņēmumiem, dalībniekiem un personālu",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_56","56","Norēķini par darba samaksu un ieturējumiem (izņemot nodokļus)",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_57","57","Norēķini par nodokļiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_58","58","Norēķini par dividendēm",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_59","59","Nākamo periodu ieņēmumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_6","6","Ieņēmumi no uzņēmuma saimnieciskās darbības",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_61","61","Saimnieciskās darbības ieņēmumi, kas apliekami ar nodokļiem vispārējā kārtībā",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_62","62","Ieņēmumi no pārdošanas, apliekami ar reducētiem (samazinātiem) nodokļiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_63","63","Komisijas, starpniecības un citi ieņēmumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_64","64","Ieņēmumus samazinošas atlaides",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_65","65","Pārējie saimnieciskās darbības ieņēmumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_66","66","Gatavās produkcijas un nepabeigto ražojumu krājumu un vērtības izmaiņas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_67","67","Citu periodu ieņēmumi, kas attiecas uz pārskata periodu",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_69","69","Ieņēmumi no sociālās infrastruktūras objektiem",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_7","7","Saimnieciskās darbības izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_71","71","Izejvielu, materiālu un preču iepirkšanai izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_72","72","Personāla izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_73","73","Sociālās izmaksas un nodevas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_74","74","Pamatlīdzekļu nolietojums un citu ieguldījumu vērtības norakstījumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_75","75","Pārējās saimnieciskās darbības izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_76","76","Preču pārdošanas izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_77","77","Administrācijas izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_78","78","Pārskata periodā iekļaujamās iepriekšējo periodu izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_79","79","Sociālās infrastruktūras uzturēšanas izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_8","8","Dažādi ieņēmumi un izmaksas, peļņa un zaudējumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_81","81","Dažādi ieņēmumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_82","82","Dažādas izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_83","83","Ārkārtas ieņēmumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_84","84","Ārkārtas izmaksas",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_86","86","Peļņa vai zaudējumi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_88","88","Nodokļi no peļņas un citi saimnieciskās darbības izdevumos neiekļaujamie nodokļi",l10n_lv.account_chart_template_latvia
-"l10n_lv_group_9","9","Papildus darba konti",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_1","1",Long-term investments,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_11","11",Intangible assets,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_12","12","Fixed assets (property, plant and equipment, investment property and biological assets)",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_13","13",Investment properties,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_14","14",Biological assets (Animals and plants),l10n_lv.account_chart_template_latvia
+"l10n_lv_group_15","15",Long-term financial investments,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_2","2",Current assets,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_21","21",Inventory,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_22","22",Animals and plants,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_23","23",Settlements with debtors,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_24","24",Deferred expenses,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_25","25",Short-term financial investments,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_26","26",Money,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_28","28",Long-term investments held for sale,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_3","3",Equity,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_31","31","Share capital or participation capital, revaluation reserve for long-term investments",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_32","32",Private accounts (private investment and consumption of money),l10n_lv.account_chart_template_latvia
+"l10n_lv_group_33","33",Reserves,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_34","34",Profit or loss,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_4","4",Accruals,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_41","41",Provisions for pensions and similar liabilities,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_42","42",Provisions for expected taxes,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_43","43",Other provisions,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_5","5",Creditors,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_51","51",Settlement of loans,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_52","52",Settlement of advances received from customers,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_53","53",Settlements with suppliers and contractors,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_54","54",Promissory notes payable,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_55","55","Settlements with companies, members and staff",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_56","56",Settlement of wages and deductions (excluding taxes),l10n_lv.account_chart_template_latvia
+"l10n_lv_group_57","57",Tax settlement,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_58","58",Dividends settlement,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_59","59",Deferred income,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_6","6",Revenue from business activities,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_61","61",Business income subject to general taxation,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_62","62",Revenue from sales subject to reduced taxation,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_63","63","Commission, brokerage and other income",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_64","64",Revenue-reducing discounts,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_65","65",Other operating revenue,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_66","66",Changes in stocks and value of finished products and work in progress,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_67","67",Revenues of other periods relating to the reporting period,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_69","69",Revenue from social infrastructure,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_7","7",Cost of economic activity,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_71","71","Costs of raw materials, supplies and goods",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_72","72",Staff costs,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_73","73",Social costs and charges,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_74","74","Depreciation of property, plant and equipment and write-downs of other investments",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_75","75",Other operating expenses,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_76","76",Cost of goods sold,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_77","77",Administration costs,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_78","78",Prior period costs to be included in the reporting period,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_79","79",Social infrastructure maintenance costs,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_8","8","Miscellaneous income and expenses, profit and loss",l10n_lv.account_chart_template_latvia
+"l10n_lv_group_81","81",Miscellaneous revenues,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_82","82",Different costs,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_83","83",Extra income,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_84","84",Extraordinary costs,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_86","86",Profit or loss,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_88","88",Taxes on profits and other taxes not included in operating expenses,l10n_lv.account_chart_template_latvia
+"l10n_lv_group_9","9",Additional work accounts,l10n_lv.account_chart_template_latvia

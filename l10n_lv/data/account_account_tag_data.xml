@@ -2,313 +2,313 @@
 <odoo noupdate="1">
 
   <record id="account_account_tag_a" model="account.account.tag">
-    <field name="name">A. Aktīvs</field>
+    <field name="name">A. Assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_10" model="account.account.tag">
-    <field name="name">A.10. Ilgtermiņa ieguldījumi</field>
+    <field name="name">A.10. Long-term assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_20" model="account.account.tag">
-    <field name="name">A.20. Nemateriālie ieguldījumi:</field>
+    <field name="name">A.20. Intangible investments:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_30" model="account.account.tag">
-    <field name="name">A.30. Attīstības izmaksas.</field>
+    <field name="name">A.30. Costs of development</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_40" model="account.account.tag">
-    <field name="name">A.40. Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības.</field>
+    <field name="name">A.40. Concessions, patents, licenses, trademarks and similar rights</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_50" model="account.account.tag">
-    <field name="name">A.50. Citi nemateriālie ieguldījumi.</field>
+    <field name="name">A.50. Other intangible investments</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_60" model="account.account.tag">
-    <field name="name">A.60. Nemateriālā vērtība.</field>
+    <field name="name">A.60. Goodwill</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_70" model="account.account.tag">
-    <field name="name">A.70. Avansa maksājumi par nemateriālajiem ieguldījumiem.</field>
+    <field name="name">A.70. Advance payments for intangible assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_90" model="account.account.tag">
-    <field name="name">A.II. Pamatlīdzekļi:</field>
+    <field name="name">A.II. Fixed assets:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_100" model="account.account.tag">
-    <field name="name">A.100. Nekustamie īpašumi:</field>
+    <field name="name">A.100. Real estate:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_110" model="account.account.tag">
-    <field name="name">A.110 a)zemesgabali, ēkas un inženierbūves</field>
+    <field name="name">A.110. a) land, buildings and engineering structures</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_130" model="account.account.tag">
-    <field name="name">A.130. Dzīvnieki un augi:</field>
+    <field name="name">A.130. Animals and plants:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_140" model="account.account.tag">
-    <field name="name">A.140. a)darba vai produktīvie dzīvnieki un ilggadīgie stādījumi</field>
+    <field name="name">A.140. a) working or productive animals and permanent crops</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_160" model="account.account.tag">
-    <field name="name">A.160. Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos</field>
+    <field name="name">A.160. Long-term investments in leased fixed assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_170" model="account.account.tag">
-    <field name="name">A.170. Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos</field>
+    <field name="name">A.170. Long-term investments in fixed assets of the public partner</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_180" model="account.account.tag">
-    <field name="name">A.180. Tehnoloģiskās iekārtas un ierīces</field>
+    <field name="name">A.180. Technological equipment and appliances</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_190" model="account.account.tag">
-    <field name="name">A.190. Pārējie pamatlīdzekļi un inventārs</field>
+    <field name="name">A.190. Other fixed assets and inventory</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_200" model="account.account.tag">
-    <field name="name">A.200. Pamatlīdzekļu izveidošana un nepabeigto celtniecības objektu izmaksas</field>
+    <field name="name">A.200. Costs of fixed asset creation and unfinished object construction</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_210" model="account.account.tag">
-    <field name="name">A.210. Avansa maksājumi par pamatlīdzekļiem</field>
+    <field name="name">A.210. Advance payments for fixed assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_230" model="account.account.tag">
-    <field name="name">A.230. Ilgtermiņa finanšu ieguldījumi:</field>
+    <field name="name">A.230. Long-term financial investments:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_240" model="account.account.tag">
-    <field name="name">A.240. Līdzdalība radniecīgo sabiedrību kapitālā</field>
+    <field name="name">A.240. Participation in the capital of related companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_250" model="account.account.tag">
-    <field name="name">A.250. Aizdevumi radniecīgajām sabiedrībām</field>
+    <field name="name">A.250. Loans to related companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_260" model="account.account.tag">
-    <field name="name">A.260. Līdzdalība asociēto sabiedrību kapitālā</field>
+    <field name="name">A.260. Participation in the capital of associated companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_270" model="account.account.tag">
-    <field name="name">A.270. Aizdevumi asociētajām sabiedrībām</field>
+    <field name="name">A.270. Loans to associated companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_280" model="account.account.tag">
-    <field name="name">A.280. Pārējie vērtspapīri un ieguldījumi</field>
+    <field name="name">A.280. Other securities and investments</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_290" model="account.account.tag">
-    <field name="name">A.290. Pārējie aizdevumi un citi ilgtermiņa debitori</field>
+    <field name="name">A.290. Other loans and other long-term debtors</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_300" model="account.account.tag">
-    <field name="name">A.300. Pašu akcijas vai daļas</field>
+    <field name="name">A.300. Own shares</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_310" model="account.account.tag">
-    <field name="name">A.310. Aizdevumi akcionāriem vai dalībniekiem un vadībai</field>
+    <field name="name">A.310. Loans to shareholders or members and management</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_350" model="account.account.tag">
-    <field name="name">A.350. Apgrozāmie līdzekļi</field>
+    <field name="name">A.350. Current assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_360" model="account.account.tag">
-    <field name="name">A.360. Krājumi</field>
+    <field name="name">A.360. Inventory</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_370" model="account.account.tag">
-    <field name="name">A.370. Izejvielas, pamatmateriāli un palīgmateriāli</field>
+    <field name="name">A.370. Raw materials, basic materials and auxiliary materials</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_380" model="account.account.tag">
-    <field name="name">A.380. Nepabeigtie ražojumi un pasūtījumi</field>
+    <field name="name">A.380. Unfinished production and orders</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_390" model="account.account.tag">
-    <field name="name">A.390. Gatavie ražojumi un preces pārdošanai</field>
+    <field name="name">A.390. Finished products and goods for sale</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_400" model="account.account.tag">
-    <field name="name">A.400. Avansa maksājumi par krājumiem</field>
+    <field name="name">A.400. Advance payments for inventory</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_410" model="account.account.tag">
-    <field name="name">A.410. Dzīvnieki un augi:</field>
+    <field name="name">A.410. Animals and plants:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_420" model="account.account.tag">
-    <field name="name">A.420. a) dzīvnieki un viengadīgie stādījumi</field>
+    <field name="name">A.420. a) animals and annual plantations</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_430" model="account.account.tag">
-    <field name="name">A.430. b) bioloģiskie aktīvi</field>
+    <field name="name">A.430. b) biological assets</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_460" model="account.account.tag">
-    <field name="name">A.460. Debitori:</field>
+    <field name="name">A.460. Debtors:</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_470" model="account.account.tag">
-    <field name="name">A.470. Pircēju un pasūtītāju parādi</field>
+    <field name="name">A.470. Accounts receivable – trade</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_480" model="account.account.tag">
-    <field name="name">A.480. Radniecīgo sabiedrību parādi</field>
+    <field name="name">A.480. Debts of related companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_490" model="account.account.tag">
-    <field name="name">A.490. Asociēto sabiedrību parādi</field>
+    <field name="name">A.490. Debts of accosiated companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_500" model="account.account.tag">
-    <field name="name">A.500. Citi debitori</field>
+    <field name="name">A.500. Other debtors</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_510" model="account.account.tag">
-    <field name="name">A.510. Neiemaksātās daļas sabiedrības kapitālā</field>
+    <field name="name">A.510. Unpaid company capital settlements</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_520" model="account.account.tag">
-    <field name="name">A.520. Īstermiņa aizdevumi akcionāriem vai dalībniekiem un vadībai</field>
+    <field name="name">A.520. Short-term loans for company members and management</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_530" model="account.account.tag">
-    <field name="name">A.530. Nākamo periodu izmaksas</field>
+    <field name="name">A.530. Accrued expenses</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_540" model="account.account.tag">
-    <field name="name">A.540. Uzkrātie ieņēmumi</field>
+    <field name="name">A.540. Accrued income</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_560" model="account.account.tag">
-    <field name="name">A.570. Īstermiņa finanšu ieguldījumi</field>
+    <field name="name">A.560. Short-term financial investments</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_570" model="account.account.tag">
-    <field name="name">A.570. Līdzdalība radniecīgo sabiedrību kapitālā</field>
+    <field name="name">A.570. Participation in the capital of related companies</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_580" model="account.account.tag">
-    <field name="name">A.580. Pašu akcijas vai daļas</field>
+    <field name="name">A.580. Own shares</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_590" model="account.account.tag">
-    <field name="name">A.590. Pārējie vērtspapīri un līdzdalība kapitālos</field>
+    <field name="name">A.590. Other securities and equity participation</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_600" model="account.account.tag">
-    <field name="name">A.600. Atvasināti finanšu instrumenti</field>
+    <field name="name">A.600. ADerivative financial instruments</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
 
   <record id="account_account_tag_a_620" model="account.account.tag">
-    <field name="name">A.620. Nauda</field>
+    <field name="name">A.620. Money</field>
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
@@ -1013,7 +1013,6 @@
     <field name="applicability">accounts</field>
     <field name="color" eval="8" />
   </record>
-
 
   <!-- Tags for taxes -->
 

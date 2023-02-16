@@ -6,7 +6,7 @@
   <record id="account_tax_template_sales_21_vat41S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Pārdošana 21% Latvijā</field>
-    <field name="description">21% PVN</field>
+    <field name="description">21% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">21.0</field>
     <field name="tax_group_id" ref="tax_group_vat_21" />
@@ -72,7 +72,7 @@
   <record id="account_tax_template_sales_12_vat42S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Pārdošana 12% Latvijā</field>
-    <field name="description">12% PVN</field>
+    <field name="description">12% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">12.0</field>
     <field name="tax_group_id" ref="tax_group_vat_12" />
@@ -107,7 +107,7 @@
   <record id="account_tax_template_sales_5_vat421S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Pārdošana 5% Latvijā</field>
-    <field name="description">5% PVN</field>
+    <field name="description">5% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">5.0</field>
     <field name="tax_group_id" ref="tax_group_vat_5" />
@@ -142,7 +142,7 @@
   <record id="account_tax_template_sales_VAT_4348S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Pārdošana 0% 48r Latvijā</field>
-    <field name="description">0% PVN</field>
+    <field name="description">0% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
     <field name="tax_group_id" ref="tax_group_vat_0" />
@@ -173,7 +173,7 @@
   <record id="account_tax_template_sales_VAT_482S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">pakalpojumi Bez PVN 48.2r Latvijā</field>
-    <field name="description">Bez PVN</field>
+    <field name="description">W/O VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
     <field name="tax_group_id" ref="tax_group_vat_exempt" />
@@ -204,8 +204,8 @@
   <!-- 21% VAT, VAT report r62 + PVN 1.1. -->
   <record id="account_tax_template_sales_VAT_11A_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 21% Latvijā</field>
-    <field name="description">21% PVN</field>
+    <field name="name">Purchase 21% Latvia</field>
+    <field name="description">21% VAT</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">21.0</field>
     <field name="tax_group_id" ref="tax_group_vat_21" />
@@ -239,8 +239,8 @@
   <!-- 21% VAT, VAT report R50 + PVN 1.2. -->
   <record id="account_tax_template_sales_VAT_5012SG_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 21% Latvijā</field>
-    <field name="description">21% PVN</field>
+    <field name="name">Purchase 21% Latvia</field>
+    <field name="description">21% VAT</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">21.0</field>
     <field name="tax_group_id" ref="tax_group_vat_21" />
@@ -284,8 +284,8 @@
   <!-- 12% VAT, VAT report R51 + PVN 1.2. -->
   <record id="account_tax_template_sales_VAT_51SG_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 12% ES</field>
-    <field name="description">12% PVN</field>
+    <field name="name">Purchase 12% EU</field>
+    <field name="description">12% VAT</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">12.0</field>
     <field name="tax_group_id" ref="tax_group_vat_12" />
@@ -329,8 +329,8 @@
   <!-- 5% VAT, VAT report R511 + PVN 1.2. -->
   <record id="account_tax_template_sales_VAT_51112SG_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 5% ES</field>
-    <field name="description">5% PVN</field>
+    <field name="name">Purchase 5% EU</field>
+    <field name="description">5% VAT</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">5.0</field>
     <field name="tax_group_id" ref="tax_group_vat_5" />
@@ -375,7 +375,7 @@
   <record id="account_tax_template_sales_VAT_2P_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">PVN2 Pakalpojumi</field>
-    <field name="description">Bez PVN (EU)</field>
+    <field name="description">W/O VAT (EU)</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
     <field name="tax_group_id" ref="tax_group_vat_0" />
@@ -406,7 +406,7 @@
   <record id="account_tax_template_sales_VAT_2G_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">PVN2 Preces</field>
-    <field name="description">0% PVN (EU)</field>
+    <field name="description">0% VAT (EU)</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
     <field name="tax_group_id" ref="tax_group_vat_0" />
@@ -436,8 +436,8 @@
   <!-- 21% VAT, VAT report Reversa R4 -->
   <record id="account_tax_template_sales_VAT_11SR4_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 21% R4</field>
-    <field name="description">21% PVN</field>
+    <field name="name">Purchase 21% R4</field>
+    <field name="description">21% VAT</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">21.0</field>
     <field name="tax_group_id" ref="tax_group_vat_21" />
@@ -481,8 +481,8 @@
   <!-- 21% VAT, VAT report Reversa 3 valstu pakalpojumi -->
   <record id="account_tax_template_sales_VAT_11S3CR_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Iegāde 21% 3. valstu pakalpojumi</field>
-    <field name="description">21% PVN 3V</field>
+    <field name="name">Purchase 21% 3. Country services</field>
+    <field name="description">21% VAT 3C</field>
     <field name="type_tax_use">purchase</field>
     <field name="amount">21.0</field>
     <field name="tax_group_id" ref="tax_group_vat_21" />
