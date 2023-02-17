@@ -1,6 +1,6 @@
 {
     'name': "Latvia - Accounting",
-    'version': '16.0.0.7',
+    'version': '16.0.0.8',
     'description': """
         Chart of Accounts (COA) Template for Latvia's Accounting.
         This module also includes:
