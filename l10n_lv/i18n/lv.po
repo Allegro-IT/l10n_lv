@@ -4,16 +4,6 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 16.0+e\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-15 08:58+0000\n"
-"PO-Revision-Date: 2023-02-15 08:58+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
 
 #. module: l10n_lv
 #: model:account.tax.template,description:l10n_lv.account_tax_template_sales_VAT_4348S_tag
@@ -821,7 +811,8 @@ msgstr "Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a1294
-msgid "Accumulated depreciation on long-term investments in fixed assets of the public partner"
+msgid "Accumulated depreciation on long-term investments in fixed assets of /n"
+        "the public partner"
 msgstr "Ilgtermiņa ieguldījumu nomātajos pamatlīdzekļos nolietojums (pasīvā)"
 
 #. module: l10n_lv
@@ -1356,234 +1347,234 @@ msgid "Deferred expenses"
 msgstr "Nākamo periodu izmaksas"
 
 #. module: l10n_lv
-#: model:account.account.tag,name:l10n_lv.account_account_tag_p_990
-msgid "P.1000. Neizmaksātās dividendes"
-msgstr ""
+#: model:account.account.tag,name:l10n_lv.account_account_tag_p_1000
+msgid "P.1000. Unpaid dividends"
+msgstr "P.1000. Neizmaksātās dividendes"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1020
-msgid "P.1020. Īstermiņa kreditori:"
-msgstr ""
+msgid "P.1020. Current creditors:"
+msgstr "P.1020. Īstermiņa kreditori:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1030
-msgid "P.1030. Aizņēmumi pret obligācijām"
-msgstr ""
+msgid "P.1030. Borrowing against bonds"
+msgstr "P.1030. Aizņēmumi pret obligācijām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1040
-msgid "P.1040. Akcijās pārvēršamie aizņēmumi"
-msgstr ""
+msgid "P.1040. Loans convertible into shares"
+msgstr "P.1040. Akcijās pārvēršamie aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1050
-msgid "P.1050. Aizņēmumi no kredītiestādēm"
-msgstr ""
+msgid "P.1050. Loans from credit institutions"
+msgstr "P.1050. Aizņēmumi no kredītiestādēm"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1060
-msgid "P.1060. Citi aizņēmumi"
-msgstr ""
+msgid "P.1060. Other loans"
+msgstr "P.1060. Citi aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1070
-msgid "P.1070. No pircējiem saņemtie avansi"
-msgstr ""
+msgid "P.1070. Advances received from buyers"
+msgstr "P.1070. No pircējiem saņemtie avansi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1080
-msgid "P.1080. Parādi piegādātājiem un darbuzņēmējiem"
-msgstr ""
+msgid "P.1080. Creditors (debts to suppliers and contractors)"
+msgstr "P.1080. Parādi piegādātājiem un darbuzņēmējiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1090
-msgid "P.1090. Maksājamie vekseļi"
-msgstr ""
+msgid "P.1090. Promissory notes payable"
+msgstr "P.1090. Maksājamie vekseļi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1100
-msgid "P.1100. Parādi radniecīgajām sabiedrībām"
-msgstr ""
+msgid "P.1100. Debts to related companies"
+msgstr "P.1100. Parādi radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1110
-msgid "P.1110. Parādi asociētajām sabiedrībām"
-msgstr ""
+msgid "P.1110. Debts to associated companies"
+msgstr "P.1110. Parādi asociētajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1120
-msgid "P.1120. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas"
-msgstr ""
+msgid "P.1120. Taxes and compulsory national social insurance contributions"
+msgstr "P.1120. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1130
-msgid "P.1130. Pārējie kreditori"
-msgstr ""
+msgid "P.1130. Other creditors"
+msgstr "P.1130. Pārējie kreditori"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1140
-msgid "P.1140. Nākamo periodu ieņēmumi"
-msgstr ""
+msgid "P.1140. Deferred income"
+msgstr "P.1140. Nākamo periodu ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1150
-msgid "P.1150. Neizmaksātās dividendes"
-msgstr ""
+msgid "P.1150. Unpaid dividends"
+msgstr "P.1150. Neizmaksātās dividendes"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1160
-msgid "P.1160. Uzkrātās saistības"
-msgstr ""
+msgid "P.1160. Accrued liabilities"
+msgstr "P.1160. Uzkrātās saistības"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_1170
-msgid "P.1170. Atvasinātie finanšu instrumenti"
-msgstr ""
+msgid "P.1170. Derivative financial instruments"
+msgstr "P.1170. Atvasinātie finanšu instrumenti"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_650
-msgid "P.650. Pašu kapitāls:"
-msgstr ""
+msgid "P.650. Equity:"
+msgstr "P.650. Pašu kapitāls:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_660
-msgid "P.660. Akciju vai daļu kapitāls (pamatkapitāls)"
-msgstr ""
+msgid "P.660. Share capital"
+msgstr "P.660. Akciju vai daļu kapitāls (pamatkapitāls)"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_670
-msgid "P.670. Akciju (daļu) emisijas uzcenojums"
-msgstr ""
+msgid "P.670. Share (unit) premium"
+msgstr "P.670. Akciju (daļu) emisijas uzcenojums"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_680
-msgid "P.680. Ilgtermiņa ieguldījumu pārvērtēšanas rezerve"
-msgstr ""
+msgid "P.680. Revaluation reserve for long-term investments"
+msgstr "P.680. Ilgtermiņa ieguldījumu pārvērtēšanas rezerve"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_690
-msgid "P.690. Finanšu instrumentu patiesās vērtības rezerve"
-msgstr ""
+msgid "P.690. Fair value reserve on financial instruments"
+msgstr "P.690. Finanšu instrumentu patiesās vērtības rezerve"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_700
-msgid "P.700. Rezerves:"
-msgstr ""
+msgid "P.700. Reserves:"
+msgstr "P.700. Rezerves:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_710
-msgid "P.710. a) likumā noteiktās rezerves"
-msgstr ""
+msgid "P.710. a) statutory reserves"
+msgstr "P.710. a) likumā noteiktās rezerves"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_720
-msgid "P.720. b) rezerves pašu akcijām vai daļām"
-msgstr ""
+msgid "P.720. b) reserves for own shares or parts"
+msgstr "P.720. b) rezerves pašu akcijām vai daļām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_730
-msgid "P.730. c) sabiedrības statūtos noteiktās rezerves"
-msgstr ""
+msgid "P.730. c) reserves specified in the company's articles of association"
+msgstr "P.730. c) sabiedrības statūtos noteiktās rezerves"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_740
-msgid "P.740. d) rezerves, kas novirzītas attīstībai"
-msgstr ""
+msgid "P.740. d) reserves earmarked for development"
+msgstr "P.740. d) rezerves, kas novirzītas attīstībai"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_760
-msgid "P.760. e) pārējās rezerves"
-msgstr ""
+msgid "P.760. e) other reserves"
+msgstr "P.760. e) pārējās rezerves"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_780
-msgid "P.780. Iepriekšējo gadu nesadalītā peļņa vai nesegtie zaudējumi"
-msgstr ""
+msgid "P.780. Retained earnings or losses from previous years"
+msgstr "P.780. Iepriekšējo gadu nesadalītā peļņa vai nesegtie zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_790
-msgid "P.790. Pārskata gada peļņa vai zaudējumi"
-msgstr ""
+msgid "P.790. Profit or loss for the financial year"
+msgstr "P.790. Pārskata gada peļņa vai zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_810
-msgid "P.810. Uzkrājumi:"
-msgstr ""
+msgid "P.810. Provisions:"
+msgstr "P.810. Uzkrājumi:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_820
-msgid "P.820. Uzkrājumi pensijām un tamlīdzīgām saistībām"
-msgstr ""
+msgid "P.820. Savings for pensions and similar liabilities"
+msgstr "P.820. Uzkrājumi pensijām un tamlīdzīgām saistībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_830
-msgid "P.830. Uzkrājumi paredzamajiem nodokļiem"
-msgstr ""
+msgid "P.830. Provisions for estimated taxes"
+msgstr "P.830. Uzkrājumi paredzamajiem nodokļiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_840
-msgid "P.840. Citi uzkrājumi"
-msgstr ""
+msgid "P.840. Other provisions"
+msgstr "P.840. Citi uzkrājumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_860
-msgid "P.860. Ilgtermiņa kreditori:"
-msgstr ""
+msgid "P.860. Non-current creditors:"
+msgstr "P.860. Ilgtermiņa kreditori:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_870
-msgid "P.870. Aizņēmumi pret obligācijām"
-msgstr ""
+msgid "P.870. Borrowing against bonds"
+msgstr "P.870. Aizņēmumi pret obligācijām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_880
-msgid "P.880. Akcijās pārvēršamie aizņēmumi"
-msgstr ""
+msgid "P.880. Loans convertible into shares"
+msgstr "P.880. Akcijās pārvēršamie aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_890
-msgid "P.890. Aizņēmumi no kredītiestādēm"
-msgstr ""
+msgid "P.890. Loans from credit institutions"
+msgstr "P.890. Aizņēmumi no kredītiestādēm"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_900
-msgid "P.900. Citi aizņēmumi"
-msgstr ""
+msgid "P.900. Other loans"
+msgstr "P.900. Citi aizņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_910
-msgid "P.910. No pircējiem saņemtie avansi"
-msgstr ""
+msgid "P.910. Advances received from customers"
+msgstr "P.910. No pircējiem saņemtie avansi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_920
-msgid "P.920. Parādi piegādātājiem un darbuzņēmējiem"
-msgstr ""
+msgid "P.920. Creditors (debts to suppliers and contractors)"
+msgstr "P.920. Parādi piegādātājiem un darbuzņēmējiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_930
-msgid "P.930. Maksājamie vekseļi"
-msgstr ""
+msgid "P.930. Promissory notes payable"
+msgstr "P.930. Maksājamie vekseļi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_940
-msgid "P.940. Parādi radniecīgajām sabiedrībām"
-msgstr ""
+msgid "P.940. Debts to related companies"
+msgstr "P.940. Parādi radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_950
-msgid "P.950. Parādi asociētajām sabiedrībām"
-msgstr ""
+msgid "P.950. Debts to associated companies"
+msgstr "P.950. Parādi asociētajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_960
-msgid "P.960. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas"
-msgstr ""
+msgid "P.960. Taxes and compulsory national social insurance contributions"
+msgstr "P.960. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_p_980
-msgid "P.980. Pārējie kreditori"
-msgstr ""
+msgid "P.980. Other creditors"
+msgstr "P.980. Pārējie kreditori"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a2671
@@ -1592,507 +1583,485 @@ msgstr "POS vai maksājumu sistēmu norēķini"
 
 #. module: l10n_lv
 #: model:account.tax.group,name:l10n_lv.tax_group_vat_0
-msgid "PVN 0%"
-msgstr ""
+msgid "VAT 0%"
+msgstr "PVN 0%"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11P3CR_tag
-msgid "PVN 1.1 3.valstu pakalpojum"
-msgstr ""
+msgid "VAT 1.1 3.country services"
+msgstr "PVN 1.1 3.valstu pakalpojumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR4_tag
-msgid "PVN 1.1 R4"
-msgstr ""
+msgid "VAT 1.1 R4"
+msgstr "PVN 1.1 R4"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR5_tag
-msgid "PVN 1.1 R5"
-msgstr ""
+msgid "VAT 1.1 R5"
+msgstr "PVN 1.1 R5"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR6_tag
-msgid "PVN 1.1 R6"
-msgstr ""
+msgid "VAT 1.1 R6"
+msgstr "PVN 1.1 R6"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR7_tag
-msgid "PVN 1.1 R7"
-msgstr ""
+msgid "VAT 1.1 R7"
+msgstr "PVN 1.1 R7"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PA_tag
-msgid "PVN 1.1A"
-msgstr ""
+msgid "VAT 1.1A"
+msgstr "PVN 1.1A"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PC_tag
-msgid "PVN 1.1C"
-msgstr ""
+msgid "VAT 1.1C"
+msgstr "PVN 1.1C"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PI_tag
-msgid "PVN 1.1I"
-msgstr ""
+msgid "VAT 1.1I"
+msgstr "PVN 1.1I"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PK_tag
-msgid "PVN 1.1K"
-msgstr ""
+msgid "VAT 1.1K"
+msgstr "PVN 1.1K"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PM_tag
-msgid "PVN 1.1M"
-msgstr ""
+msgid "VAT 1.1M"
+msgstr "PVN 1.1M"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR1_tag
-msgid "PVN 1.1R1"
-msgstr ""
+msgid "VAT 1.1R1"
+msgstr "PVN 1.1R1"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR2_tag
-msgid "PVN 1.1R2"
-msgstr ""
+msgid "VAT 1.1R2"
+msgstr "PVN 1.1R2"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PR3_tag
-msgid "PVN 1.1R3"
-msgstr ""
+msgid "VAT 1.1R3"
+msgstr "PVN 1.1R3"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11PZ_tag
-msgid "PVN 1.1Z"
-msgstr ""
+msgid "VAT 1.1Z"
+msgstr "PVN 1.1Z"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_51PG_tag
-msgid "PVN 1.2 12% preces"
-msgstr ""
+msgid "VAT 1.2 12% goods"
+msgstr "PVN 1.2 12% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_5012PG_tag
-msgid "PVN 1.2 21% preces"
-msgstr ""
+msgid "VAT 1.2 21% goods"
+msgstr "PVN 1.2 21% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_51112PG_tag
-msgid "PVN 1.2 5% preces "
-msgstr ""
+msgid "VAT 1.2 5% goods"
+msgstr "PVN 1.2 5% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_12PС_tag
-msgid "PVN 1.2 9.punkts"
-msgstr ""
+msgid "VAT 1.2 9.paragraph"
+msgstr "PVN 1.2 9.punkts"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_5012PS_tag
-msgid "PVN 1.2 pakalpojumi"
-msgstr ""
+msgid "VAT 1.2 services"
+msgstr "PVN 1.2 pakalpojumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_41P_tag
-msgid "PVN 1.3 41r"
-msgstr ""
+msgid "VAT 1.3 41r"
+msgstr "PVN 1.3 41r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_421P_tag
 msgid "PVN 1.3 421r"
-msgstr ""
+msgstr "PVN 1.3 421r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_42P_tag
-msgid "PVN 1.3 42r"
-msgstr ""
+msgid "VAT 1.3 42r"
+msgstr "PVN 1.3 42r"
 
 #. module: l10n_lv
 #: model:account.tax.group,name:l10n_lv.tax_group_vat_12
-msgid "PVN 12%"
-msgstr ""
+msgid "VAT 12%"
+msgstr "PVN 12%"
 
 #. module: l10n_lv
 #: model:account.tax.group,name:l10n_lv.tax_group_vat_21
 msgid "PVN 21%"
-msgstr ""
+msgstr "VAT 21%"
 
 #. module: l10n_lv
 #: model:account.tax.group,name:l10n_lv.tax_group_vat_5
-msgid "PVN 5%"
-msgstr ""
+msgid "VAT 5%"
+msgstr "PVN 5%"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_VAT_2P_tag
-msgid "PVN2 Pakalpojumi"
-msgstr ""
+msgid "VAT2 Services"
+msgstr "PVN2 Pakalpojumi"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_VAT_2G_tag
-msgid "PVN2 Preces"
-msgstr ""
+msgid "PVN2 Goods"
+msgstr "PVN2 Preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_10
-msgid "PZA1.10. Neto apgrozījums"
-msgstr ""
+msgid "PZA1.10. Net turnover"
+msgstr "PZA1.10. Neto apgrozījums"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_100
-msgid "PZA1.100. Personāla izmaksas:"
-msgstr ""
+msgid "PZA1.100. Staff expences:"
+msgstr "PZA1.100. Personāla izmaksas:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_110
-msgid "PZA1.110. a) atlīdzība par darbu"
-msgstr ""
+msgid "PZA1.110. a) remuneration for salary"
+msgstr "PZA1.110. a) atlīdzība par darbu"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_120
-msgid "PZA1.120. b) pensijas no sabiedrības līdzekļiem"
-msgstr ""
+msgid "PZA1.120. b) pensions from company's funds"
+msgstr "PZA1.120. b) pensijas no sabiedrības līdzekļiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_130
-msgid "PZA1.130. c) valsts sociālās apdrošināšanas obligātās iemaksas"
-msgstr ""
+msgid "PZA1.130. c) national social security contributions payments"
+msgstr "PZA1.130. c) valsts sociālās apdrošināšanas obligātās iemaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_140
 msgid "PZA1.140. d) pārējās sociālās nodrošināšanas izmaksas"
-msgstr ""
+msgstr "PZA1.140. d) other social security costs"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_150
-msgid "PZA1.150. Vērtības samazinājuma korekcijas:"
-msgstr ""
+msgid "PZA1.150. Impairment allowances:"
+msgstr "PZA1.150. Vērtības samazinājuma korekcijas:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_160
-msgid ""
-"PZA1.160. a) pamatlīdzekļu un nemateriālo ieguldījumu vērtības samazinājuma\n"
-"      korekcijas"
-msgstr ""
+msgid "PZA1.160. a) impairment allowances for property, plant and equipment and intangible assets"
+msgstr "PZA1.160. a) pamatlīdzekļu un nemateriālo ieguldījumu vērtības samazinājuma korekcijas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_170
-msgid ""
-"PZA1.170. b) apgrozāmo līdzekļu vērtības samazinājuma korekcijas, ja tās\n"
-"      pārsniedz tādas vērtības norakstījumu summas, kuras attiecīgā sabiedrība uzskata par parastām"
-msgstr ""
+msgid "PZA1.170. b) adjustments for impairment of current assets to the extent that they exceed amounts for /n"
+        "write-downs that the entity considers to be normal"
+msgstr "PZA1.170. b) apgrozāmo līdzekļu vērtības samazinājuma korekcijas, ja tās pārsniedz tādas vērtības /n"
+        "norakstījumu summas, kuras attiecīgā sabiedrība uzskata par parastām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_180
-msgid "PZA1.180. Pārējās saimnieciskās darbības izmaksas"
-msgstr ""
+msgid "PZA1.180. Miscellaneous expenses"
+msgstr "PZA1.180. Pārējās saimnieciskās darbības izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_190
-msgid "PZA1.190. Ieņēmumi no līdzdalības:"
-msgstr ""
+msgid "PZA1.190. Income from participations:"
+msgstr "PZA1.190. Ieņēmumi no līdzdalības:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_20
-msgid "PZA1.20. a) no lauksaimnieciskās darbības"
-msgstr ""
+msgid "PZA1.20. a) from agricultural activities"
+msgstr "PZA1.20. a) no lauksaimnieciskās darbības"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_200
-msgid "PZA1.200. a) radniecīgo sabiedrību kapitālā"
-msgstr ""
+msgid "PZA1.200. a) in the capital of related companies"
+msgstr "PZA1.200. a) radniecīgo sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_210
-msgid "PZA1.210. b) asociēto sabiedrību kapitālā"
-msgstr ""
+msgid "PZA1.210. b) in the capital of associated companies"
+msgstr "PZA1.210. b) asociēto sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_220
-msgid "PZA1.220. c) citu sabiedrību kapitālā"
-msgstr ""
+msgid "PZA1.220. c) in the share capital of other companies"
+msgstr "PZA1.220. c) citu sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_230
-msgid ""
-"PZA1.230. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši\n"
-"      ilgtermiņa finanšu ieguldījumus"
-msgstr ""
+msgid "PZA1.230. Proceeds from other securities and loans constituting long-term financial investments"
+msgstr "PZA1.230. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa finanšu ieguldījumus"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_240
-msgid "PZA1.240. a) no radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA1.240. a) from related companies"
+msgstr "PZA1.240. a) no radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_25
-msgid "PZA1.25. b) no sniegtajiem būvniecības pakalpojumiem"
-msgstr ""
+msgid "PZA1.25. b) from construction services"
+msgstr "PZA1.25. b) no sniegtajiem būvniecības pakalpojumiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_250
-msgid ""
-"PZA1.250. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no\n"
-"      vērtspapīriem un citiem ilgtermiņa debitoriem"
-msgstr ""
+msgid "PZA1.250. b) from associates and other companies, and from securities and other long-term debtors"
+msgstr "PZA1.250. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no vērtspapīriem un citiem ilgtermiņa debitoriem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_260
-msgid "PZA1.260. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi"
-msgstr ""
+msgid "PZA1.260. Other interest and similar revenue"
+msgstr "PZA1.260. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_270
-msgid "PZA1.270. a) no radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA1.270. a) from related companies"
+msgstr "PZA1.270. a) no radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_280
-msgid "PZA1.280. b) no citām personām."
-msgstr ""
+msgid "PZA1.280. b) from other persons"
+msgstr "PZA1.280. b) no citām personām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_290
-msgid ""
-"PZA1.290. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma\n"
-"      korekcijas"
-msgstr ""
+msgid "PZA1.290. Impairment allowances on long-term and short-term financial investments"
+msgstr "PZA1.290. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma korekcijas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_30
-msgid "PZA1.30. c) no citiem pamatdarbības veidiem"
-msgstr ""
+msgid "PZA1.30. c) from other operating activities"
+msgstr "PZA1.30. c) no citiem pamatdarbības veidiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_300
-msgid "PZA1.300. Procentu maksājumi un tamlīdzīgas izmaksas"
-msgstr ""
+msgid "PZA1.300. Interest and similar costs"
+msgstr "PZA1.300. Procentu maksājumi un tamlīdzīgas izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_310
-msgid "PZA1.310. a) radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA1.310. a) related companies"
+msgstr "PZA1.310. a) radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_320
-msgid "PZA1.320. b) citām personām"
-msgstr ""
+msgid "PZA1.320. b) other persons"
+msgstr "PZA1.320. b) citām personām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_330
-msgid "PZA1.330. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa"
-msgstr ""
+msgid "PZA1.330. Profit or loss before corporate tax"
+msgstr "PZA1.330. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_340
-msgid "PZA1.340. Uzņēmumu ienākuma nodoklis par pārskata gadu"
-msgstr ""
+msgid "PZA1.340. Corporate income tax for the current year"
+msgstr "PZA1.340. Uzņēmumu ienākuma nodoklis par pārskata gadu"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_350
-msgid ""
-"PZA1.350. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas"
-msgstr ""
+msgid "PZA1.350. Profit or loss after corporate tax"
+msgstr "PZA1.350. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_370
-msgid "PZA1.370. Ārkārtas dividendes"
-msgstr ""
+msgid "PZA1.370. Extraordinary dividends"
+msgstr "PZA1.370. Ārkārtas dividendes"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_380
-msgid "PZA1.380. Pārskata gada peļņa vai zaudējumi"
-msgstr ""
+msgid "PZA1.380. Profit or loss for the current year"
+msgstr "PZA1.380. Pārskata gada peļņa vai zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_40
-msgid "PZA1.40. Gatavās produkcijas un nepabeigto ražojumu krājumu izmaiņas"
-msgstr ""
+msgid "PZA1.40. Change in stocks of finished products and work in progress"
+msgstr "PZA1.40. Gatavās produkcijas un nepabeigto ražojumu krājumu izmaiņas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_50
-msgid ""
-"PZA1.50. Uz pašu ilgtermiņa ieguldījumiem attiecinātās (kapitalizētās)\n"
-"      izmaksas"
-msgstr ""
+msgid "PZA1.50. Costs attributed (capitalised) to own long-term investments"
+msgstr "PZA1.50. Uz pašu ilgtermiņa ieguldījumiem attiecinātās (kapitalizētās) izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_60
-msgid "PZA1.60. Pārējie saimnieciskās darbības ieņēmumi"
-msgstr ""
+msgid "PZA1.60. Other operating revenue"
+msgstr "PZA1.60. Pārējie saimnieciskās darbības ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_70
-msgid "PZA1.70. Materiālu izmaksas:"
-msgstr ""
+msgid "PZA1.70. Material costs:"
+msgstr "PZA1.70. Materiālu izmaksas:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_80
-msgid "PZA1.80. a) izejvielu un palīgmateriālu izmaksas"
-msgstr ""
+msgid "PZA1.80. a) costs of raw materials and consumables"
+msgstr "PZA1.80. a) izejvielu un palīgmateriālu izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza1_90
-msgid "PZA1.90. b) pārējās ārējās izmaksas"
-msgstr ""
+msgid "PZA1.90. b) other external costs"
+msgstr "PZA1.90. b) pārējās ārējās izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_10
-msgid "PZA2.10. Neto apgrozījums"
-msgstr ""
+msgid "PZA2.10. Net turnover"
+msgstr "PZA2.10. Neto apgrozījums"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_100
-msgid "PZA2.100. Ieņēmumi no līdzdalības:"
-msgstr ""
+msgid "PZA2.100. Income from participations:"
+msgstr "PZA2.100. Ieņēmumi no līdzdalības:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_110
-msgid "PZA2.110. a) radniecīgo sabiedrību kapitālā"
-msgstr ""
+msgid "PZA2.110. a) in the capital of related companies"
+msgstr "PZA2.110. a) radniecīgo sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_120
-msgid "PZA2.120. b) asociēto sabiedrību kapitālā"
-msgstr ""
+msgid "PZA2.120. b) in the capital of associated companies"
+msgstr "PZA2.120. b) asociēto sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_130
-msgid "PZA2.130. c) citu sabiedrību kapitālā"
-msgstr ""
+msgid "PZA2.130. c) in the share capital of other companies"
+msgstr "PZA2.130. c) citu sabiedrību kapitālā"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_140
-msgid ""
-"PZA2.140. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši\n"
-"      ilgtermiņa finanšu ieguldījumus"
-msgstr ""
+msgid "PZA2.140. Revenue from other securities and loans constituting long-term financial investments"
+msgstr "PZA2.140. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa finanšu ieguldījumus"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_150
-msgid "PZA2.150. a) no radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA2.150. a) from related companies"
+msgstr "PZA2.150. a) no radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_160
-msgid ""
-"PZA2.160. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no\n"
-"      vērtspapīriem un citiem ilgtermiņa debitoriem"
-msgstr ""
+msgid "PZA2.160. b) from associates and other companies, and from securities and other long-term debtors"
+msgstr "PZA2.160. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no vērtspapīriem un citiem ilgtermiņa debitoriem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_170
-msgid "PZA2.170. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi:"
-msgstr ""
+msgid "PZA2.170. Other interest and similar revenue:"
+msgstr "PZA2.170. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi:"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_180
-msgid "PZA2.180. a) no radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA2.180. a) from related companies"
+msgstr "PZA2.180. a) no radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_190
-msgid "PZA2.190. b) no citām personām"
-msgstr ""
+msgid "PZA2.190. b) from other persons"
+msgstr "PZA2.190. b) no citām personām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_20
-msgid "PZA2.20. a) no lauksaimnieciskās darbības"
-msgstr ""
+msgid "PZA1.20. a) from agricultural activities"
+msgstr "PZA2.20. a) no lauksaimnieciskās darbības"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_200
-msgid ""
-"PZA2.200. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma\n"
-"      korekcijas"
-msgstr ""
+msgid "PZA2.200. Impairment allowances on long-term and short-term financial investments"
+msgstr "PZA2.200. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma korekcijas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_210
-msgid "PZA2.210. Procentu maksājumi un tamlīdzīgas izmaksas"
-msgstr ""
+msgid "PZA2.210. Interest and similar costs"
+msgstr "PZA2.210. Procentu maksājumi un tamlīdzīgas izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_220
-msgid "PZA2.220. a) radniecīgajām sabiedrībām"
-msgstr ""
+msgid "PZA2.220. a) related companies"
+msgstr "PZA2.220. a) radniecīgajām sabiedrībām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_230
-msgid "PZA2.230. b) citām personām"
-msgstr ""
+msgid "PZA2.230. b) from other persons"
+msgstr "PZA2.230. b) citām personām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_240
-msgid "PZA2.240. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa"
-msgstr ""
+msgid "PZA2.240. Profit or loss before corporate tax"
+msgstr "PZA2.240. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_25
-msgid "PZA2.25. b) no sniegtajiem būvniecības pakalpojumiem"
-msgstr ""
+msgid "PZA2.25. b) from construction services"
+msgstr "PZA2.25. b) no sniegtajiem būvniecības pakalpojumiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_250
-msgid "PZA2.250. Uzņēmumu ienākuma nodoklis par pārskata gadu"
-msgstr ""
+msgid "PZA2.250. Corporate income tax for the current year"
+msgstr "PZA2.250. Uzņēmumu ienākuma nodoklis par pārskata gadu"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_260
-msgid ""
-"PZA2.260. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas"
-msgstr ""
+msgid "PZA2.260. Profit or loss after corporate tax"
+msgstr "PZA2.260. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_270
-msgid ""
-"PZA2.270. Ieņēmumi vai izmaksas no atliktā nodokļa aktīvu vai saistību\n"
-"      atlikumu izmaiņām"
-msgstr ""
+msgid "PZA2.270. Income or expenses from changes in deferred tax asset or liability balances"
+msgstr "PZA2.270. Ieņēmumi vai izmaksas no atliktā nodokļa aktīvu vai saistību atlikumu izmaiņām"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_280
-msgid "PZA2.280. Ārkārtas dividendes"
-msgstr ""
+msgid "PZA2.280. Extraordinary dividends"
+msgstr "PZA2.280. Ārkārtas dividendes"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_290
-msgid "PZA2.290. Pārskata gada peļņa vai zaudējumi."
-msgstr ""
+msgid "PZA2.290. Profit or loss for the current year"
+msgstr "PZA2.290. Pārskata gada peļņa vai zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_30
-msgid "PZA2.30. c) no citiem pamatdarbības veidiem"
-msgstr ""
+msgid "PZA2.30. c) from other operating activities"
+msgstr "PZA2.30. c) no citiem pamatdarbības veidiem"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_40
-msgid ""
-"PZA2.40. Pārdotās produkcijas ražošanas pašizmaksa, pārdoto preču vai sniegto\n"
-"      pakalpojumu iegādes izmaksas"
-msgstr ""
+msgid "PZA2.40. Cost of production of goods sold, cost of goods sold or cost of services rendered"
+msgstr "PZA2.40. Pārdotās produkcijas ražošanas pašizmaksa, pārdoto preču vai sniegto pakalpojumu iegādes izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_50
-msgid "PZA2.50. Bruto peļņa vai zaudējumi"
-msgstr ""
+msgid "PZA2.50. Gross profit or loss"
+msgstr "PZA2.50. Bruto peļņa vai zaudējumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_60
-msgid "PZA2.60. Pārdošanas izmaksas"
-msgstr ""
+msgid "PZA2.60. Sales expenses"
+msgstr "PZA2.60. Pārdošanas izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_70
-msgid "PZA2.70. Administrācijas izmaksas"
-msgstr ""
+msgid "PZA2.70. Administration costs"
+msgstr "PZA2.70. Administrācijas izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_80
-msgid "PZA2.80. Pārējie saimnieciskās darbības ieņēmumi"
-msgstr ""
+msgid "PZA2.80. Other operating revenue"
+msgstr "PZA2.80. Pārējie saimnieciskās darbības ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.account_account_tag_pza2_90
-msgid "PZA2.90. Pārējās saimnieciskās darbības izmaksas"
-msgstr ""
+msgid "PZA2.90. Miscellaneous expenses"
+msgstr "PZA2.90. Pārējās saimnieciskās darbības izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a3110
@@ -2238,28 +2207,28 @@ msgstr "Produktīvo un darba dzīvnieku ganāmpulka vērtības izmaiņas"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_VAT_4348S_tag
-msgid "Pārdošana 0% 48r Latvijā"
-msgstr ""
+msgid "Sale 0% 48r in Latvia"
+msgstr "Pārdošana 0% 48r Latvijā"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_12_vat42S
-msgid "Pārdošana 12% Latvijā"
-msgstr ""
+msgid "Sales 12% in Latvia"
+msgstr "Pārdošana 12% Latvijā"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_21_vat41S
-msgid "Pārdošana 21% Latvijā"
-msgstr ""
+msgid "Sales 21% in Latvia"
+msgstr "Pārdošana 21% Latvijā"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_5_vat421S
-msgid "Pārdošana 5% Latvijā"
-msgstr ""
+msgid "Sales 5% in Latvia"
+msgstr "Pārdošana 5% Latvijā"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_VAT_411S_tag
-msgid "Pārdošana reversa Latvijā"
-msgstr ""
+msgid "Sale in reverse in Latvia"
+msgstr "Pārdošana reversa Latvijā"
 
 #. module: l10n_lv
 #: model:account.group.template,name:l10n_lv.l10n_lv_group_28
@@ -2303,7 +2272,7 @@ msgstr "Pārējie ieņēmumi no procentiem un tiem pielīdzināmi ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a7180
-msgid "Other material expenses (tax on the use of natural resources, stumpage money, etc.)
+msgid "Other material expenses (tax on the use of natural resources, stumpage money, etc.)"
 msgstr "Pārējie materiālie izdevumi (nodoklis par dabas resursu izmantošanu, celmu nauda u.c.)"
 
 #. module: l10n_lv
@@ -2373,8 +2342,8 @@ msgstr "Pārējās saimnieciskās darbības izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a7320
-msgid "Pārējās sociālās izmaksas"
-msgstr ""
+msgid "Other social costs"
+msgstr "Pārējās sociālās izmaksas"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a1110
@@ -2388,8 +2357,8 @@ msgstr "Reprezentācijas izmaksas"
 
 #. module: l10n_lv
 #: model:account.tax.template,description:l10n_lv.account_tax_template_sales_VAT_411S_tag
-msgid "Reversa PVN"
-msgstr ""
+msgid "Reverse VAT"
+msgstr "Reversa PVN"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a3320
@@ -2403,8 +2372,8 @@ msgstr "Rezerves"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a3340
-msgid "Rezerves, kas novirzītas attīstībai"
-msgstr ""
+msgid "Reserves earmarked for development"
+msgstr "Rezerves, kas novirzītas attīstībai"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a7340
@@ -2544,198 +2513,198 @@ msgstr "Strādnieku vervēšanas un apmācības izdevumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11S3CR_tag
-msgid "Summa 1.1 3.valstu pakalpojumi"
-msgstr ""
+msgid "Sum 1.1 3.countries services"
+msgstr "Summa 1.1 3.valstu pakalpojumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR4_tag
-msgid "Summa 1.1 R4"
-msgstr ""
+msgid "Sum 1.1 R4"
+msgstr "Summa 1.1 R4"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR5_tag
-msgid "Summa 1.1 R5"
-msgstr ""
+msgid "Sum 1.1 R5"
+msgstr "Summa 1.1 R5"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR6_tag
-msgid "Summa 1.1 R6"
-msgstr ""
+msgid "Sum 1.1 R6"
+msgstr "Summa 1.1 R6"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR7_tag
-msgid "Summa 1.1 R7"
-msgstr ""
+msgid "Sum 1.1 R7"
+msgstr "Summa 1.1 R7"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SA_tag
-msgid "Summa 1.1A"
-msgstr ""
+msgid "Sum 1.1A"
+msgstr "Summa 1.1A"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SC_tag
-msgid "Summa 1.1C"
-msgstr ""
+msgid "Sum 1.1C"
+msgstr "Summa 1.1C"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SI_tag
-msgid "Summa 1.1I"
-msgstr ""
+msgid "Sum 1.1I"
+msgstr "Summa 1.1I"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SK_tag
-msgid "Summa 1.1K"
-msgstr ""
+msgid "Sum 1.1K"
+msgstr "Summa 1.1K"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SM_tag
-msgid "Summa 1.1M"
-msgstr ""
+msgid "Sum 1.1M"
+msgstr "Summa 1.1M"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR1_tag
 msgid "Summa 1.1R1"
-msgstr ""
+msgstr "Summa 1.1R1"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR2_tag
-msgid "Summa 1.1R2"
-msgstr ""
+msgid "Sum 1.1R2"
+msgstr "Summa 1.1R2"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SR3_tag
-msgid "Summa 1.1R3"
-msgstr ""
+msgid "Sum 1.1R3"
+msgstr "Summa 1.1R3"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_11SZ_tag
-msgid "Summa 1.1Z"
-msgstr ""
+msgid "Sum 1.1Z"
+msgstr "Summa 1.1Z"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_51SG_tag
-msgid "Summa 1.2 12% preces"
-msgstr ""
+msgid "Sum 1.2 12% goods"
+msgstr "Summa 1.2 12% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_5012SG_tag
-msgid "Summa 1.2 21% preces"
-msgstr ""
+msgid "Sum 1.2 21% goods"
+msgstr "Summa 1.2 21% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_51112SG_tag
-msgid "Summa 1.2 5% preces"
-msgstr ""
+msgid "Sum 1.2 5% goods"
+msgstr "Summa 1.2 5% preces"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_12SС_tag
-msgid "Summa 1.2 9.punkts"
-msgstr ""
+msgid "Sum 1.2 9.paragraph"
+msgstr "Summa 1.2 9.punkts"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_5012SS_tag
-msgid "Summa 1.2 pakalpojumi"
-msgstr ""
+msgid "Sum 1.2 services"
+msgstr "Summa 1.2 pakalpojumi"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_411S_tag
-msgid "Summa 1.3 411r Reversa"
-msgstr ""
+msgid "Sum 1.3 411r reverse"
+msgstr "Summa 1.3 411r reversa"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_41S_tag
-msgid "Summa 1.3 41r"
-msgstr ""
+msgid "Sum 1.3 41r"
+msgstr "Summa 1.3 41r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_421S_tag
 msgid "Summa 1.3 421r"
-msgstr ""
+msgstr "Sum 1.3 421r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_42S_tag
-msgid "Summa 1.3 42r"
-msgstr ""
+msgid "Sum 1.3 42r"
+msgstr "Summa 1.3 42r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_44S_tag
-msgid "Summa 1.3 44r"
-msgstr ""
+msgid "Sum 1.3 44r"
+msgstr "Summa 1.3 44r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_4346S_tag
-msgid "Summa 1.3 46r"
-msgstr ""
+msgid "Sum 1.3 46r"
+msgstr "Summa 1.3 46r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_4347S_tag
 msgid "Summa 1.3 47r"
-msgstr ""
+msgstr "Sum 1.3 47r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_43481S_tag
 msgid "Summa 1.3 481r"
-msgstr ""
+msgstr "Sum 1.3 481r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_482S_tag
 msgid "Summa 1.3 482r"
-msgstr ""
+msgstr "Summa 1.3 482r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_4348S_tag
-msgid "Summa 1.3 48r"
-msgstr ""
+msgid "Sum 1.3 48r"
+msgstr "Summa 1.3 48r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_49S_tag
-msgid "Summa 1.3 49r"
-msgstr ""
+msgid "Sum 1.3 49r"
+msgstr "Summa 1.3 49r"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2C_tag
-msgid "Summa PVN2 C"
-msgstr ""
+msgid "Sum VAT2 C"
+msgstr "Summa PVN2 C"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2E1_tag
-msgid "Summa PVN2 E1"
-msgstr ""
+msgid "Sum VAT2 E1"
+msgstr "Summa PVN2 E1"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2E2_tag
-msgid "Summa PVN2 E2"
-msgstr ""
+msgid "Sum VAT2 E2"
+msgstr "Summa PVN2 E2"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2E3_tag
-msgid "Summa PVN2 E3"
-msgstr ""
+msgid "Sum VAT2 E3"
+msgstr "Summa PVN2 E3"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2E4_tag
-msgid "Summa PVN2 E4"
-msgstr ""
+msgid "Sum VAT2 E4"
+msgstr "Summa PVN2 E4"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2G_tag
-msgid "Summa PVN2 G"
-msgstr ""
+msgid "Sum VAT2 G"
+msgstr "Summa PVN2 G"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2N_tag
-msgid "Summa PVN2 N"
-msgstr ""
+msgid "Sum VAT2 N"
+msgstr "Summa PVN2 N"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2P_tag
-msgid "Summa PVN2 P"
-msgstr ""
+msgid "Sum VAT2 P"
+msgstr "Summa PVN2 P"
 
 #. module: l10n_lv
 #: model:account.account.tag,name:l10n_lv.VAT_2S_tag
-msgid "Summa PVN2 S"
-msgstr ""
+msgid "Sum VAT2 S"
+msgstr "Summa PVN2 S"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a7140
@@ -2850,8 +2819,8 @@ msgstr "Ziedojumi un citi tiem pielīdzināmi ieņēmumi"
 
 #. module: l10n_lv
 #: model:account.tax.template,name:l10n_lv.account_tax_template_sales_VAT_482S_tag
-msgid "pakalpojumi Bez PVN 48.2r Latvijā"
-msgstr ""
+msgid "Services Ex-VAT 48.2r in Latvia"
+msgstr "Pakalpojumi Bez PVN 48.2r Latvijā"
 
 #. module: l10n_lv
 #: model:account.account.template,name:l10n_lv.a8310
