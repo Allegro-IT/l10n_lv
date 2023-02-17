@@ -5,7 +5,7 @@
   <!-- 21% VAT, VAT report r41 + r51 + PVN 1.1. -->
   <record id="account_tax_template_sales_21_vat41S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Pārdošana 21% Latvijā</field>
+    <field name="name">Sales 12% in Latvia</field>
     <field name="description">21% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">21.0</field>
@@ -40,8 +40,8 @@
   <!--  VAT, VAT report r411 reversa preces un pakalpojumi -->
   <record id="account_tax_template_sales_VAT_411S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Pārdošana reversa Latvijā</field>
-    <field name="description">Reversa PVN</field>
+    <field name="name">Sale in reverse in Latvia</field>
+    <field name="description">Reverse VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0</field>
     <field name="tax_group_id" ref="tax_group_vat_exempt" />
@@ -71,7 +71,7 @@
   <!-- 12% VAT, VAT report r42 + r52 + PVN 1.1. -->
   <record id="account_tax_template_sales_12_vat42S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Pārdošana 12% Latvijā</field>
+    <field name="name">Sales 12% in Latvia</field>
     <field name="description">12% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">12.0</field>
@@ -106,7 +106,7 @@
   <!-- 5% VAT, VAT report r421 + r52 + PVN 1.1. -->
   <record id="account_tax_template_sales_5_vat421S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Pārdošana 5% Latvijā</field>
+    <field name="name">Sales 5% in Latvia</field>
     <field name="description">5% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">5.0</field>
@@ -141,7 +141,7 @@
   <!--  VAT, VAT report 0% pakalpojumi -->
   <record id="account_tax_template_sales_VAT_4348S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Pārdošana 0% 48r Latvijā</field>
+    <field name="name">Sale 0% 48r in Latvia</field>
     <field name="description">0% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
@@ -172,7 +172,7 @@
   <!--  VAT, VAT report 0% pakalpojumi -->
   <record id="account_tax_template_sales_VAT_482S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">pakalpojumi Bez PVN 48.2r Latvijā</field>
+    <field name="name">Services Ex-VAT 48.2r in Latvia</field>
     <field name="description">W/O VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
@@ -374,7 +374,7 @@
   <!--  VAT, VAT report PVN2 services-->
   <record id="account_tax_template_sales_VAT_2P_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">PVN2 Pakalpojumi</field>
+    <field name="name">VAT2 Services</field>
     <field name="description">W/O VAT (EU)</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>
@@ -405,7 +405,7 @@
   <!--  VAT, VAT report PVN2 goods-->
   <record id="account_tax_template_sales_VAT_2G_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">PVN2 Preces</field>
+    <field name="name">PVN2 Goods</field>
     <field name="description">0% VAT (EU)</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">0.0</field>

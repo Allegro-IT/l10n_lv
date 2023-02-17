@@ -90,7 +90,7 @@ a3220,Private investment,3220,liability_current,l10n_lv.account_chart_template_l
 a3310,Statutory reserves,3310,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_710,False
 a3320,Reserves for own shares or parts,3320,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_720,False
 a3330,Reserves specified in the company's articles of association,3330,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_730,False
-a3340,"Rezerves, kas novirzītas attīstībai",3340,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_740,False
+a3340,Reserves earmarked for development,3340,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_740,False
 a3350,Foreign currency conversion reserve,3350,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_760,False
 a3360,Other reserves,3360,equity,l10n_lv.account_chart_template_latvia,account_account_tag_p_760,False
 a3410,Retained earnings for the current year,3410,equity_unaffected,l10n_lv.account_chart_template_latvia,account_account_tag_p_790,False
@@ -192,7 +192,7 @@ a7220,Salaries of management and administrative staff,7220,expense,l10n_lv.accou
 a7230,Salaries of employees of social infrastructure institutions and events,7230,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
 a7240,Other personnel costs,7240,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_110,False
 a7310,Social tax,7310,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_130,False
-a7320,Pārējās sociālās izmaksas,7320,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
+a7320,Other social costs,7320,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
 a7330,Social costs of social infrastructure facilities and activities,7330,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
 a7340,Business risk state fees,7340,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_140,False
 a7410,Write-down off the value of intangible assets,7410,expense,l10n_lv.account_chart_template_latvia,account_account_tag_pza1_160,False

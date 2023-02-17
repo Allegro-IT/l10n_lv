@@ -4,1304 +4,1315 @@
   <record id="account_account_tag_a" model="account.account.tag">
     <field name="name">A. Assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_10" model="account.account.tag">
     <field name="name">A.10. Long-term assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_20" model="account.account.tag">
     <field name="name">A.20. Intangible investments:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_30" model="account.account.tag">
     <field name="name">A.30. Costs of development</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_40" model="account.account.tag">
     <field name="name">A.40. Concessions, patents, licenses, trademarks and similar rights</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_50" model="account.account.tag">
     <field name="name">A.50. Other intangible investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_60" model="account.account.tag">
     <field name="name">A.60. Goodwill</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_70" model="account.account.tag">
     <field name="name">A.70. Advance payments for intangible assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_90" model="account.account.tag">
     <field name="name">A.II. Fixed assets:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_100" model="account.account.tag">
     <field name="name">A.100. Real estate:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_110" model="account.account.tag">
     <field name="name">A.110. a) land, buildings and engineering structures</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_130" model="account.account.tag">
     <field name="name">A.130. Animals and plants:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_140" model="account.account.tag">
     <field name="name">A.140. a) working or productive animals and permanent crops</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_160" model="account.account.tag">
     <field name="name">A.160. Long-term investments in leased fixed assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_170" model="account.account.tag">
     <field name="name">A.170. Long-term investments in fixed assets of the public partner</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_180" model="account.account.tag">
     <field name="name">A.180. Technological equipment and appliances</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_190" model="account.account.tag">
     <field name="name">A.190. Other fixed assets and inventory</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_200" model="account.account.tag">
     <field name="name">A.200. Costs of fixed asset creation and unfinished object construction</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_210" model="account.account.tag">
     <field name="name">A.210. Advance payments for fixed assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_230" model="account.account.tag">
     <field name="name">A.230. Long-term financial investments:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_240" model="account.account.tag">
     <field name="name">A.240. Participation in the capital of related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_250" model="account.account.tag">
     <field name="name">A.250. Loans to related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_260" model="account.account.tag">
     <field name="name">A.260. Participation in the capital of associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_270" model="account.account.tag">
     <field name="name">A.270. Loans to associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_280" model="account.account.tag">
     <field name="name">A.280. Other securities and investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_290" model="account.account.tag">
     <field name="name">A.290. Other loans and other long-term debtors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_300" model="account.account.tag">
     <field name="name">A.300. Own shares</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_310" model="account.account.tag">
     <field name="name">A.310. Loans to shareholders or members and management</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_350" model="account.account.tag">
     <field name="name">A.350. Current assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_360" model="account.account.tag">
     <field name="name">A.360. Inventory</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_370" model="account.account.tag">
     <field name="name">A.370. Raw materials, basic materials and auxiliary materials</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_380" model="account.account.tag">
     <field name="name">A.380. Unfinished production and orders</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_390" model="account.account.tag">
     <field name="name">A.390. Finished products and goods for sale</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_400" model="account.account.tag">
     <field name="name">A.400. Advance payments for inventory</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_410" model="account.account.tag">
     <field name="name">A.410. Animals and plants:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_420" model="account.account.tag">
     <field name="name">A.420. a) animals and annual plantations</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_430" model="account.account.tag">
     <field name="name">A.430. b) biological assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_460" model="account.account.tag">
     <field name="name">A.460. Debtors:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_470" model="account.account.tag">
     <field name="name">A.470. Accounts receivable – trade</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_480" model="account.account.tag">
     <field name="name">A.480. Debts of related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_490" model="account.account.tag">
     <field name="name">A.490. Debts of accosiated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_500" model="account.account.tag">
     <field name="name">A.500. Other debtors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_510" model="account.account.tag">
     <field name="name">A.510. Unpaid company capital settlements</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_520" model="account.account.tag">
     <field name="name">A.520. Short-term loans for company members and management</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_530" model="account.account.tag">
     <field name="name">A.530. Accrued expenses</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_540" model="account.account.tag">
     <field name="name">A.540. Accrued income</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_560" model="account.account.tag">
     <field name="name">A.560. Short-term financial investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_570" model="account.account.tag">
     <field name="name">A.570. Participation in the capital of related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_580" model="account.account.tag">
     <field name="name">A.580. Own shares</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_590" model="account.account.tag">
     <field name="name">A.590. Other securities and equity participation</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_600" model="account.account.tag">
     <field name="name">A.600. ADerivative financial instruments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_a_620" model="account.account.tag">
     <field name="name">A.620. Money</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_650" model="account.account.tag">
-    <field name="name">P.650. Pašu kapitāls:</field>
+    <field name="name">P.650. Equity:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_660" model="account.account.tag">
-    <field name="name">P.660. Akciju vai daļu kapitāls (pamatkapitāls)</field>
+    <field name="name">P.660. Share capital</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_670" model="account.account.tag">
-    <field name="name">P.670. Akciju (daļu) emisijas uzcenojums</field>
+    <field name="name">P.670. Share (unit) premium</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_680" model="account.account.tag">
-    <field name="name">P.680. Ilgtermiņa ieguldījumu pārvērtēšanas rezerve</field>
+    <field name="name">P.680. Revaluation reserve for long-term investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_690" model="account.account.tag">
-    <field name="name">P.690. Finanšu instrumentu patiesās vērtības rezerve</field>
+    <field name="name">P.690. Fair value reserve on financial instruments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_700" model="account.account.tag">
     <field name="name">P.700. Rezerves:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_710" model="account.account.tag">
-    <field name="name">P.710. a) likumā noteiktās rezerves</field>
+    <field name="name">P.710. a) statutory reserves</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_720" model="account.account.tag">
-    <field name="name">P.720. b) rezerves pašu akcijām vai daļām</field>
+    <field name="name">P.720. b) reserves for own shares or parts</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_730" model="account.account.tag">
-    <field name="name">P.730. c) sabiedrības statūtos noteiktās rezerves</field>
+    <field name="name">P.730. c) reserves specified in the company's articles of association</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_740" model="account.account.tag">
-    <field name="name">P.740. d) rezerves, kas novirzītas attīstībai</field>
+    <field name="name">P.740. d) reserves earmarked for development</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_760" model="account.account.tag">
-    <field name="name">P.760. e) pārējās rezerves</field>
+    <field name="name">P.760. e) other reserves</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_780" model="account.account.tag">
-    <field name="name">P.780. Iepriekšējo gadu nesadalītā peļņa vai nesegtie zaudējumi</field>
+    <field name="name">P.780. Retained earnings or losses from previous years</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_790" model="account.account.tag">
-    <field name="name">P.790. Pārskata gada peļņa vai zaudējumi</field>
+    <field name="name">P.790. Profit or loss for the financial year</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_810" model="account.account.tag">
-    <field name="name">P.810. Uzkrājumi:</field>
+    <field name="name">P.810. Provisions:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_820" model="account.account.tag">
-    <field name="name">P.820. Uzkrājumi pensijām un tamlīdzīgām saistībām</field>
+    <field name="name">P.820. Savings for pensions and similar liabilities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_830" model="account.account.tag">
-    <field name="name">P.830. Uzkrājumi paredzamajiem nodokļiem</field>
+    <field name="name">P.830. Provisions for estimated taxes</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_840" model="account.account.tag">
-    <field name="name">P.840. Citi uzkrājumi</field>
+    <field name="name">P.840. Other provisions</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_860" model="account.account.tag">
-    <field name="name">P.860. Ilgtermiņa kreditori:</field>
+    <field name="name">P.860. Non-current creditors:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_870" model="account.account.tag">
-    <field name="name">P.870. Aizņēmumi pret obligācijām</field>
+    <field name="name">P.870. Borrowing against bonds</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_880" model="account.account.tag">
-    <field name="name">P.880. Akcijās pārvēršamie aizņēmumi</field>
+    <field name="name">P.880. Loans convertible into shares</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_890" model="account.account.tag">
-    <field name="name">P.890. Aizņēmumi no kredītiestādēm</field>
+    <field name="name">P.890. Loans from credit institutions</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_900" model="account.account.tag">
-    <field name="name">P.900. Citi aizņēmumi</field>
+    <field name="name">P.900. Other loans</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_910" model="account.account.tag">
-    <field name="name">P.910. No pircējiem saņemtie avansi</field>
+    <field name="name">P.910. Advances received from customers</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_920" model="account.account.tag">
-    <field name="name">P.920. Parādi piegādātājiem un darbuzņēmējiem</field>
+    <field name="name">P.920. Creditors (debts to suppliers and contractors)</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_930" model="account.account.tag">
-    <field name="name">P.930. Maksājamie vekseļi</field>
+    <field name="name">P.930. Promissory notes payable</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_940" model="account.account.tag">
-    <field name="name">P.940. Parādi radniecīgajām sabiedrībām</field>
+    <field name="name">P.940. Debts to related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_950" model="account.account.tag">
-    <field name="name">P.950. Parādi asociētajām sabiedrībām</field>
+    <field name="name">P.950. Debts to associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_960" model="account.account.tag">
-    <field name="name">P.960. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas</field>
+    <field name="name">P.960. Taxes and compulsory national social insurance contributions</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_980" model="account.account.tag">
-    <field name="name">P.980. Pārējie kreditori</field>
+    <field name="name">P.980. Other creditors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_990" model="account.account.tag">
     <field name="name">P.990. Nākamo periodu ieņēmumi</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
-  <record id="account_account_tag_p_990" model="account.account.tag">
-    <field name="name">P.1000. Neizmaksātās dividendes</field>
+  <record id="account_account_tag_p_1000" model="account.account.tag">
+    <field name="name">P.1000. Unpaid dividends</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1020" model="account.account.tag">
-    <field name="name">P.1020. Īstermiņa kreditori:</field>
+    <field name="name">P.1020. Current creditors:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1030" model="account.account.tag">
-    <field name="name">P.1030. Aizņēmumi pret obligācijām</field>
+    <field name="name">P.1030. Borrowing against bonds</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1040" model="account.account.tag">
-    <field name="name">P.1040. Akcijās pārvēršamie aizņēmumi</field>
+    <field name="name">P.1040. Loans convertible into shares</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1050" model="account.account.tag">
-    <field name="name">P.1050. Aizņēmumi no kredītiestādēm</field>
+    <field name="name">P.1050. Loans from credit institutions</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1060" model="account.account.tag">
-    <field name="name">P.1060. Citi aizņēmumi</field>
+    <field name="name">P.1060. Other loans</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1070" model="account.account.tag">
-    <field name="name">P.1070. No pircējiem saņemtie avansi</field>
+    <field name="name">P.1070. Advances received from buyers</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1080" model="account.account.tag">
-    <field name="name">P.1080. Parādi piegādātājiem un darbuzņēmējiem</field>
+    <field name="name">P.1080. Creditors (debts to suppliers and contractors)</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1090" model="account.account.tag">
-    <field name="name">P.1090. Maksājamie vekseļi</field>
+    <field name="name">P.1090. Promissory notes payable</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1100" model="account.account.tag">
-    <field name="name">P.1100. Parādi radniecīgajām sabiedrībām</field>
+    <field name="name">P.1100. Debts to related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1110" model="account.account.tag">
-    <field name="name">P.1110. Parādi asociētajām sabiedrībām</field>
+    <field name="name">P.1110. Debts to associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1120" model="account.account.tag">
-    <field name="name">P.1120. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas</field>
+    <field name="name">P.1120. Taxes and compulsory national social insurance contributions</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1130" model="account.account.tag">
-    <field name="name">P.1130. Pārējie kreditori</field>
+    <field name="name">P.1130. Other creditors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1140" model="account.account.tag">
-    <field name="name">P.1140. Nākamo periodu ieņēmumi</field>
+    <field name="name">P.1140. Deferred income</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1150" model="account.account.tag">
-    <field name="name">P.1150. Neizmaksātās dividendes</field>
+    <field name="name">P.1150. Unpaid dividends</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1160" model="account.account.tag">
-    <field name="name">P.1160. Uzkrātās saistības</field>
+    <field name="name">P.1160. Accrued liabilities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_p_1170" model="account.account.tag">
-    <field name="name">P.1170. Atvasinātie finanšu instrumenti</field>
+    <field name="name">P.1170. Derivative financial instruments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_10" model="account.account.tag">
-    <field name="name">PZA1.10. Neto apgrozījums</field>
+    <field name="name">PZA1.10. Net turnover</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_20" model="account.account.tag">
-    <field name="name">PZA1.20. a) no lauksaimnieciskās darbības</field>
+    <field name="name">PZA1.20. a) from agricultural activities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_25" model="account.account.tag">
-    <field name="name">PZA1.25. b) no sniegtajiem būvniecības pakalpojumiem</field>
+    <field name="name">PZA1.25. b) from construction services</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_30" model="account.account.tag">
-    <field name="name">PZA1.30. c) no citiem pamatdarbības veidiem</field>
+    <field name="name">PZA1.30. c) from other operating activities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_40" model="account.account.tag">
-    <field name="name">PZA1.40. Gatavās produkcijas un nepabeigto ražojumu krājumu izmaiņas</field>
+    <field name="name">PZA1.40. Change in stocks of finished products and work in progress</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_50" model="account.account.tag">
-    <field name="name">PZA1.50. Uz pašu ilgtermiņa ieguldījumiem attiecinātās (kapitalizētās)
-      izmaksas</field>
+    <field name="name">PZA1.50. Costs attributed (capitalised) to own long-term investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_60" model="account.account.tag">
-    <field name="name">PZA1.60. Pārējie saimnieciskās darbības ieņēmumi</field>
+    <field name="name">PZA1.60. Other operating revenue</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_70" model="account.account.tag">
-    <field name="name">PZA1.70. Materiālu izmaksas:</field>
+    <field name="name">PZA1.70. Material costs:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_80" model="account.account.tag">
-    <field name="name">PZA1.80. a) izejvielu un palīgmateriālu izmaksas</field>
+    <field name="name">PZA1.80. a) costs of raw materials and consumables</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_90" model="account.account.tag">
-    <field name="name">PZA1.90. b) pārējās ārējās izmaksas</field>
+    <field name="name">PZA1.90. b) other external costs</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_100" model="account.account.tag">
-    <field name="name">PZA1.100. Personāla izmaksas:</field>
+    <field name="name">PZA1.100. Staff expences:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_110" model="account.account.tag">
-    <field name="name">PZA1.110. a) atlīdzība par darbu</field>
+    <field name="name">PZA1.110. a) remuneration for salary</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_120" model="account.account.tag">
-    <field name="name">PZA1.120. b) pensijas no sabiedrības līdzekļiem</field>
+    <field name="name">PZA1.120. b) pensions from company's funds</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_130" model="account.account.tag">
-    <field name="name">PZA1.130. c) valsts sociālās apdrošināšanas obligātās iemaksas</field>
+    <field name="name">PZA1.130. c) national social security contributions payments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_140" model="account.account.tag">
-    <field name="name">PZA1.140. d) pārējās sociālās nodrošināšanas izmaksas</field>
+    <field name="name">PZA1.140. d) other social security costs</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_150" model="account.account.tag">
-    <field name="name">PZA1.150. Vērtības samazinājuma korekcijas:</field>
+    <field name="name">PZA1.150. Impairment allowances:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_160" model="account.account.tag">
-    <field name="name">PZA1.160. a) pamatlīdzekļu un nemateriālo ieguldījumu vērtības samazinājuma
-      korekcijas</field>
+    <field name="name">PZA1.160. a) impairment allowances for property,
+      plant and equipment and intangible assets</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_170" model="account.account.tag">
-    <field name="name">PZA1.170. b) apgrozāmo līdzekļu vērtības samazinājuma korekcijas, ja tās
-      pārsniedz tādas vērtības norakstījumu summas, kuras attiecīgā sabiedrība uzskata par parastām</field>
+    <field name="name">PZA1.170. b) adjustments for impairment of current assets
+      to the extent that they exceed amounts for write-downs that the entity considers to be normal</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_180" model="account.account.tag">
-    <field name="name">PZA1.180. Pārējās saimnieciskās darbības izmaksas</field>
+    <field name="name">PZA1.180. Miscellaneous expenses</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_190" model="account.account.tag">
-    <field name="name">PZA1.190. Ieņēmumi no līdzdalības:</field>
+    <field name="name">PZA1.190. Income from participations:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_200" model="account.account.tag">
-    <field name="name">PZA1.200. a) radniecīgo sabiedrību kapitālā</field>
+    <field name="name">PZA1.200. a) in the capital of related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_210" model="account.account.tag">
-    <field name="name">PZA1.210. b) asociēto sabiedrību kapitālā</field>
+    <field name="name">b) in the capital of associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_220" model="account.account.tag">
-    <field name="name">PZA1.220. c) citu sabiedrību kapitālā</field>
+    <field name="name">PZA1.220. c) in the share capital of other companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_230" model="account.account.tag">
-    <field name="name">PZA1.230. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši
-      ilgtermiņa finanšu ieguldījumus</field>
+    <field name="name">PZA1.230. Proceeds from other securities and loans constituting long-term
+      financial investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_240" model="account.account.tag">
-    <field name="name">PZA1.240. a) no radniecīgajām sabiedrībām</field>
+    <field name="name">PZA1.240. a) from related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_250" model="account.account.tag">
-    <field name="name">PZA1.250. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no
-      vērtspapīriem un citiem ilgtermiņa debitoriem</field>
+    <field name="name">PZA1.250. b) from associates and other companies, and from securities and
+      other long-term debtors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_260" model="account.account.tag">
-    <field name="name">PZA1.260. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi</field>
+    <field name="name">PZA1.260. Other interest and similar revenue</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_270" model="account.account.tag">
-    <field name="name">PZA1.270. a) no radniecīgajām sabiedrībām</field>
+    <field name="name">PZA1.270. a) from related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_280" model="account.account.tag">
-    <field name="name">PZA1.280. b) no citām personām.</field>
+    <field name="name">PZA1.280. b) from other persons</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_290" model="account.account.tag">
-    <field name="name">PZA1.290. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma
-      korekcijas</field>
+    <field name="name">PZA1.290. Impairment allowances on long-term and short-term financial investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_300" model="account.account.tag">
-    <field name="name">PZA1.300. Procentu maksājumi un tamlīdzīgas izmaksas</field>
+    <field name="name">PZA1.300. Interest and similar costs</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_310" model="account.account.tag">
-    <field name="name">PZA1.310. a) radniecīgajām sabiedrībām</field>
+    <field name="name">PZA1.310. a) related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_320" model="account.account.tag">
-    <field name="name">PZA1.320. b) citām personām</field>
+    <field name="name">PZA1.320. b) other persons</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_330" model="account.account.tag">
-    <field name="name">PZA1.330. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa</field>
+    <field name="name">PZA1.330. Profit or loss before corporate tax</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_340" model="account.account.tag">
-    <field name="name">PZA1.340. Uzņēmumu ienākuma nodoklis par pārskata gadu</field>
+    <field name="name">PZA1.340. Corporate income tax for the current year</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_350" model="account.account.tag">
-    <field name="name">PZA1.350. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas</field>
+    <field name="name">PZA1.350. Profit or loss after corporate tax</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_370" model="account.account.tag">
-    <field name="name">PZA1.370. Ārkārtas dividendes</field>
+    <field name="name">PZA1.370. Extraordinary dividends</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza1_380" model="account.account.tag">
-    <field name="name">PZA1.380. Pārskata gada peļņa vai zaudējumi</field>
+    <field name="name">PZA1.380. Profit or loss for the current year</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_10" model="account.account.tag">
-    <field name="name">PZA2.10. Neto apgrozījums</field>
+    <field name="name">PZA2.10. Net turnover</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_20" model="account.account.tag">
-    <field name="name">PZA2.20. a) no lauksaimnieciskās darbības</field>
+    <field name="name">PZA1.20. a) from agricultural activities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_25" model="account.account.tag">
-    <field name="name">PZA2.25. b) no sniegtajiem būvniecības pakalpojumiem</field>
+    <field name="name">PZA2.25. b) from construction services</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_30" model="account.account.tag">
-    <field name="name">PZA2.30. c) no citiem pamatdarbības veidiem</field>
+    <field name="name">PZA2.30. c) from other operating activities</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_40" model="account.account.tag">
-    <field name="name">PZA2.40. Pārdotās produkcijas ražošanas pašizmaksa, pārdoto preču vai sniegto
-      pakalpojumu iegādes izmaksas</field>
+    <field name="name"> PZA2.40. Cost of production of goods sold, cost of goods sold
+      or cost of services rendered</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_50" model="account.account.tag">
-    <field name="name">PZA2.50. Bruto peļņa vai zaudējumi</field>
+    <field name="name">PZA2.50. Gross profit or loss</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_60" model="account.account.tag">
-    <field name="name">PZA2.60. Pārdošanas izmaksas</field>
+    <field name="name">PZA2.60. Sales expenses</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_70" model="account.account.tag">
-    <field name="name">PZA2.70. Administrācijas izmaksas</field>
+    <field name="name">PZA2.70. Administration costs</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_80" model="account.account.tag">
-    <field name="name">PZA2.80. Pārējie saimnieciskās darbības ieņēmumi</field>
+    <field name="name">PZA2.80. Other operating revenue</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_90" model="account.account.tag">
-    <field name="name">PZA2.90. Pārējās saimnieciskās darbības izmaksas</field>
+    <field name="name">PZA2.90. Miscellaneous expenses</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_100" model="account.account.tag">
-    <field name="name">PZA2.100. Ieņēmumi no līdzdalības:</field>
+    <field name="name">PZA2.100. Income from participations:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_110" model="account.account.tag">
-    <field name="name">PZA2.110. a) radniecīgo sabiedrību kapitālā</field>
+    <field name="name">PZA2.110. a) in the capital of related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_120" model="account.account.tag">
-    <field name="name">PZA2.120. b) asociēto sabiedrību kapitālā</field>
+    <field name="name">PZA2.120. b) in the capital of associated companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_130" model="account.account.tag">
-    <field name="name">PZA2.130. c) citu sabiedrību kapitālā</field>
+    <field name="name">PZA2.130. c) in the share capital of other companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_140" model="account.account.tag">
-    <field name="name">PZA2.140. Ieņēmumi no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši
-      ilgtermiņa finanšu ieguldījumus</field>
+    <field name="name">PZA2.140. Revenue from other securities and loans constituting long-term
+      financial investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_150" model="account.account.tag">
-    <field name="name">PZA2.150. a) no radniecīgajām sabiedrībām</field>
+    <field name="name">PZA2.150. a) from related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_160" model="account.account.tag">
-    <field name="name">PZA2.160. b) no asociētajām sabiedrībām un citām sabiedrībām, kā arī no
-      vērtspapīriem un citiem ilgtermiņa debitoriem</field>
+    <field name="name">PZA2.160. b) from associates and other companies, and from securities and
+      other long-term debtors</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_170" model="account.account.tag">
-    <field name="name">PZA2.170. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi:</field>
+    <field name="name">PZA2.170. Other interest and similar revenue:</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_180" model="account.account.tag">
-    <field name="name">PZA2.180. a) no radniecīgajām sabiedrībām</field>
+    <field name="name">PZA2.180. a) from related companies</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_190" model="account.account.tag">
-    <field name="name">PZA2.190. b) no citām personām</field>
+    <field name="name">PZA2.190. b) from other persons</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_200" model="account.account.tag">
-    <field name="name">PZA2.200. Ilgtermiņa un īstermiņa finanšu ieguldījumu vērtības samazinājuma
-      korekcijas</field>
+    <field name="name">PZA2.200. Impairment allowances on long-term and short-term
+      financial investments</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_210" model="account.account.tag">
-    <field name="name">PZA2.210. Procentu maksājumi un tamlīdzīgas izmaksas</field>
+    <field name="name">PZA2.210. Interest and similar costs</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_220" model="account.account.tag">
     <field name="name">PZA2.220. a) radniecīgajām sabiedrībām</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_230" model="account.account.tag">
-    <field name="name">PZA2.230. b) citām personām</field>
+    <field name="name">PZA2.230. b) from other persons</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_240" model="account.account.tag">
-    <field name="name">PZA2.240. Peļņa vai zaudējumi pirms uzņēmumu ienākuma nodokļa</field>
+    <field name="name">PZA2.240. Profit or loss before corporate tax</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_250" model="account.account.tag">
-    <field name="name">PZA2.250. Uzņēmumu ienākuma nodoklis par pārskata gadu</field>
+    <field name="name">PZA2.250. Corporate income tax for the current year</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_260" model="account.account.tag">
-    <field name="name">PZA2.260. Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas</field>
+    <field name="name">PZA2.260. Profit or loss after corporate tax</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_270" model="account.account.tag">
-    <field name="name">PZA2.270. Ieņēmumi vai izmaksas no atliktā nodokļa aktīvu vai saistību
-      atlikumu izmaiņām</field>
+    <field name="name">PZA2.270. Income or expenses from changes in deferred tax asset or
+      liability balances</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_280" model="account.account.tag">
-    <field name="name">PZA2.280. Ārkārtas dividendes</field>
+    <field name="name">PZA2.280. Extraordinary dividends</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <record id="account_account_tag_pza2_290" model="account.account.tag">
-    <field name="name">PZA2.290. Pārskata gada peļņa vai zaudējumi.</field>
+    <field name="name">PZA2.290. Profit or loss for the current year</field>
     <field name="applicability">accounts</field>
-    <field name="color" eval="8" />
+    <field name="color" eval="8"/>
   </record>
 
   <!-- Tags for taxes -->
 
   <!-- VAT report 1.1. types -->
 
+  <!-- VAT 21/12/5% purchase, Row 62 + VAT 1.1 -->
   <!-- ieģāde ar PVN 21/12/5% iegādi, Rinda 62 + PVN 1.1. -->
   <record id="VAT_11SA_tag" model="account.account.tag">
-    <field name="name">Summa 1.1A</field>
+    <field name="name">Sum 1.1A</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PA_tag" model="account.account.tag">
-    <field name="name">PVN 1.1A</field>
+    <field name="name">VAT 1.1A</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Importa operācija  Rinda 61 + PVN 1.1.-->
+  <!-- Import operation Line 61 + VAT 1.1 -->
+  <!-- Importa operācija  Rinda 61 + PVN 1.1. -->
   <record id="VAT_11SI_tag" model="account.account.tag">
-    <field name="name">Summa 1.1I</field>
+    <field name="name">Sum 1.1I</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PI_tag" model="account.account.tag">
-    <field name="name">PVN 1.1I</field>
+    <field name="name">VAT 1.1I</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Vieglo transportlīdzekļu iegāde un imports.-->
+    <!-- Purchase and import of light vehicles -->
+  <!-- Vieglo transportlīdzekļu iegāde un imports. -->
   <record id="VAT_11SC_tag" model="account.account.tag">
-    <field name="name">Summa 1.1C</field>
+    <field name="name">Sum 1.1C</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PC_tag" model="account.account.tag">
-    <field name="name">PVN 1.1C</field>
+    <field name="name">VAT 1.1C</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Mantas iegāde no ZTI rīkotājā izsolē.-->
+  <!-- Acquisition of property from Court bailiff at auction -->
+  <!-- Mantas iegāde no ZTI rīkotājā izsolē. -->
   <record id="VAT_11SM_tag" model="account.account.tag">
-    <field name="name">Summa 1.1M</field>
+    <field name="name">Sum 1.1M</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PM_tag" model="account.account.tag">
-    <field name="name">PVN 1.1M</field>
+    <field name="name">VAT 1.1M</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Lauksaimniekam izmaksātā kompensācija-->
+  <!-- Compensation paid to the farmer -->
+  <!-- Lauksaimniekam izmaksātā kompensācija -->
   <record id="VAT_11SK_tag" model="account.account.tag">
-    <field name="name">Summa 1.1K</field>
+    <field name="name">Sum 1.1K</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PK_tag" model="account.account.tag">
-    <field name="name">PVN 1.1K</field>
+    <field name="name">VAT 1.1K</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Zaudētie parādi-->
+  <!-- Receivables forgone -->
+  <!-- Zaudētie parādi -->
   <record id="VAT_11SZ_tag" model="account.account.tag">
-    <field name="name">Summa 1.1Z</field>
+    <field name="name">Sum 1.1Z</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PZ_tag" model="account.account.tag">
-    <field name="name">PVN 1.1Z</field>
+    <field name="name">VAT 1.1Z</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Darījumi ar kokmateriāliem-->
+  <!-- Timber transactions -->
+  <!-- Darījumi ar kokmateriāliem -->
   <record id="VAT_11SR1_tag" model="account.account.tag">
-    <field name="name">Summa 1.1R1</field>
+    <field name="name">Sum 1.1R1</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR1_tag" model="account.account.tag">
-    <field name="name">PVN 1.1R1</field>
+    <field name="name">VAT 1.1R1</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Darījumi ar metāllužniem-->
+  <!-- Transactions in metal products -->
+  <!-- Darījumi ar metāllužniem -->
   <record id="VAT_11SR2_tag" model="account.account.tag">
-    <field name="name">Summa 1.1R2</field>
+    <field name="name">Sum 1.1R2</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR2_tag" model="account.account.tag">
-    <field name="name">PVN 1.1R2</field>
+    <field name="name">VAT 1.1R2</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
-
-  <!-- Būvniecības pakalpojumi-->
+  <!-- Construction (building) services -->
+  <!-- Būvniecības pakalpojumi -->
   <record id="VAT_11SR3_tag" model="account.account.tag">
-    <field name="name">Summa 1.1R3</field>
+    <field name="name">Sum 1.1R3</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR3_tag" model="account.account.tag">
-    <field name="name">PVN 1.1R3</field>
+    <field name="name">VAT 1.1R3</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- Mobīlie telefoni, elektronika-->
+  <!-- Mobile phones, electronics -->
+  <!-- Mobīlie telefoni, elektronika -->
   <record id="VAT_11SR4_tag" model="account.account.tag">
-    <field name="name">Summa 1.1 R4</field>
+    <field name="name">Sum 1.1 R4</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR4_tag" model="account.account.tag">
-    <field name="name">PVN 1.1 R4</field>
+    <field name="name">VAT 1.1 R4</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!-- graudaugu un tehnisko kultūru iegāde-->
+  <!-- purchase of cereals and industrial crops -->
+  <!-- graudaugu un tehnisko kultūru iegāde -->
   <record id="VAT_11SR5_tag" model="account.account.tag">
-    <field name="name">Summa 1.1 R5</field>
+    <field name="name">Sum 1.1 R5</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR5_tag" model="account.account.tag">
-    <field name="name">PVN 1.1 R5</field>
+    <field name="name">VAT 1.1 R5</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--dargmetālu
-  iegāde-->
+  <!-- Purchase of precious metals -->
+  <!-- dargmetālu iegāde -->
   <record id="VAT_11SR6_tag" model="account.account.tag">
-    <field name="name">Summa 1.1 R6</field>
+    <field name="name">Sum 1.1 R6</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR6_tag" model="account.account.tag">
-    <field name="name">PVN 1.1 R6</field>
+    <field name="name">VAT 1.1 R6</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--metāllužņu
-  iegāde-->
+  <!-- Purchase of metal -->
+  <!-- metāllužņu iegāde -->
   <record id="VAT_11SR7_tag" model="account.account.tag">
-    <field name="name">Summa 1.1 R7</field>
+    <field name="name">Sum 1.1 R7</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11PR7_tag" model="account.account.tag">
-    <field name="name">PVN 1.1 R7</field>
+    <field name="name">VAT 1.1 R7</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--no
-  3 valstu iegādātie pakalpojumi 54+64+PVN 1.1. -->
+  <!-- services purchased from 3 countries 54+64+VAT 1.1 -->
+  <!-- no 3 valstu iegādātie pakalpojumi 54+64+PVN 1.1. -->
   <record id="VAT_11S3CR_tag" model="account.account.tag">
-    <field name="name">Summa 1.1 3.valstu pakalpojumi</field>
+    <field name="name">Sum 1.1 3.countries services</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_11P3CR_tag" model="account.account.tag">
-    <field name="name">PVN 1.1 3.valstu pakalpojum</field>
+    <field name="name">VAT 1.1 3.country services</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <!-- VAT report 1.2. types -->
 
-  <!--No
-  ES dalībvalstīm saņemtās preces un pakalpojumi (standartlikme)-->
+  <!-- Goods and services received from EU countries (standard rate) -->
+  <!-- No ES dalībvalstīm saņemtās preces un pakalpojumi (standartlikme) -->
   <record id="VAT_5012SG_tag" model="account.account.tag">
-    <field name="name">Summa 1.2 21% preces</field>
+    <field name="name">Sum 1.2 21% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_5012PG_tag" model="account.account.tag">
-    <field name="name">PVN 1.2 21% preces</field>
+    <field name="name">VAT 1.2 21% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--preces
-  iegāde 12%-->
+  <!-- purchase of an item 12% -->
+  <!--preces iegāde 12%-->
   <record id="VAT_51SG_tag" model="account.account.tag">
-    <field name="name">Summa 1.2 12% preces</field>
+    <field name="name">Sum 1.2 12% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_51PG_tag" model="account.account.tag">
-    <field name="name">PVN 1.2 12% preces</field>
+    <field name="name">VAT 1.2 12% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--preces
-  iegāde 5%-->
+  <!-- purchase of an item 5% -->
+  <!-- preces iegāde 5% -->
   <record id="VAT_51112SG_tag" model="account.account.tag">
-    <field name="name">Summa 1.2 5% preces</field>
+    <field name="name">Sum 1.2 5% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_51112PG_tag" model="account.account.tag">
-    <field name="name">PVN 1.2 5% preces </field>
+    <field name="name">VAT 1.2 5% goods</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--pakalpojumu
-  iegāde-->
+  <!-- purchase of services -->
+  <!-- pakalpojumu iegāde -->
   <record id="VAT_5012SS_tag" model="account.account.tag">
-    <field name="name">Summa 1.2 pakalpojumi</field>
+    <field name="name">Sum 1.2 services</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_5012PS_tag" model="account.account.tag">
-    <field name="name">PVN 1.2 pakalpojumi</field>
+    <field name="name">VAT 1.2 services</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--preces
-  iegāde saskaņā ar 9.panta 3.puktu-->
+  <!-- purchase of goods under Article 9(3) -->
+  <!-- preces iegāde saskaņā ar 9.panta 3.puktu -->
   <record id="VAT_12SС_tag" model="account.account.tag">
-    <field name="name">Summa 1.2 9.punkts</field>
+    <field name="name">Sum 1.2 9.paragraph</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_12PС_tag" model="account.account.tag">
-    <field name="name">PVN 1.2 9.punkts</field>
+    <field name="name">VAT 1.2 9.paragraph</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <!-- VAT report 1.3. types -->
 
-  <!--Ar
-  PVN standartlikmi apliekamie darījumi / preces realizācija 41r+1.3, 21%-->
+  <!-- Standard VAT rate transactions / sales of goods 41r+1.3, 21% -->
+  <!-- Ar PVN standartlikmi apliekamie darījumi / preces realizācija 41r+1.3, 21% -->
   <record id="VAT_41S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 41r</field>
+    <field name="name">Sum 1.3 41r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_41P_tag" model="account.account.tag">
-    <field name="name">PVN 1.3 41r</field>
+    <field name="name">VAT 1.3 41r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--Iekšzemē
-  veiktie darījumi, par kuriem nodokli maksā preču vai pakalpojumu saņēmējs / preces realizācija
-  411r+1.3, reversa-->
+  <!-- Domestic transactions on which the recipient of the goods or services pays the tax
+  / disposal of goods 411r+1.3, reverse -->
+  <!-- Iekšzemē veiktie darījumi, par kuriem nodokli maksā preču vai pakalpojumu saņēmējs
+  / preces realizācija   411r+1.3, reversa -->
   <record id="VAT_411S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 411r Reversa</field>
+    <field name="name">Sum 1.3 411r reverse</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--Ar
-  PVN 12 % likmi apliekamie darījumi / preces realizācija 42r+1.3, 12% (samazināta 1 likme)-->
+  <!-- Transactions / sales of goods subject to VAT at 12% 42r+1.3,
+  12% (reduced by 1 rate) -->
+  <!-- Ar PVN 12 % likmi apliekamie darījumi / preces realizācija 42r+1.3,
+  12% (samazināta 1 likme) -->
   <record id="VAT_42S_tag" model="account.account.tag">
     <field name="name">Summa 1.3 42r</field>
     <field name="applicability">taxes</field>
@@ -1309,149 +1320,173 @@
   </record>
 
   <record id="VAT_42P_tag" model="account.account.tag">
-    <field name="name">PVN 1.3 42r</field>
+    <field name="name">VAT 1.3 42r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--Ar
-  PVN 5 % likmi apliekamie darījumi / preces realizācija 42'1r+1.3, 5% (samazināta 2 likme)-->
+  <!-- Transactions / sales of goods subject to VAT at 5% 42'1r+1.3,
+  5% (reduced rate 2) -->
+  <!-- Ar PVN 5 % likmi apliekamie darījumi / preces realizācija 42'1r+1.3,
+  5% (samazināta 2 likme) -->
   <record id="VAT_421S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 421r</field>
+    <field name="name">Sum 1.3 421r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <record id="VAT_421P_tag" model="account.account.tag">
-    <field name="name">PVN 1.3 421r</field>
+    <field name="name">VAT 1.3 421r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--darījumi,
-  kas veikti brīvostās un SEZ-->
+  <!-- Transactions carried out in ports and SEZs -->
+  <!-- darījumi, kas veikti brīvostās un SEZ -->
   <record id="VAT_44S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 44r</field>
+    <field name="name">Sum 1.3 44r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- outside communities
+  deliveries of goods in customs warehouses and free zones-->
   <!--ārpuskopienas
   preču piegādes muitas noliktavās un brīvajās zonās-->
   <record id="VAT_4346S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 46r</field>
+    <field name="name">Sum 1.3 46r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--uz
-  ES dalībvalstīm piegādātie jaunie transportlīdzekļi-->
+  <!-- New vehicles delivered to EU Member States -->
+  <!-- uz ES dalībvalstīm piegādātie jaunie transportlīdzekļi-->
   <record id="VAT_4347S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 47r</field>
+    <field name="name">Sum 1.3 47r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--par
+   <!-- for
+  services rendered (0% VAT, for Import/Export/Transit transactions) -->
+  <!-- par
   sniegtajiem pakalpojumiem (0% PVN, darījumiem Import/Export/tranzīts)-->
   <record id="VAT_4348S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 48r</field>
+    <field name="name">Sum 1.3 48r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--eksportētās
-  preces)-->
+  <!-- exported goods-->
+  <!--eksportētās preces-->
   <record id="VAT_43481S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 481r</field>
+    <field name="name">Sum 1.3 481r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--Citās
+   <!-- Other
+  Transactions in other countries / 482+VAT 1.3 transactions-->
+  <!-- Citās
   valstīs veiktie darījumi / 482+PVN 1.3 darījumi-->
   <record id="VAT_482S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 482r</field>
+    <field name="name">Sum 1.3 482r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--Ar
-  PVN neapliekamie darījumi-->
+  <!-- With VAT-exempt transactions-->
+  <!--Ar PVN neapliekamie darījumi-->
   <record id="VAT_49S_tag" model="account.account.tag">
-    <field name="name">Summa 1.3 49r</field>
+    <field name="name">Sum 1.3 49r</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
   <!-- VAT report PVN2. types -->
 
-  <!--preces,
+  <!-- goods,
+  supplied to taxable persons established in other EU Member States
+(not to be used for transactions declared under code "E" or code "N"); -->
+  <!-- preces,
   kas ir piegādātas citās ES dalībvalstīs reģistrētajām apliekamajām personām
 (nelieto par darījumiem, kurus deklarē ar kodu “E” vai kodu “N”);-->
   <record id="VAT_2G_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 G</field>
+    <field name="name">Sum VAT2 G</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- services,
+  supplied to taxable persons established in other EU Member States;-->
   <!--pakalpojumi,
   kas ir sniegti citās ES dalībvalstīs reģistrētajām apliekamajām personām;-->
   <record id="VAT_2P_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 P</field>
+    <field name="name">Sum VAT2 P</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--likuma
+  <!-- of the law
+  Transactions referred to in the fourth paragraph of Article 16-->
+  <!-- likuma
   16.panta ceturtajā daļā minētie darījumi-->
   <record id="VAT_2S_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 S</field>
+    <field name="name">Sum VAT2 S</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--preču
+   <!-- goods
+  delivery in accordance with the fifth paragraph of Article 45 of the Law-->
+  <!-- preču
   piegāde saskaņā ar likuma 45.panta piekto daļu-->
   <record id="VAT_2C_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 C</field>
+    <field name="name">Sum VAT2 C</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
-  <!--preču
+ <!-- goods
+  the supply within the territory of the European Union at the time referred to in Article 31.1 of the Law, if
+  the delivery of goods to a warehouse in another Member State; -->
+  <!-- preču
   piegāde Eiropas Savienības teritorijā likuma 31.1 pantā noteiktajā brīdī, ja tiek
-veikta preču piegāde uz noliktavu citā dalībvalstī; -->
+  veikta preču piegāde uz noliktavu citā dalībvalstī; -->
   <record id="VAT_2N_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 N</field>
+    <field name="name">Sum VAT2 N</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- dispatch of goods; -->
   <!-- preču nosūtīšana; -->
   <record id="VAT_2E1_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 E1</field>
+    <field name="name">Sum VAT2 E1</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- - return of goods; -->
   <!-- – preču atpakaļ nosūtīšana; -->
   <record id="VAT_2E2_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 E2</field>
+    <field name="name">Sum VAT2 E2</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- - replacement of the original consignee; -->
   <!-- – sākotnējā preču saņēmēja aizvietošana; -->
   <record id="VAT_2E3_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 E3</field>
+    <field name="name">Sum VAT2 E3</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
 
+  <!-- - partial replacement of the original consignee; -->
   <!-- – sākotnējā preču saņēmēja daļēja aizvietošana; -->
   <record id="VAT_2E4_tag" model="account.account.tag">
-    <field name="name">Summa PVN2 E4</field>
+    <field name="name">Sum VAT2 E4</field>
     <field name="applicability">taxes</field>
     <field name="country_id" ref="base.lv" />
   </record>
