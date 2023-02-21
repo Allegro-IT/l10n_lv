@@ -5,7 +5,7 @@
   <!-- 21% VAT, VAT report r41 + r51 + PVN 1.1. -->
   <record id="account_tax_template_sales_21_vat41S" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
-    <field name="name">Sales 12% in Latvia</field>
+    <field name="name">Sales 21% in Latvia</field>
     <field name="description">21% VAT</field>
     <field name="type_tax_use">sale</field>
     <field name="amount">21.0</field>
@@ -138,7 +138,7 @@
         ]" />
   </record>
 
-  <!--  VAT, VAT report 0% pakalpojumi -->
+  <!--  VAT, VAT report 0% services -->
   <record id="account_tax_template_sales_VAT_4348S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Sale 0% 48r in Latvia</field>
@@ -169,7 +169,38 @@
         ]" />
   </record>
 
-  <!--  VAT, VAT report 0% pakalpojumi -->
+   <!--  VAT, VAT report 0% goods export -->
+  <record id="account_tax_template_sales_VAT_481G_tag" model="account.tax.template">
+    <field name="chart_template_id" ref="account_chart_template_latvia" />
+    <field name="name">Export goods 0% 48.1r</field>
+    <field name="description">0% VAT</field>
+    <field name="type_tax_use">sale</field>
+    <field name="amount">0.0</field>
+    <field name="tax_group_id" ref="tax_group_vat_exempt" />
+    <field name="amount_type">percent</field>
+    <field name="invoice_repartition_line_ids"
+      eval="[(5, 0, 0),
+            (0,0, {
+              'repartition_type': 'base',
+              'tag_ids': [ref('VAT_481G_tag')],
+            }),
+           (0,0, {
+              'repartition_type': 'tax',
+            }),
+        ]" />
+    <field name="refund_repartition_line_ids"
+      eval="[(5, 0, 0),
+            (0,0, {
+              'repartition_type': 'base',
+                 'tag_ids': [ref('VAT_481G_tag')],
+            }),
+           (0,0, {
+              'repartition_type': 'tax',
+            }),
+        ]" />
+  </record>
+
+  <!--  VAT, VAT report 0% services -->
   <record id="account_tax_template_sales_VAT_482S_tag" model="account.tax.template">
     <field name="chart_template_id" ref="account_chart_template_latvia" />
     <field name="name">Services Ex-VAT 48.2r in Latvia</field>
