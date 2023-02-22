@@ -957,8 +957,18 @@ msgstr "Kultūras un sporta iestāžu un pasākumu izdevumi"
 
 #. module: l10n_lv
 #: model:account.fiscal.position.template,name:l10n_lv.account_fiscal_position_template_lv
-msgid "Latvian"
-msgstr "Latvijas"
+msgid "Latvian VAT payer"
+msgstr "Latvijas PVN maksātājs"
+
+#. module: l10n_lv
+#: model:account.fiscal.position.template,name:l10n_lv.account_fiscal_position_template_eu
+msgid "EU VAT payer"
+msgstr "ES PVN maksātājs"
+
+#. module: l10n_lv
+#: model:account.fiscal.position.template,name:l10n_lv.account_fiscal_position_template_3c
+msgid "Company outside EU"
+msgstr "Uzņēmums ārpus ES"
 
 #. module: l10n_lv
 #: model:account.chart.template,name:l10n_lv.account_chart_template_latvia

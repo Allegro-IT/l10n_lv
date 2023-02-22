@@ -3,7 +3,7 @@
     <!-- Account Fiscal Position Template -->
     <!--For Latvian Vat/non VAT tax subjects-->
     <record id="account_fiscal_position_template_lv" model="account.fiscal.position.template">
-        <field name="name">Latvian</field>
+        <field name="name">Latvian VAT payer</field>
         <field name="auto_apply" eval="True"/>
         <field name="vat_required" eval="True"/>
         <field name="country_id" ref="base.lv"/>
@@ -13,7 +13,7 @@
 
     <!--For all EUR VAT members-->
     <record id="account_fiscal_position_template_eu" model="account.fiscal.position.template">
-        <field name="name">EU VAT</field>
+        <field name="name">EU VAT payer</field>
         <field name="auto_apply" eval="True"/>
         <field name="vat_required" eval="True"/>
         <field name="country_group_id" ref="base.europe"/>
@@ -23,7 +23,7 @@
 
     <!--For all 3th countries members-->
     <record id="account_fiscal_position_template_3c" model="account.fiscal.position.template">
-        <field name="name">3th country company</field>
+        <field name="name">Company outside EU</field>
         <field name="auto_apply" eval="True"/>
         <field name="chart_template_id" ref="account_chart_template_latvia"/>
         <field name="sequence" eval="30"/>
