@@ -38,7 +38,7 @@
 
     <record id="account_fiscal_position_tax_template_eu_2" model="account.fiscal.position.tax.template">
         <field name="position_id" ref="account_fiscal_position_template_eu"/>
-        <field name="tax_src_id" ref="account_tax_template_sales_VAT_411S_tag"/>
+        <field name="tax_src_id" ref="account_tax_template_sales_VAT_411S"/>
         <field name="tax_dest_id" ref="account_tax_template_sales_VAT_2G_tag"/>
     </record>
 
@@ -70,7 +70,7 @@
 
     <record id="account_fiscal_position_tax_template_3c_3" model="account.fiscal.position.tax.template">
         <field name="position_id" ref="account_fiscal_position_template_3c"/>
-        <field name="tax_src_id" ref="account_tax_template_sales_VAT_411S_tag"/>
+        <field name="tax_src_id" ref="account_tax_template_sales_VAT_411S"/>
         <field name="tax_dest_id" ref="account_tax_template_sales_VAT_481G_tag"/>
     </record>
 
@@ -79,5 +79,5 @@
         <field name="tax_src_id" ref="account_tax_template_sales_21_vat41S"/>
         <field name="tax_dest_id" ref="account_tax_template_sales_VAT_481G_tag"/>
     </record>
-    
+
 </odoo>

@@ -1,6 +1,6 @@
 {
     'name': "Latvia - Accounting",
-    'version': '16.0.0.8',
+    'version': '16.0.0.9',
     'description': """
         Chart of Accounts (COA) Template for Latvia's Accounting.
         This module also includes:
@@ -24,13 +24,12 @@
         'base_vat',
     ],
     'data': [
-        'data/account_account_tag_data.xml',
         'data/account_chart_template_data.xml',
         'data/account.account.template.csv',
         'data/account.group.template.csv',
+        "data/vat_tax_report.xml",
         'data/account_chart_template_setup_data.xml',
         'data/res_bank_data_lv.xml',
-        'data/res_bank_data_lt.xml',
         'data/account_tax_group_data.xml',
         'data/account_tax_template_data.xml',
         'data/account_fiscal_position_template_data.xml',
